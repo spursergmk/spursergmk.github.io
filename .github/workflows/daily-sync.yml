@@ -18,6 +18,9 @@ jobs:
   sync-and-publish:
     runs-on: ubuntu-latest
     timeout-minutes: 60
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -50,5 +53,6 @@ jobs:
         with:
           path: dist
       - name: Publish Pages
+        id: deployment
         if: success()
         uses: actions/deploy-pages@v4
