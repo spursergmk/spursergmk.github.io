@@ -40,8 +40,7 @@ The `daily-sync.yml` workflow polls every six hours (09:15, 15:15, 21:15 and 03:
 ## Pages and data boundaries
 
 - Home, Archive, Stats and About are responsive HTML/CSS/JavaScript views. Every archive and timeline playlist link opens its own song-list page.
-- Stats searches artists and styles and groups saved tracks by ISO calendar week (Monday through Sunday). Artist and weekly counts are saved track occurrences; repeat saves count again. Week entries open a page with that week's dated playlists and songs. Style pages use the editable artist tags in `public/data/artist-styles.json`, so the same artist can appear under more than one style.
-- The provider snapshot has no track-level genre field. Style pages are an editorial artist-level index, not official genre metadata for each recording.
+- Stats searches artists and groups saved tracks by ISO calendar week (Monday through Sunday). Artist and weekly counts are saved track occurrences; repeat saves count again. Week entries open a page with that week's dated playlists and songs.
 - Song entries appear only after they have been fetched from the API. Playlists whose names do not contain a valid calendar date are excluded from the public data and all page counts.
 - Repeated songs remain attached to each dated playlist where they were collected.
 - QQ Music cover artwork is referenced remotely from API-provided URLs, not copied into this repository.
