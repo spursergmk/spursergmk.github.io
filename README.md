@@ -33,13 +33,9 @@ On 2026-10-10, the supplied QQ number resolved to the public account `spurser`. 
 
 ## GitHub Pages deployment and daily updates
 
-The workflows in `.github/workflows/` publish the static site and run a daily sync at 09:15 China Standard Time (01:15 UTC). To use them:
+The live site is <https://spursergmk.github.io/>. Its source repository is <https://github.com/spursergmk/spursergmk.github.io>. The `pages.yml` workflow builds `dist/` and publishes it on each push to `main`; the first Pages deployment completed on 2026-10-12.
 
-1. Put this project on a GitHub repository whose default branch is named `main`.
-2. Add a repository secret named `QQ_MUSIC_PROFILE_URL` with the QQ number or a supported public profile URL. The workflow reads this secret for sync; it does not put the numeric identifier into the published data.
-3. In repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**.
-4. Allow GitHub Actions to write repository contents so a successful sync can commit the refreshed snapshot.
-5. Run **Publish spurser.fm** once from the Actions tab. The public URL appears in the deployment job summary.
+The `daily-sync.yml` workflow is scheduled for 09:15 China Standard Time (01:15 UTC). It reads `QQ_MUSIC_PROFILE_URL` from repository secrets when configured; otherwise the sync script uses its public profile share link. The GitHub Actions scheduled sync has not yet been verified end to end. If a sync fails, the previous published snapshot is preserved. No QQ Music password, Cookie or login token is used.
 
 The scheduled workflow fetches the catalogue, commits its snapshot and log, then deploys. If sync fails, it records the failure and keeps the previous published snapshot. No QQ Music password, Cookie or login token is used. GitHub Pages itself requires a GitHub repository; this working folder currently has no Git remote, so no public URL has been created from this environment.
 
