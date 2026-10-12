@@ -1,9 +1,15 @@
-name: Daily QQ Music sync
+name: QQ Music playlist sync
 
 on:
   schedule:
-    - cron: '15 1 * * *'
+    - cron: '15 1,7,13,19 * * *'
   workflow_dispatch:
+    inputs:
+      allow_large_change:
+        description: Allow a reviewed sync to publish a directory with less than half its previous source or dated playlist count
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -30,6 +36,7 @@ jobs:
         id: sync
         env:
           QQ_MUSIC_PROFILE_URL: ${{ secrets.QQ_MUSIC_PROFILE_URL }}
+          ALLOW_LARGE_SYNC_CHANGE: ${{ inputs.allow_large_change || false }}
         run: npm run sync
       - name: Commit snapshot and sync log
         if: always()

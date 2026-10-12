@@ -14,6 +14,8 @@ The [PlaylistOut Public API documentation](https://github.com/LengxiQwQ/playlist
 
 ## Live checks
 
+The first local checks used a misspelled API hostname (`playlistout-api.lengxqwq.com`). The current [PlaylistOut API specification](https://github.com/LengxiQwQ/playlistout/blob/main/docs/API.md) documents `playlistout-api.lengxiqwq.com`; the sync script default now uses that hostname. The entries below preserve the results from the earlier check and do not describe the corrected configuration.
+
 | Check | Result |
 | --- | --- |
 | Profile resolver with the supplied share URL | No API response. Browser navigation reported `ERR_CONNECTION_CLOSED`; the local command-line request could not resolve the API host. |
@@ -43,5 +45,5 @@ The API documentation includes QQ Music artwork URLs in its data contract. The s
 ### Privacy and recurring sync
 
 - The numeric QQ number was used only as the `QQ_MUSIC_PROFILE_URL` process setting for this import. The public snapshot stores the supplied opaque share link instead of the numeric identifier.
-- The daily GitHub Actions workflow now reads `QQ_MUSIC_PROFILE_URL` from a repository secret. Configure that secret to enable future full-directory refreshes; no password, cookie, or login token is needed.
-- This checkout has no Git remote, so the scheduled workflow could not be run here. The standard local `npm run sync` also still encounters `fetch failed` in this runtime; this full import used the sync normalizer and snapshot writer with a working direct request transport.
+- The GitHub Actions workflow reads `QQ_MUSIC_PROFILE_URL` from a repository secret when configured and otherwise uses the public profile share link. It polls every six hours, refreshes every date-named playlist, commits the checked snapshot and deploys Pages in the same run. No password, cookie, or login token is needed.
+- The checked-in snapshot from this import contains 69 date-named playlists and 465 saved track entries. The scheduled workflow had no recorded runs when this automation update began, so automated provider access remains unverified until a GitHub Actions run completes successfully. This local runtime currently cannot resolve the PlaylistOut API host; the full import above used a working direct request transport.

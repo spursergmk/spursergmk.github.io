@@ -9,8 +9,9 @@ const logPath = resolve(root, 'sync-log.jsonl');
 const profileUrl = process.env.QQ_MUSIC_PROFILE_URL || 'https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6';
 const publicProfileUrl = 'https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6';
 const knownPlaylist = { id: '9789171839', name: '26.10.6', trackCount: 13, sourceUrl: 'https://y.qq.com/n/ryqq/playlist/9789171839' };
-const baseUrl = (process.env.PLAYLISTOUT_API_BASE || 'https://playlistout-api.lengxqwq.com').replace(/\/$/, '');
+const baseUrl = (process.env.PLAYLISTOUT_API_BASE || 'https://playlistout-api.lengxiqwq.com').replace(/\/$/, '');
 const requestGapMs = Math.max(0, Number(process.env.PLAYLISTOUT_REQUEST_GAP_MS || 2200));
+const allowLargeSyncChange = process.env.ALLOW_LARGE_SYNC_CHANGE === 'true';
 const sleep = (ms) => new Promise((resolveSleep) => setTimeout(resolveSleep, ms));
 
 async function requestJson(path, params = {}) {
@@ -78,6 +79,16 @@ async function appendLog(entry) {
   await appendFile(logPath, `${JSON.stringify(entry)}\n`, 'utf8');
 }
 
+async function appendGithubSummary(markdown) {
+  const summaryPath = process.env.GITHUB_STEP_SUMMARY;
+  if (!summaryPath) return;
+  try {
+    await appendFile(summaryPath, `${markdown.trim()}\n`, 'utf8');
+  } catch {
+    // A reporting failure must not invalidate a successfully fetched snapshot.
+  }
+}
+
 async function writeSnapshot(snapshot) {
   await mkdir(dirname(snapshotPath), { recursive: true });
   const temporaryPath = `${snapshotPath}.tmp`;
@@ -113,6 +124,44 @@ export async function runSync({ now = new Date(), request = requestJson, log = a
       }
       if (id) candidates.set(id, { ...item, name });
     }
+    const datedCandidateCount = candidates.size;
+
+    if (!fullDirectory && previous?.status === 'success') {
+      const entry = {
+        at: startedAt,
+        status: 'partial',
+        directoryEndpoint: via,
+        sourcePlaylistCount: catalogEntries.length,
+        datedPlaylistCount: datedCandidateCount,
+        error: 'Profile directory unavailable or incomplete; kept the previous full snapshot',
+        snapshotPreserved: true
+      };
+      await log(entry);
+      await appendGithubSummary(`## QQ Music sync\n\n- Outcome: previous complete snapshot preserved.\n- Directory: unavailable or incomplete.\n- Last published data remains unchanged.`);
+      return { ...previous, syncOutcome: 'preserved' };
+    }
+
+    const previousDatedCount = Array.isArray(previous?.playlists)
+      ? previous.playlists.filter((playlist) => playlist.date).length
+      : 0;
+    const previousSourceCount = Number(previous?.sourcePlaylistCount) || 0;
+    const directoryShrankSignificantly = (previousSourceCount > 0 && catalogEntries.length < previousSourceCount * 0.5)
+      || (previousDatedCount > 0 && datedCandidateCount < previousDatedCount * 0.5);
+    if (previous?.status === 'success' && fullDirectory && directoryShrankSignificantly && !allowLargeSyncChange) {
+      const entry = {
+        at: startedAt,
+        status: 'partial',
+        directoryEndpoint: via,
+        sourcePlaylistCount: catalogEntries.length,
+        datedPlaylistCount: datedCandidateCount,
+        error: 'Public directory shrank by more than 50%; kept the previous full snapshot. Review the change before allowing it.',
+        snapshotPreserved: true
+      };
+      await log(entry);
+      await appendGithubSummary(`## QQ Music sync\n\n- Outcome: previous complete snapshot preserved.\n- Reason: the public directory returned less than half its previous size.\n- Review the directory before manually allowing a large change.`);
+      return { ...previous, syncOutcome: 'preserved' };
+    }
+
     if (!candidates.has(knownPlaylist.id)) candidates.set(knownPlaylist.id, knownPlaylist);
 
     const playlists = [];
@@ -131,11 +180,6 @@ export async function runSync({ now = new Date(), request = requestJson, log = a
       console.log(`Fetched ${playlist.name}: ${playlist.tracks.length} tracks`);
     }
     if (!playlists.length) throw new Error('No playlists were successfully read');
-    if (!fullDirectory && previous?.status === 'success') {
-      const entry = { at: startedAt, status: 'partial', directoryEndpoint: via, error: 'Profile directory unavailable; kept the previous full snapshot', snapshotPreserved: true };
-      await log(entry);
-      return { ...previous, syncOutcome: 'preserved' };
-    }
     const snapshot = {
       schemaVersion: 1,
       status: fullDirectory ? 'success' : 'partial',
@@ -152,10 +196,12 @@ export async function runSync({ now = new Date(), request = requestJson, log = a
     };
     await save(snapshot);
     await log({ at: startedAt, status: snapshot.status, directoryEndpoint: via, playlists: playlists.length, tracks: snapshot.trackCount, excludedUndatedPlaylistCount, snapshotPreserved: false });
+    await appendGithubSummary(`## QQ Music sync\n\n- Outcome: **${snapshot.status}**\n- Last synced: ${snapshot.lastSyncedAt}\n- Dated playlists: ${snapshot.playlistCount}\n- Saved track occurrences: ${snapshot.trackCount}\n- Undated playlists excluded: ${snapshot.excludedUndatedPlaylistCount}`);
     return snapshot;
   } catch (error) {
     const entry = { at: startedAt, status: 'failed', error: String(error?.message || error), snapshotPreserved: true };
     await log(entry);
+    await appendGithubSummary(`## QQ Music sync\n\n- Outcome: **failed**; the previous snapshot was preserved.\n\n\`\`\`text\n${entry.error}\n\`\`\``);
     throw error;
   }
 }

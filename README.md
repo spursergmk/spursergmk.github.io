@@ -29,15 +29,13 @@ npm run sync
 
 The sync script reads `QQ_MUSIC_PROFILE_URL` when set. It rate-limits requests, retries transient failures, validates each date-formatted playlist against its reported track count, and atomically updates `public/data/library.json` only after the selected playlists are complete. Names without a valid calendar date are excluded from the website. If a first import cannot read the directory, it can save the known dated playlist with `partial` status; a partial refresh never replaces an existing full snapshot. Failures are appended to `sync-log.jsonl`.
 
-On 2026-10-10, the supplied QQ number resolved to the public account `spurser`. The source directory contained 97 playlists; the website includes only the 69 playlists with date-formatted names (465 saved track entries). The other 28 playlists are excluded from the published snapshot and its pages. The public snapshot stores the opaque profile share link, not the numeric QQ number. See [the data validation record](docs/data-validation.md). The local CLI and scheduled GitHub Actions run have not been verified end to end.
+On 2026-10-10, the supplied QQ number resolved to the public account `spurser`. The source directory contained 97 playlists; the website includes only the 69 playlists with date-formatted names (465 saved track entries). The other 28 playlists are excluded from the published snapshot and its pages. The public snapshot stores the opaque profile share link, not the numeric QQ number. See [the data validation record](docs/data-validation.md).
 
 ## GitHub Pages deployment and daily updates
 
 The live site is <https://spursergmk.github.io/>. Its source repository is <https://github.com/spursergmk/spursergmk.github.io>. The `pages.yml` workflow builds `dist/` and publishes it on each push to `main`; the first Pages deployment completed on 2026-10-12.
 
-The `daily-sync.yml` workflow is scheduled for 09:15 China Standard Time (01:15 UTC). It reads `QQ_MUSIC_PROFILE_URL` from repository secrets when configured; otherwise the sync script uses its public profile share link. The GitHub Actions scheduled sync has not yet been verified end to end. If a sync fails, the previous published snapshot is preserved. No QQ Music password, Cookie or login token is used.
-
-The scheduled workflow fetches the catalogue, commits its snapshot and log, then deploys. If sync fails, it records the failure and keeps the previous published snapshot. No QQ Music password, Cookie or login token is used. GitHub Pages itself requires a GitHub repository; this working folder currently has no Git remote, so no public URL has been created from this environment.
+The `daily-sync.yml` workflow polls every six hours (09:15, 15:15, 21:15 and 03:15 China Standard Time) and also supports a manual run from GitHub Actions. It reads `QQ_MUSIC_PROFILE_URL` from repository secrets when configured; otherwise it uses the public profile share link. Each run refreshes every date-named playlist, commits a complete snapshot and log, then deploys the site. A failed or incomplete read preserves the previous snapshot; a directory that suddenly falls below half its previous size is held for review. A manual run can explicitly allow a reviewed large change. The site shows the latest successful sync time in China Standard Time. This is scheduled polling rather than instant event delivery; a saved change appears after the next successful poll and deploy. No QQ Music password, Cookie or login token is used.
 
 ## Pages and data boundaries
 

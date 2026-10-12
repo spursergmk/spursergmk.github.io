@@ -179,7 +179,9 @@ function timelineMarkup(playlists, limit = 4) {
 function renderHome() {
   const playlists = library?.playlists || [];
   const songs = playlists.flatMap((playlist) => playlist.tracks.map((track) => ({ track, playlist }))).sort((a, b) => (b.playlist.date || '').localeCompare(a.playlist.date || '') || a.track.index - b.track.index).slice(0, 6);
-  const lastUpdated = library?.lastSyncedAt ? new Date(library.lastSyncedAt).toLocaleDateString('en-CA') : 'awaiting first sync';
+  const lastUpdated = library?.lastSyncedAt
+    ? new Intl.DateTimeFormat('sv-SE', { timeZone: 'Asia/Shanghai', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hourCycle: 'h23' }).format(new Date(library.lastSyncedAt))
+    : 'awaiting first sync';
   const latestYear = [...playlists].filter((playlist) => playlist.date).sort((a, b) => b.date.localeCompare(a.date))[0]?.date.slice(0, 4) || bootstrap.date.slice(0, 4);
   return `<div class="page-shell home-page">
     <section class="hero">
@@ -203,7 +205,7 @@ function renderHome() {
       <div class="timeline">${timelineMarkup(playlists)}</div>
     </section>
     <section class="archive-callout"><span class="eyebrow">SAVED BY DATE</span><p>Not a ranking. Not a recommendation.<br>Just the music that stayed.</p><a class="round-arrow" href="#archive" aria-label="Open archive">↗</a></section>
-    <p class="sync-caption">CATALOGUE STATUS <span>${libraryError ? 'LOCAL DATA COULD NOT BE READ' : (library?.status === 'success' ? `LAST VERIFIED ${lastUpdated}` : (library?.status === 'partial' ? 'KNOWN PLAYLIST VERIFIED · FULL DIRECTORY PENDING' : 'FIRST PUBLIC API READ PENDING'))}</span></p>
+    <p class="sync-caption">CATALOGUE STATUS <span>${libraryError ? 'LOCAL DATA COULD NOT BE READ' : (library?.status === 'success' ? `LAST SYNC ${lastUpdated} CST` : (library?.status === 'partial' ? 'KNOWN PLAYLIST VERIFIED · FULL DIRECTORY PENDING' : 'FIRST PUBLIC API READ PENDING'))}</span></p>
   </div>`;
 }
 
