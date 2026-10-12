@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+dist/
+screenshots/
+音乐网站ui参考.png

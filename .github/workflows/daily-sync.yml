@@ -1,0 +1,54 @@
+name: Daily QQ Music sync
+
+on:
+  schedule:
+    - cron: '15 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-music-sync
+  cancel-in-progress: false
+
+jobs:
+  sync-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Fetch public playlist catalogue
+        id: sync
+        env:
+          QQ_MUSIC_PROFILE_URL: ${{ secrets.QQ_MUSIC_PROFILE_URL }}
+        run: npm run sync
+      - name: Commit snapshot and sync log
+        if: always()
+        run: |
+          git add public/data/library.json sync-log.jsonl 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "Update music archive snapshot"
+            git push
+          fi
+      - name: Build static site
+        if: success()
+        run: npm run build
+      - name: Configure Pages
+        if: success()
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        if: success()
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+      - name: Publish Pages
+        if: success()
+        uses: actions/deploy-pages@v4

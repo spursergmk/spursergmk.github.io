@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-Hans">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f4f2ed">
+    <meta name="description" content="An ongoing collection of music I've heard and loved.">
+    <title>spurser.fm — A Personal Music Archive</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script type="module" src="/app.js"></script>
+  </head>
+  <body>
+    <div class="paper-grain" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="wordmark" href="#home" aria-label="spurser.fm home">spurser<span>.fm</span></a>
+      <nav class="main-nav" aria-label="Main navigation">
+        <a href="#home" data-route="home">Home</a>
+        <a href="#archive" data-route="archive">Archive</a>
+        <a href="#stats" data-route="stats">Stats</a>
+        <a href="#about" data-route="about">About</a>
+      </nav>
+      <div class="header-note"><span class="status-dot"></span><span id="header-status">A personal archive</span></div>
+    </header>
+    <main id="app" tabindex="-1" aria-live="polite"></main>
+    <footer class="site-footer">
+      <a class="wordmark wordmark-small" href="#home">spurser<span>.fm</span></a>
+      <span>An ongoing collection of music I've heard and loved.</span>
+      <span id="footer-year">© 2026</span>
+    </footer>
+  </body>
+</html>

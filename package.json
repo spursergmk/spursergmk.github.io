@@ -1,0 +1,16 @@
+{
+  "name": "spurser-fm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A quiet, date-led archive of music heard and loved.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "sync": "node scripts/sync.mjs",
+    "test": "node --test"
+  }
+}

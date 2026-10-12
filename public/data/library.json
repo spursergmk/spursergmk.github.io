@@ -1,0 +1,5435 @@
+{
+  "schemaVersion": 1,
+  "status": "success",
+  "lastSyncedAt": "2026-10-10T04:27:23.383Z",
+  "source": {
+    "provider": "PlaylistOut Public API",
+    "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
+    "directoryEndpoint": "resolve"
+  },
+  "knownSource": {
+    "id": "9789171839",
+    "name": "26.10.6",
+    "trackCount": 13,
+    "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9789171839",
+    "date": "2026-10-06",
+    "provenance": "owner-provided, fetched by PlaylistOut API"
+  },
+  "directoryStatus": "verified",
+  "playlistCount": 69,
+  "trackCount": 465,
+  "unparsedDateCount": 0,
+  "playlists": [
+    {
+      "id": "9790632850",
+      "name": "26.10.9",
+      "date": "2026-10-09",
+      "trackCount": 3,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9790632850",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004afQyU0Fi3lC.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "004ATNOT0WtHJS",
+          "title": "ひとり上手",
+          "artist": "中岛美雪",
+          "album": "Singles",
+          "durationMs": 254000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004afQyU0Fi3lC.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000QmoYP4MB8v3",
+          "title": "銀の龍の背に乗って(カバー)",
+          "artist": "工藤静香",
+          "album": "MY PRECIOUS -Shizuka sings songs of Miyuki-",
+          "durationMs": 345000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003QCAda0VEyiD.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003uDaiO47rJol",
+          "title": "嵐の夜のセレナーデ",
+          "artist": "工藤静香",
+          "album": "ミステリアス",
+          "durationMs": 314000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000iD2Xd3FDqrU.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9790100017",
+      "name": "26.10.8",
+      "date": "2026-10-08",
+      "trackCount": 3,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9790100017",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001837Lt2fwIiq.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001GM6Zx3NmZ5w",
+          "title": "Long Gone John",
+          "artist": "Gordon Webster",
+          "album": "Happy When I'm With You",
+          "durationMs": 237000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001837Lt2fwIiq.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "004It2fT25wjte",
+          "title": "All The Time",
+          "artist": "Bahamas",
+          "album": "All The Time",
+          "durationMs": 234000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Gx95a2YUVuP.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "004W0i6r0TNpi7",
+          "title": "旅愁",
+          "artist": "岩崎宏美",
+          "album": "＜COLEZO!＞ゆりかごの唄／岩崎 宏美 愛唱歌集",
+          "durationMs": 232000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002AXbOu2VkQgD.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9789661596",
+      "name": "26.10.7",
+      "date": "2026-10-07",
+      "trackCount": 5,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9789661596",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000oavby2uaVJU.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "004W46VB1jIeWb",
+          "title": "Jets",
+          "artist": "Blur",
+          "album": "Think Tank (Special Edition)",
+          "durationMs": 385000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000oavby2uaVJU.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000xPGXQ2QD2ds",
+          "title": "Doolin-Dalton / Desperado",
+          "artist": "Eagles",
+          "album": "Desperado (2013 Remaster)",
+          "durationMs": 291000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000ails10HbebC.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000oMgrp2YCjUU",
+          "title": "Break",
+          "artist": "Kero Kero Bonito",
+          "album": "Break",
+          "durationMs": 197000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000020J9du11fX0y.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "001owWwY4QSrD3",
+          "title": "I'll Be Missing You (feat. Faith Evans & 112)",
+          "artist": "Diddy, 112, Faith Evans",
+          "album": "No Way Out (2014 Remaster)",
+          "durationMs": 306000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003Z9lrl2I79N7.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001AArNq0GGhjw",
+          "title": "Devil's Got a Gun",
+          "artist": "Whitehorse, Luke Doucet, Melissa McClelland",
+          "album": "The Fate of the World Depends on This Kiss",
+          "durationMs": 219000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000032TSnf28Jzae.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9789171839",
+      "name": "26.10.6",
+      "date": "2026-10-06",
+      "trackCount": 13,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9789171839",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004cUCTC1FTL8k.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002juMqk10qxag",
+          "title": "Lysandre",
+          "artist": "Christopher Owens",
+          "album": "Lysandre",
+          "durationMs": 174000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004cUCTC1FTL8k.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000xOhEC0wd1mf",
+          "title": "ゆうべの梦",
+          "artist": "Humbert Humbert",
+          "album": "for hundreds of children",
+          "durationMs": 158000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000001xZqv3FeKD6.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "0048a1ti09dd0s",
+          "title": "Le balafré",
+          "artist": "Thomas Fersen",
+          "album": "Je suis au paradis",
+          "durationMs": 185000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001kypAp00mCX9.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "002v1XC93FBMfa",
+          "title": "Ordinary Man",
+          "artist": "Ozzy Osbourne",
+          "album": "Ordinary Man",
+          "durationMs": 302000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Qt6Wi3JKLSm.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "003bXzZx3ZasIi",
+          "title": "グライダー",
+          "artist": "玉置浩二",
+          "album": "Kyoutoiu Konohiwo Ikiteikou",
+          "durationMs": 235000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002zMTQj0HNfbT.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "000K91yt49it6N",
+          "title": "Dirty Laundry",
+          "artist": "Don Henley",
+          "album": "I Can’t Stand Still",
+          "durationMs": 336000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001dbyzt0mzDu0.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "0002oBJe02bjls",
+          "title": "森の小さなレストラン",
+          "artist": "手嶌葵",
+          "album": "森の小さなレストラン",
+          "durationMs": 153000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003kAmJl4XSyAJ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "002SYd6A3iZIet",
+          "title": "Catch Your Way",
+          "artist": "杉真理",
+          "album": "Good Melody,Good Life!",
+          "durationMs": 252000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002IGs692I7uVn.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "002Jagbx1CUQrR",
+          "title": "First Time",
+          "artist": "Macy Gray",
+          "album": "The Way",
+          "durationMs": 201000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002v46vi2eEERP.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "001j2SGl44cluG",
+          "title": "À la Folie – Hageshiku",
+          "artist": "Juliette Armanet",
+          "album": "À la Folie - Hageshiku (Japanese version)",
+          "durationMs": 238000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001bHRHi3uvbfL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "001abIMt1bhGtt",
+          "title": "Dreams",
+          "artist": "The Cranberries",
+          "album": "Stars: The Best Of The Cranberries 1992-2002",
+          "durationMs": 255000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002s9GR04bf5YX.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 12,
+          "id": "0002hOYC492NtQ",
+          "title": "Heart and Soul (心与灵魂)",
+          "artist": "Silkroad Ensemble, 马友友, Lisa Fischer, Gregory Porter",
+          "album": "Sing Me Home",
+          "durationMs": 236000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002IVhPl4MsOIZ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 13,
+          "id": "004cEQVH4VFsEL",
+          "title": "Finish Line",
+          "artist": "Elton John, Stevie Wonder",
+          "album": "Finish Line",
+          "durationMs": 264000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000018tV4h0Qol3W.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9788755273",
+      "name": "26.10.5",
+      "date": "2026-10-05",
+      "trackCount": 6,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9788755273",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001Im33x0XFyh2.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001CmMXZ3bxQs6",
+          "title": "There Is a Glace over My Eyes",
+          "artist": "Virgin Suicide",
+          "album": "Virgin Suicide",
+          "durationMs": 227000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001Im33x0XFyh2.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "001Adv2T3jsmVj",
+          "title": "Devil in My Hand",
+          "artist": "The Dentals",
+          "album": "Tennessee",
+          "durationMs": 154000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000uHNo20QpDwJ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003RdtNX2dUdKX",
+          "title": "Behind The Clouds",
+          "artist": "Brad Paisley",
+          "album": "Cars (Soundtrack from the Motion Picture)",
+          "durationMs": 248000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001UdDP716tKMA.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "002y3ycx08T0z2",
+          "title": "Mama, I'm Coming Home",
+          "artist": "Ozzy Osbourne",
+          "album": "No More Tears (Expanded Edition)",
+          "durationMs": 252000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000385jyq2tppRY.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001pWLmq2hbWKh",
+          "title": "Félix",
+          "artist": "Thomas Fersen",
+          "album": "Je suis au paradis",
+          "durationMs": 154000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001kypAp00mCX9.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "001g4Q3C2aQ1g3",
+          "title": "Help",
+          "artist": "Krokus",
+          "album": "Dirty Dynamite",
+          "durationMs": 265000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001vtjcL4SeO2d.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9787599693",
+      "name": "26.10.3",
+      "date": "2026-10-03",
+      "trackCount": 3,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9787599693",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000348JiP3XaFeD.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002CY3VV0Xc0M8",
+          "title": "You Never Can Tell",
+          "artist": "Chuck Berry",
+          "album": "St. Louis to Liverpool",
+          "durationMs": 163000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000348JiP3XaFeD.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000ug4le2CTuV3",
+          "title": "この世に二人だけ",
+          "artist": "中岛美雪",
+          "album": "予感",
+          "durationMs": 299000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001BLvOy03AdP2.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "0022DxLW3zHULS",
+          "title": "Sarà perché ti amo",
+          "artist": "Ricchi E Poveri",
+          "album": "Die grossen Erfolge",
+          "durationMs": 184000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000phNEG2hoDeV.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9786813733",
+      "name": "26.10.1",
+      "date": "2026-10-01",
+      "trackCount": 6,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9786813733",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000069Fgn0YgZkB.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001eTLeW3tWI7f",
+          "title": "She's In Love With The Boy",
+          "artist": "Trisha Yearwood",
+          "album": "Love Songs",
+          "durationMs": 245000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000069Fgn0YgZkB.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "004EwaNI1YTGxn",
+          "title": "The Family Song",
+          "artist": "Dawn Fung",
+          "album": "The Last Morning",
+          "durationMs": 274000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000i93PI1Usat5.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "004IWKgy27LnV6",
+          "title": "Walk On",
+          "artist": "Deep Purple",
+          "album": "Bananas",
+          "durationMs": 423000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000018diyu2kSfO4.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "000Zzz9M1M1nAK",
+          "title": "Hasta Manana",
+          "artist": "ABBA",
+          "album": "Waterloo",
+          "durationMs": 191000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003PpWUO378UCS.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "004WNgJg1TBISX",
+          "title": "Starlight",
+          "artist": "Slash",
+          "album": "Slash",
+          "durationMs": 325000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001rfMt81Vkuht.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "0029GroA0Xvc98",
+          "title": "Candle In The Wind 1997",
+          "artist": "Elton John",
+          "album": "Candle In The Wind 1997 / Something About ...",
+          "durationMs": 250000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003YzBoH4JNtmp.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9785881226",
+      "name": "26.9.30",
+      "date": "2026-09-30",
+      "trackCount": 5,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9785881226",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002y8IUO10XfZy.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "003ULG8Q1L1mkj",
+          "title": "Open Up Your Heart And Let The Sun Shine In",
+          "artist": "Frente",
+          "album": "Saturday Morning: Cartoons' Greatest Hits",
+          "durationMs": 211000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002y8IUO10XfZy.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "0044uswd4Lr5KF",
+          "title": "Sweet,Sweet Smile",
+          "artist": "Carpenters",
+          "album": "Yesterday Once More",
+          "durationMs": 181000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003HKbF81gnJth.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003qpkQC0SpaHD",
+          "title": "島の願い",
+          "artist": "PENGIN, Metis",
+          "album": "PENGIN HOME",
+          "durationMs": 339000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000RDwep3U5CEn.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "001oaTIP4Izjpk",
+          "title": "Something About The Way You Look Tonight",
+          "artist": "Elton John",
+          "album": "Candle In The Wind 1997 / Something About ...",
+          "durationMs": 240000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003YzBoH4JNtmp.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "0009zuen1phw4V",
+          "title": "Alone in the Sky",
+          "artist": "The fin.",
+          "album": "Nebula",
+          "durationMs": 269000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002fa60n0ylrPV.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9785461228",
+      "name": "26.9.29",
+      "date": "2026-09-29",
+      "trackCount": 7,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9785461228",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002K2PMT4QZGoQ.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "004Yq8In0v8ohu",
+          "title": "Mr. K",
+          "artist": "門あさ美",
+          "album": "SACHET",
+          "durationMs": 261000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002K2PMT4QZGoQ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002UrSYx0j7a5J",
+          "title": "Letter to Me",
+          "artist": "Brad Paisley",
+          "album": "5th Gear",
+          "durationMs": 281000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001ge3yg2GpWXx.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000Ygm7m2931nE",
+          "title": "When You're Gone",
+          "artist": "The Cranberries",
+          "album": "To The Faithful Departed",
+          "durationMs": 295000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001u2pur4LPaLk.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "002DsuYV0cVqE0",
+          "title": "Matter of Time",
+          "artist": "Shannon Hurley",
+          "album": "Ready to Wake Up",
+          "durationMs": 273000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002P490O3AMupF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "002r5hG00frAId",
+          "title": "No Pain, No Gain",
+          "artist": "Betty Wright",
+          "album": "Sweet Soul R&B",
+          "durationMs": 301000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002RuG3u4HgnSi.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "003ii6EN29sxIV",
+          "title": "台所",
+          "artist": "Humbert Humbert",
+          "album": "家族行進曲",
+          "durationMs": 125000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002E31qK4A0oXF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "000rsKzP1sdKQR",
+          "title": "I Need To Be In Love",
+          "artist": "Carpenters",
+          "album": "Yesterday Once More",
+          "durationMs": 230000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003HKbF81gnJth.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9785007200",
+      "name": "26.9.28",
+      "date": "2026-09-28",
+      "trackCount": 6,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9785007200",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001OlShv03Ntt5.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "003AR6CV3IYAfi",
+          "title": "Southern Nights",
+          "artist": "Glen Campbell",
+          "album": "Vol. 2 Guardians of the Galaxy: Awesome Mix Vol. 2 (Original Motion Picture Soundtrack)",
+          "durationMs": 177000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001OlShv03Ntt5.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "001pD4j30AK0oh",
+          "title": "ラブソウル",
+          "artist": "Rickie-G",
+          "album": "am08:59",
+          "durationMs": 295000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003MrlH70UczqL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002jGneY3Kvpfi",
+          "title": "未接来电",
+          "artist": "杨乃文",
+          "album": "Zero",
+          "durationMs": 281000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000010mpFZ0Fdriw.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "000XtDeb0gePa6",
+          "title": "I'd Like to Teach the World to Sing (In Perfect Harmony)",
+          "artist": "Gordon Webster",
+          "album": "Live at Boston Swing Central",
+          "durationMs": 215000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001Wd4TB4R5DOj.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "000ibawe0Bebfx",
+          "title": "You Still Do That To Me",
+          "artist": "Chris Cagle",
+          "album": "Anywhere But Here",
+          "durationMs": 256000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001qloPz0Rofl7.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "002l95kK0E1Ny7",
+          "title": "Nothing Compares 2 U",
+          "artist": "Prince",
+          "album": "Nothing Compares 2 U",
+          "durationMs": 280000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001B4ydN0hROEb.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9784530807",
+      "name": "26.9.27",
+      "date": "2026-09-27",
+      "trackCount": 11,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9784530807",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001vil8j0NIwyQ.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "003bUSwn3IZHJK",
+          "title": "The Waiting Game",
+          "artist": "Steve Gibbons Band",
+          "album": "Birmingham to Memphis",
+          "durationMs": 196000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001vil8j0NIwyQ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000eGoIM2BWGYP",
+          "title": "(There's) No Gettin' Over Me",
+          "artist": "Ronnie Milsap",
+          "album": "The Essential Ronnie Milsap",
+          "durationMs": 197000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000jpGkY4BMabO.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "0011fFiW2105hw",
+          "title": "浪漫鉄道＜蹉跌篇＞",
+          "artist": "谷村新司",
+          "album": "STANDARD～呼吸～",
+          "durationMs": 263000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001DZAu709E1IS.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "0029gCGH2HAo69",
+          "title": "マスカット",
+          "artist": "平原綾香",
+          "album": "LOVE",
+          "durationMs": 357000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001uYglG4OY4i6.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "003uPuiM26Vcfh",
+          "title": "Dreamer",
+          "artist": "Ozzy Osbourne",
+          "album": "Down To Earth",
+          "durationMs": 286000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004PBs2c33hNXm.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "001hrYXH40W3cJ",
+          "title": "Superwoman",
+          "artist": "Karyn White",
+          "album": "Karyn White",
+          "durationMs": 347000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003HdvU80CSn76.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "004ER0tm08Dpf5",
+          "title": "愛のかけら☆恋のかけら",
+          "artist": "辻亚弥乃",
+          "album": "愛のかけら☆恋のかけら",
+          "durationMs": 220000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002dhrrK1Te3Mq.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "000sxPCv1Vmb90",
+          "title": "Nancy Jane",
+          "artist": "Craig Ruhnke",
+          "album": "True Love",
+          "durationMs": 137000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004OumDY0p5JjA.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "002O3OHW36D0t9",
+          "title": "Marie's Wedding",
+          "artist": "The High Kings",
+          "album": "The High Kings",
+          "durationMs": 226000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001O18tA3YtQF3.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "002Bmbvb4GMdT5",
+          "title": "The Holy River",
+          "artist": "Prince",
+          "album": "Emancipation",
+          "durationMs": 415000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000BKRcs2cWSgG.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "001NMtg61GP70z",
+          "title": "Red River Valley",
+          "artist": "Michael Martin Murphey",
+          "album": "Cowboy Songs",
+          "durationMs": 210000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000017LGtB22nRwi.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9783376627",
+      "name": "26.9.25",
+      "date": "2026-09-25",
+      "trackCount": 13,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9783376627",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004ND0Au1vwjtW.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0006nSZh2OiqnU",
+          "title": "Seven Days",
+          "artist": "Mark Medlock",
+          "album": "Mr. Lonely",
+          "durationMs": 248000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004ND0Au1vwjtW.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "001PNxp34Q8fPc",
+          "title": "The Antebellum South Shuffle, Pt. 1",
+          "artist": "Mighty Mo Rodgers",
+          "album": "Redneck Blues",
+          "durationMs": 148000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002NfmoB2L3ppY.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002DYiUB0aNItF",
+          "title": "白い街 青い影",
+          "artist": "epo",
+          "album": "シングル・トラックス",
+          "durationMs": 292000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003iN6XL4Y2CUj.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "000n9m1b1y2cWQ",
+          "title": "Blinded By The Night",
+          "artist": "Molly Nilsson",
+          "album": "2020",
+          "durationMs": 300000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001L12Ow28k79x.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "0039SKGf2go9wD",
+          "title": "Heartbreak Station",
+          "artist": "Cinderella",
+          "album": "Heartbreak Station",
+          "durationMs": 268000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Xuhxx3F3WrK.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "000ly5yt0FZsgd",
+          "title": "Sutter's Mill",
+          "artist": "Dan Fogelberg",
+          "album": "High Country Snows",
+          "durationMs": 391000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000027skPq3EyGYP.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "001iZFGz2WTrPt",
+          "title": "Tiny Goddess",
+          "artist": "Nirvana",
+          "album": "All Of Us",
+          "durationMs": 239000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Kywie2rkTbo.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "000UvI3W37RaVi",
+          "title": "情锁",
+          "artist": "蔡琴",
+          "album": "伤心小站",
+          "durationMs": 237000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000Yp2QR0sLLLR.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "004Qp9AD3J8oYM",
+          "title": "Oh Father",
+          "artist": "Bodhi Jones",
+          "album": "Where Do We Go From Here",
+          "durationMs": 227000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003EIbtt0TAmEq.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "001XQujV2oAWT2",
+          "title": "Livin' On Love",
+          "artist": "Alan Jackson",
+          "album": "Who I Am",
+          "durationMs": 229000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001UcR7j4JoTX0.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "000WygH11UOtBJ",
+          "title": "大空と大地の中で",
+          "artist": "松山千春",
+          "album": "君のために作った歌",
+          "durationMs": 241000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002ZnswY0KNarj.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 12,
+          "id": "004Tmohy1ESF0F",
+          "title": "泣かないでよ",
+          "artist": "大黒摩季",
+          "album": "愛してます",
+          "durationMs": 268000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003NgYyp2KbOoI.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 13,
+          "id": "004ZmOv80Mvt6S",
+          "title": "The Room at the Top of the Stairs",
+          "artist": "Eddie Rabbitt",
+          "album": "Variations",
+          "durationMs": 219000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003aOPkH3carlf.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9782372487",
+      "name": "26.9.23",
+      "date": "2026-09-23",
+      "trackCount": 4,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9782372487",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001XkFBD0zmarT.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0038hspV2W7xf2",
+          "title": "DRIVEに連れてって",
+          "artist": "今井美樹",
+          "album": "Miki's Affections アンソロジー1986-2011",
+          "durationMs": 301000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001XkFBD0zmarT.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000SmgU63D4uxv",
+          "title": "レイニー ブルー",
+          "artist": "德永英明",
+          "album": "永遠の果てに～セルフカヴァー・ベストⅠ～",
+          "durationMs": 249000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001dWUfs3IB9hO.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003JDkGO2sZcGw",
+          "title": "15のキミへ",
+          "artist": "手嶌葵",
+          "album": "Aoi WorksIII～best collection 2019-2025～",
+          "durationMs": 251000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003HW1aK0xoxmP.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "000RIluY41sCLM",
+          "title": "しゃぼん玉",
+          "artist": "长渕刚",
+          "album": "JAPAN",
+          "durationMs": 301000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004K508Q4WpvuO.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9782012374",
+      "name": "26.9.22",
+      "date": "2026-09-22",
+      "trackCount": 12,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9782012374",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000GHo4F2PQsCj.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001EZMGL175nR5",
+          "title": "Tell Me, Sister",
+          "artist": "中岛美雪",
+          "album": "短篇集",
+          "durationMs": 323000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000GHo4F2PQsCj.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003Ob4313omBhk",
+          "title": "Shame!",
+          "artist": "Mighty Mo Rodgers",
+          "album": "Blues Is My Wailin' Wall",
+          "durationMs": 346000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Fyh0x1qudSW.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "0012rbVC0JkIIE",
+          "title": "涙",
+          "artist": "决明子",
+          "album": "涙",
+          "durationMs": 385000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003PGE7f3hTA7u.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "003CO86E4A9x9g",
+          "title": "Hard To Find The Words",
+          "artist": "Cinderella",
+          "album": "Still Climbing",
+          "durationMs": 344000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000cPxaN2BYh0L.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "004GqFC02gnwwK",
+          "title": "微笑みを見つけた",
+          "artist": "酒井法子",
+          "album": "Sweet'n Bitter／NORIKO PartVII",
+          "durationMs": 271000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000011MFZ12xd4fZ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "002MmRdW0Zqde6",
+          "title": "Live High",
+          "artist": "Jason Mraz",
+          "album": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version) [Explicit]",
+          "durationMs": 254000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002bUWLL0iOqar.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "000e26l50cC0l4",
+          "title": "青い宝",
+          "artist": "やなわらばー",
+          "album": "青い宝",
+          "durationMs": 291000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001LGkP510K68F.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "003nKW0m2A7Fdq",
+          "title": "JOY",
+          "artist": "石井明美",
+          "album": "ゴールデン☆ベスト 石井明美セレクション",
+          "durationMs": 268000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001P7w061rGsCo.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "003LwKls2ym8Fi",
+          "title": "Watching The Wheels",
+          "artist": "John Lennon",
+          "album": "The John Lennon Collection",
+          "durationMs": 213000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004EAh7144HuST.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "0010RXpY2w5lD7",
+          "title": "Chattahoochee",
+          "artist": "Alan Jackson",
+          "album": "The Greatest Hits Collection",
+          "durationMs": 236000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002N5os14dFzrb.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "003axJUS4dsbHz",
+          "title": "Glass No Darling",
+          "artist": "飯島真理",
+          "album": "Miss Lemon (+2, 2020 Remaster)",
+          "durationMs": 334000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000szBZE4V19jX.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 12,
+          "id": "001GhEZy0lTdLx",
+          "title": "Велик день",
+          "artist": "Ivan Kupala",
+          "album": "Радио Награ",
+          "durationMs": 244000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004WoKrn2LhDrC.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9781620023",
+      "name": "26.9.21",
+      "date": "2026-09-21",
+      "trackCount": 12,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9781620023",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000vCwss39D6sv.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "000fkaPa3vai2G",
+          "title": "Workingman's Blues #2",
+          "artist": "Bob Dylan",
+          "album": "Modern Times",
+          "durationMs": 367000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000vCwss39D6sv.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "001hqLbv47ZyUf",
+          "title": "Easy Money",
+          "artist": "Karmin",
+          "album": "Leo Rising (Explicit)",
+          "durationMs": 215000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002UCtQL0uvfQT.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002p3GWN317zkU",
+          "title": "Dear",
+          "artist": "lecca",
+          "album": "BEST POSITIVE",
+          "durationMs": 264000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003LHQnU4PVNlS.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "0007TNpd2PtKda",
+          "title": "The Heat Of The Sun",
+          "artist": "Spagna",
+          "album": "Ballads",
+          "durationMs": 322000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003esGdj35CkRe.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "002JUQnl1Ao94r",
+          "title": "べつに",
+          "artist": "関取花",
+          "album": "べつに",
+          "durationMs": 183000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000014ruf003sMb5.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "001wWvfQ0xUQ0d",
+          "title": "Give It Up",
+          "artist": "KC & the Sunshine Band",
+          "album": "The Best of KC & the Sunshine Band",
+          "durationMs": 244000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001BrMTP1kJ6qH.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "001TxDih3KCg38",
+          "title": "Hold On",
+          "artist": "Alabama Shakes",
+          "album": "Hold On",
+          "durationMs": 226000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001O8p8I3zOGYi.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "0020aBRf2EP00L",
+          "title": "Goodbye To Romance",
+          "artist": "Ozzy Osbourne",
+          "album": "The Ozzman Cometh",
+          "durationMs": 335000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000iqa0y4AScLL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "002zsmIs3WLe6C",
+          "title": "真夏のSequence",
+          "artist": "菊池桃子",
+          "album": "TROPIC of CAPRICORN",
+          "durationMs": 282000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001y7uTg3oocui.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "002kgtAF3RxV2r",
+          "title": "島人ぬ宝",
+          "artist": "BEGIN",
+          "album": "島人ぬ宝",
+          "durationMs": 320000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003E9XW03lZd4q.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "002eRnKt2TVOFP",
+          "title": "夜色",
+          "artist": "玉置浩二",
+          "album": "惠威试音碟-人声篇",
+          "durationMs": 313000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000L0FZp4A1raL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 12,
+          "id": "001FNqWk32hq0R",
+          "title": "Does Your Mother Know",
+          "artist": "ABBA",
+          "album": "Voulez-Vous",
+          "durationMs": 193000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004g6JUt1Wzwub.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9781166361",
+      "name": "26.9.20",
+      "date": "2026-09-20",
+      "trackCount": 10,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9781166361",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001TyPcX1xOCiP.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001EMjgP13SrAu",
+          "title": "涙そうそう",
+          "artist": "夏川里美",
+          "album": "沖縄の風",
+          "durationMs": 258000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001TyPcX1xOCiP.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003m208f4f7P6I",
+          "title": "Making Love Out of Nothing at All",
+          "artist": "Air Supply",
+          "album": "Greatest Hits",
+          "durationMs": 341000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000INJPQ288PuI.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "004b37ly4gTQsY",
+          "title": "Music and Me",
+          "artist": "Michael Jackson",
+          "album": "Music and Me",
+          "durationMs": 154000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001YP6m516G4Hg.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "001Kgj321llCgk",
+          "title": "Na Na Na Na",
+          "artist": "Marisa Turner",
+          "album": "Dance Dance Dance",
+          "durationMs": 249000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003x0yms45w84T.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001z2W6x3r72HA",
+          "title": "Chicken Fried",
+          "artist": "Zac Brown Band",
+          "album": "Chicken Fried",
+          "durationMs": 238000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001dCfBg0qdGYp.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "004YIGZA38Umb6",
+          "title": "1984",
+          "artist": "Andymori",
+          "album": "Fanfare To Nekkyou",
+          "durationMs": 286000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004IdXtu3leocB.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "001X2hNV31zpGh",
+          "title": "I've Never Found A Man To Love",
+          "artist": "Lavelle White",
+          "album": "It Haven't Been Easy",
+          "durationMs": 227000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001allDi4Ts2Iu.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "0034g33448DNfS",
+          "title": "脸",
+          "artist": "王菲",
+          "album": "唱游",
+          "durationMs": 214000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001gn7g54ZEIKb.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "003uVRo90XrLkA",
+          "title": "Desperoado",
+          "artist": "Carpenters",
+          "album": "Yesterday Once More",
+          "durationMs": 217000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003HKbF81gnJth.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "003RbAbK4KWniI",
+          "title": "Hang On To Your Love",
+          "artist": "Sade",
+          "album": "Diamond Life",
+          "durationMs": 355000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001fjlWz03GN1X.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9779858951",
+      "name": "26.9.17",
+      "date": "2026-09-17",
+      "trackCount": 4,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9779858951",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004YEEGm03Bvdx.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002UeUDK0ubr55",
+          "title": "Breezin'",
+          "artist": "George Benson",
+          "album": "Breezin' (Expanded)",
+          "durationMs": 341000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004YEEGm03Bvdx.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003mKdkY4Q934X",
+          "title": "High Fidelity",
+          "artist": "Jurassic 5",
+          "album": "Power In Numbers (Explicit)",
+          "durationMs": 187000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000000hSau0lcDE4.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003ft0703ZOOJ0",
+          "title": "Hot Summer",
+          "artist": "Prince",
+          "album": "Hot Summer",
+          "durationMs": 212000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000000tNW22SvlHH.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "003iUTA211Lbql",
+          "title": "阳宝",
+          "artist": "王菲",
+          "album": "将爱",
+          "durationMs": 246000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001Aq2CM3jbJGW.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9779398363",
+      "name": "26.9.16",
+      "date": "2026-09-16",
+      "trackCount": 3,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9779398363",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001cbh3e0ySVSz.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "000U8YCy22e6ns",
+          "title": "The Fate of Ophelia",
+          "artist": "Taylor Swift",
+          "album": "The Life of a Showgirl (Explicit)",
+          "durationMs": 226000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001cbh3e0ySVSz.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000wBz571SYhy9",
+          "title": "Future Soul Song",
+          "artist": "Prince",
+          "album": "20Ten",
+          "durationMs": 308000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002lou1n28o4DF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003lmWtu0UaLyT",
+          "title": "Love Will Keep Us Alive",
+          "artist": "Eagles",
+          "album": "Hell Freezes Over (Remaster 2018)",
+          "durationMs": 243000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000GWxkp1sXABM.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9778892910",
+      "name": "26.9.15",
+      "date": "2026-09-15",
+      "trackCount": 8,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9778892910",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003SU0sl05n3rf.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "004Wuva41nInOG",
+          "title": "Best of Joy",
+          "artist": "Michael Jackson",
+          "album": "Michael",
+          "durationMs": 183000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003SU0sl05n3rf.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002qh0E71uQd2y",
+          "title": "二十二",
+          "artist": "陶喆",
+          "album": "黑色柳丁",
+          "durationMs": 261000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001mvhPh0qevad.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "004Cc2t12Ylylt",
+          "title": "Don't Go Away",
+          "artist": "Oasis",
+          "album": "Be Here Now",
+          "durationMs": 288000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004BrK113REFoy.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "001hPwAP2EJpjR",
+          "title": "飘飘飘飘",
+          "artist": "陈奕迅",
+          "album": "幸福",
+          "durationMs": 226000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000owu4U0srgyT.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "002yMLCk3FaoQS",
+          "title": "Never Know",
+          "artist": "Jack Johnson",
+          "album": "In Between Dreams",
+          "durationMs": 212000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002ZWOdj0xgn5D.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "002jb9d72FL9k4",
+          "title": "輝く月のように",
+          "artist": "Superfly",
+          "album": "Force 【通常盤】",
+          "durationMs": 329000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002yxVgE1P02tX.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "003Wq3IQ02A36B",
+          "title": "Crazy Little Thing Called Love",
+          "artist": "Queen",
+          "album": "Bohemian Rhapsody (The Original Soundtrack)",
+          "durationMs": 163000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003OW8BB0xV2GZ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "001Qa6lo1zNcEd",
+          "title": "Crossroads",
+          "artist": "John Mayer",
+          "album": "Battle Studies",
+          "durationMs": 149000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000009xQ212tgMLB.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9778450406",
+      "name": "26.9.14",
+      "date": "2026-09-14",
+      "trackCount": 8,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9778450406",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001tq0Ga426wmL.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "004SPoXk1FBWsX",
+          "title": "荒神さま",
+          "artist": "Humbert Humbert",
+          "album": "まっくらやみのにらめっこ",
+          "durationMs": 178000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001tq0Ga426wmL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "0011b3pG3JnAcW",
+          "title": "女皇的新衣",
+          "artist": "王菲",
+          "album": "王菲",
+          "durationMs": 191000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001ytpe40CUYGh.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003Ry3mx0w5ppT",
+          "title": "Always Be My Baby",
+          "artist": "Mariah Carey",
+          "album": "Daydream",
+          "durationMs": 259000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000184bUm2Yv1SA.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "002kuFQD0cf6rP",
+          "title": "黑白",
+          "artist": "方大同",
+          "album": "橙月",
+          "durationMs": 231000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002hMaer3McPaG.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001Mmrog3jiAAm",
+          "title": "Don't You Remember",
+          "artist": "Adele",
+          "album": "The Vampire Diary Season 2 (Original Soundtrack)",
+          "durationMs": 243000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000061bMG35qcTj.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "001tppGU31HFst",
+          "title": "Keep Your Head Up",
+          "artist": "Michael Jackson",
+          "album": "The Ultimate Fan Extras Collection",
+          "durationMs": 289000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004WW71O2Wt2m2.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "004QoUhw4KJq9M",
+          "title": "夢の中の空",
+          "artist": "Humbert Humbert",
+          "album": "夢の中の空",
+          "durationMs": 285000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003WtqW12HGRMc.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "003jyFj84c4AEJ",
+          "title": "背影",
+          "artist": "王菲",
+          "album": "讨好自己",
+          "durationMs": 289000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000SQzfv3pCfGH.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9777943753",
+      "name": "26.9.13",
+      "date": "2026-09-13",
+      "trackCount": 1,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9777943753",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004c10NZ307znM.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "000B56f902p5Vj",
+          "title": "眩暈",
+          "artist": "椎名林檎",
+          "album": "ここでキスして。",
+          "durationMs": 281000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004c10NZ307znM.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9777585897",
+      "name": "26.9.12",
+      "date": "2026-09-12",
+      "trackCount": 8,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9777585897",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000QrPPV0xP4yh.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "004IiQBy0Ac0j8",
+          "title": "風の記憶",
+          "artist": "熊木杏里",
+          "album": "風の中の行進",
+          "durationMs": 223000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000QrPPV0xP4yh.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "0021LDJG0ZwAoh",
+          "title": "誰にだって訳がある",
+          "artist": "ハルレオ",
+          "album": "さよならくちびる",
+          "durationMs": 173000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000Sz9Nv0RnqCj.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000kDkUF3H7MFx",
+          "title": "明日の朝には",
+          "artist": "Humbert Humbert",
+          "album": "11のみじかい话",
+          "durationMs": 182000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002NYFcq0e66jl.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "004NktHf2PAfMN",
+          "title": "Good-bye My Loneliness",
+          "artist": "ZARD",
+          "album": "Good-bye My Loneliness",
+          "durationMs": 274000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003ePwIv004Z23.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "000SGJjz4FBni7",
+          "title": "しろつめくさ",
+          "artist": "Humbert Humbert",
+          "album": "for hundreds of children",
+          "durationMs": 169000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000001xZqv3FeKD6.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "004Ngney1zSjfq",
+          "title": "そのうち",
+          "artist": "Furui Riho",
+          "album": "Letters",
+          "durationMs": 234000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000mltvU1hBcXH.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "000eWZ2h15ZstY",
+          "title": "おじさんと酒",
+          "artist": "Humbert Humbert",
+          "album": "WORK",
+          "durationMs": 241000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002q9LZm0YmTsm.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "001543qo03dB3P",
+          "title": "月が泣いてる",
+          "artist": "辻亚弥乃",
+          "album": "つじベスト",
+          "durationMs": 159000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003kZ8iS2u596Y.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9776567970",
+      "name": "26.9.10",
+      "date": "2026-09-10",
+      "trackCount": 5,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9776567970",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004fdtij1zIYHZ.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "000cxgXm2wbasH",
+          "title": "Groovy Potential",
+          "artist": "Prince",
+          "album": "HITNRUN Phase Two",
+          "durationMs": 376000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004fdtij1zIYHZ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "0004mOSx2RLSG6",
+          "title": "Slow Jamz",
+          "artist": "Twista, Ye (侃爷), Jamie Foxx",
+          "album": "The College Dropout (Explicit)",
+          "durationMs": 316000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003ZmPCE2NI1ui.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "0022iQAj4NXezp",
+          "title": "好不容易",
+          "artist": "方大同",
+          "album": "好不容易",
+          "durationMs": 380000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000gYJZ02JAOHE.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "001kvKxi12FnSZ",
+          "title": "Believe feat. Amanda Silvera & Matt Brevner",
+          "artist": "Hidetake Takayama, Amanda Silvera, Matt Brevner",
+          "album": "NEW AGE OF BEATS",
+          "durationMs": 446000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000P5C5s1NM1lL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001AUTsd0OGLof",
+          "title": "Hits Medley '76",
+          "artist": "Carpenters",
+          "album": "As Time Goes By",
+          "durationMs": 470000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002v4VdA0rrLJg.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9776043521",
+      "name": "26.9.9",
+      "date": "2026-09-09",
+      "trackCount": 6,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9776043521",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001gaUor4URWjt.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001HDWDt0HLKDO",
+          "title": "Never Known a Love Like This",
+          "artist": "Incognito",
+          "album": "Amplified Soul",
+          "durationMs": 327000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001gaUor4URWjt.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "004AAfdW35TJxp",
+          "title": "Buss It Down.",
+          "artist": "RAYE",
+          "album": "My 21st Century Blues (Explicit)",
+          "durationMs": 156000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000qbWX24RG2PD.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002zx2Ja342hr9",
+          "title": "Shoulda, Woulda, Coulda",
+          "artist": "Brian McKnight",
+          "album": "U Turn",
+          "durationMs": 241000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001m8ECW1A65So.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "002223Jr1XNVUB",
+          "title": "Blame It On The Boogie",
+          "artist": "Michael Jackson",
+          "album": "King of Pop",
+          "durationMs": 212000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000uZI3b2P21UW.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "000jmDcF2dL3f4",
+          "title": "Rainy Day",
+          "artist": "Fool's Garden",
+          "album": "Go and Ask Peggy for the Principal Thing",
+          "durationMs": 190000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001F42LP1Wjqaw.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "001aaq2r1s4BDR",
+          "title": "Trouble",
+          "artist": "Iggy Azalea, Jennifer Hudson",
+          "album": "Reclassified",
+          "durationMs": 166000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002f3JnD23RxCF.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9774273121",
+      "name": "26.9.5",
+      "date": "2026-09-05",
+      "trackCount": 13,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9774273121",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000iQbuI10xVHa.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "000ShQ5W3AvKL3",
+          "title": "(Everything I Do) I Do It For You",
+          "artist": "Bryan Adams",
+          "album": "(Everything I Do) I Do It For You",
+          "durationMs": 398000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000iQbuI10xVHa.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "0046VXv51g3MKN",
+          "title": "Nothing Lasts Forever",
+          "artist": "Maroon 5",
+          "album": "It Won't Be Soon Before Long (Deluxe Repack International)",
+          "durationMs": 187000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003qBhmD1DKfv5.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000H4j8r0IaNCP",
+          "title": "还是会寂寞",
+          "artist": "陈绮贞",
+          "album": "华语女生",
+          "durationMs": 270000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004cdi7w0Zc3kr.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "004Tzowd3jxc4U",
+          "title": "银泰",
+          "artist": "孙燕姿",
+          "album": "克卜勒",
+          "durationMs": 263000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003C5V434Vbijq.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "004J3EUG31c1yZ",
+          "title": "Old Time Rock & Roll",
+          "artist": "Bob Seger & The Silver Bullet Band",
+          "album": "Stranger In Town",
+          "durationMs": 194000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002KkweT0h6okF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "002jjB2Y3TPDtU",
+          "title": "Here's Where the Story Ends",
+          "artist": "The Sundays",
+          "album": "Reading Writing And Arithmetic",
+          "durationMs": 230000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001PDj1A3kefE8.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "000FTTrx4g7UrH",
+          "title": "The Scientist",
+          "artist": "Coldplay",
+          "album": "A Rush of Blood to the Head",
+          "durationMs": 309000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000045vi6F09uf1P.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "0021swGh4HsWKX",
+          "title": "Sunny",
+          "artist": "Stereophonics",
+          "album": "Keep the Village Alive",
+          "durationMs": 259000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000332pQT2SbEi0.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "00055Ws80FgNBz",
+          "title": "一个小心愿",
+          "artist": "王菲",
+          "album": "菲靡靡之音",
+          "durationMs": 219000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004IYQj21W1oss.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "00005MAW3pVeXt",
+          "title": "Ain't Nobody Talkin'",
+          "artist": "Taj Mahal, Keb' Mo'",
+          "album": "TajMo",
+          "durationMs": 240000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003tqURK2l8hId.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "002bmfKd2GHJ9p",
+          "title": "Heal The World",
+          "artist": "Michael Jackson",
+          "album": "Dangerous",
+          "durationMs": 384000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004PS00g2zSmPk.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 12,
+          "id": "000Il4z11hOhPQ",
+          "title": "KID AGAIN",
+          "artist": "PJ Morton",
+          "album": "PAUL",
+          "durationMs": 152000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000LEZhY15K3E4.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 13,
+          "id": "002524iD0NQk0M",
+          "title": "From the Bottom of My Heart",
+          "artist": "Stevie Wonder",
+          "album": "A Time to Love",
+          "durationMs": 311000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004Fj1Qq3aepHx.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9773902343",
+      "name": "26.9.4",
+      "date": "2026-09-04",
+      "trackCount": 9,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9773902343",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003CaefR0jlMkg.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001HzYZl4MvBZ9",
+          "title": "You'll See",
+          "artist": "Tizzy Bac",
+          "album": "我想你会变成这样都是我害的",
+          "durationMs": 396000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003CaefR0jlMkg.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000r46bj3trhQk",
+          "title": "Don't Stop",
+          "artist": "The Rolling Stones",
+          "album": "Rolling Stonges Forty Licks",
+          "durationMs": 239000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000IKVzf1GBZtf.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002v3GyL2ecKcp",
+          "title": "Touch",
+          "artist": "Ray Charles, John Legend",
+          "album": "Genius & Friends",
+          "durationMs": 279000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001VBdga3IWMB0.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "001bRoCg1pSAdQ",
+          "title": "愛をこめて花束を",
+          "artist": "Superfly",
+          "album": "Superfly",
+          "durationMs": 295000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004IEUYf0WbVsD.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "002j6kvI4IViHS",
+          "title": "Toes",
+          "artist": "Zac Brown Band",
+          "album": "The Foundation (Deluxe Version)",
+          "durationMs": 261000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002KnYwG05sBKp.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "001s9fq412QXRp",
+          "title": "Amazing Day",
+          "artist": "Coldplay",
+          "album": "A Head Full of Dreams",
+          "durationMs": 271000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000NQNPC09SpPS.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "003thxZI1sQ0qB",
+          "title": "My Song",
+          "artist": "Labi Siffre",
+          "album": "Crying Laughing Loving Lying (Deluxe Edition)",
+          "durationMs": 284000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000tekmu26j2gb.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "002kPId11N9zj5",
+          "title": "Something To Talk About",
+          "artist": "Bonnie Raitt",
+          "album": "BillBoard Top 100 Of 1991",
+          "durationMs": 227000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001PT7NX1lhuWy.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "000CljlF376usF",
+          "title": "Starting Line",
+          "artist": "Cory Wong, Emily C. Browning",
+          "album": "Motivational Music for the Syncopated Soul",
+          "durationMs": 239000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004G4nIE1U96LN.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9773389092",
+      "name": "26.9.3",
+      "date": "2026-09-03",
+      "trackCount": 17,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9773389092",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004WGlpL19noaK.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "003oGZXM05uQLm",
+          "title": "Streets Of Love",
+          "artist": "The Rolling Stones",
+          "album": "A Bigger Bang",
+          "durationMs": 309000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004WGlpL19noaK.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002NWmSa0HeZFo",
+          "title": "When Doves Cry",
+          "artist": "Prince, The Revolution",
+          "album": "Purple Rain (Explicit)",
+          "durationMs": 354000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002KKkpP3MeVdn.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "00389RNI2MbjKO",
+          "title": "Don't Leave Me Here",
+          "artist": "Taj Mahal, Keb' Mo'",
+          "album": "TajMo",
+          "durationMs": 302000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003tqURK2l8hId.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "002Z6fmu3mOPFu",
+          "title": "Overjoyed",
+          "artist": "Stevie Wonder",
+          "album": "In Square Circle",
+          "durationMs": 222000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000hGh6q1bvaSp.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001UWynC37yzMv",
+          "title": "Rock This House",
+          "artist": "B.B. King, Elton John",
+          "album": "B.B. King & Friends - 80",
+          "durationMs": 186000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000015oU9y1EEweX.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "002vUbK23fgWPT",
+          "title": "Misery",
+          "artist": "Green Day",
+          "album": "Warning",
+          "durationMs": 305000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004T1yEB1HX790.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "002Je3TM4eaP9Y",
+          "title": "Smooth Operator",
+          "artist": "Sade",
+          "album": "Diamond Life",
+          "durationMs": 294000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001fjlWz03GN1X.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "002imxRI2X3vbO",
+          "title": "日が落ちるまで",
+          "artist": "Humbert Humbert",
+          "album": "道はつづく",
+          "durationMs": 296000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000NT5Zc3UNsbd.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "0031DDRI09pAxB",
+          "title": "The Devil You Know",
+          "artist": "JJ Grey & Mofro",
+          "album": "Orange Blossoms",
+          "durationMs": 214000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000aT3xh1Hsmwn.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "002jFMK83Y0n4R",
+          "title": "Look in My Eyes",
+          "artist": "Tower Of Power",
+          "album": "Step Up",
+          "durationMs": 224000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000024pEue0svEyz.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "003mmvYb0LqHCZ",
+          "title": "OUT THERE: Strollin'",
+          "artist": "上原ひろみ, Sonicwonder",
+          "album": "OUT THERE",
+          "durationMs": 403000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000PvOPB0qU3I1.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 12,
+          "id": "001pyMur4XDk40",
+          "title": "I Feel Fine",
+          "artist": "The Ori Naftaly Band",
+          "album": "Happy for Good",
+          "durationMs": 255000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004c69Ua1pnMVw.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 13,
+          "id": "001hezGs1Qem5I",
+          "title": "Gloria",
+          "artist": "Enchantment",
+          "album": "If You're Ready...The Best Of Enchantment",
+          "durationMs": 336000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002a7kG23JuDLY.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 14,
+          "id": "002slMav0jmIzd",
+          "title": "As I Am",
+          "artist": "Joan Jett & The Blackhearts",
+          "album": "Pure and Simple",
+          "durationMs": 271000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000021v8F3rBZli.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 15,
+          "id": "000GBwOb27Ww6n",
+          "title": "I Let My Guitar Do The Talking",
+          "artist": "Buddy Guy",
+          "album": "I Let My Guitar Do The Talking",
+          "durationMs": 266000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004Whp660xz2oe.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 16,
+          "id": "001HrW670SC5dj",
+          "title": "Happy New Year",
+          "artist": "ABBA",
+          "album": "Super Trouper",
+          "durationMs": 263000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001IO0Rp4HDdsS.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 17,
+          "id": "004CTDnk1wNF71",
+          "title": "Dancing Queen",
+          "artist": "ABBA",
+          "album": "Dancing Queen",
+          "durationMs": 231000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004ZUkem2UbRbL.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9772070107",
+      "name": "26.8.31",
+      "date": "2026-08-31",
+      "trackCount": 4,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9772070107",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002wWCPw0q6kBC.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "000awA8L2mqgUv",
+          "title": "Women's Magazine Tango",
+          "artist": "Jocelyn Pook",
+          "album": "Habitación En Roma",
+          "durationMs": 362000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002wWCPw0q6kBC.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "0019BFTi4USXNL",
+          "title": "November Rain",
+          "artist": "Guns N' Roses",
+          "album": "Use Your Illusion I (Explicit)",
+          "durationMs": 536000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001fBrSo0UDNjE.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "001ZAkTZ0g0meE",
+          "title": "Under Pressure",
+          "artist": "David Bowie, Queen",
+          "album": "The Best of David Bowie 1980 / 1987",
+          "durationMs": 245000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001PgS9X3Vb1ZN.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "001maxlg4T6xus",
+          "title": "Douce France",
+          "artist": "Pomplamoose, John Tegmeyer",
+          "album": "Douce France",
+          "durationMs": 215000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001SpvPw0KjczK.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9771628125",
+      "name": "26.8.30",
+      "date": "2026-08-30",
+      "trackCount": 13,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9771628125",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001CSvVo4DNrRA.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002o7kvO0QxANe",
+          "title": "The Blues Is Alive And Well",
+          "artist": "Buddy Guy",
+          "album": "The Blues Is Alive And Well",
+          "durationMs": 313000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001CSvVo4DNrRA.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000zCglg1xOt8g",
+          "title": "祭りのあと風",
+          "artist": "夏川里美",
+          "album": "想い風（うむいかじ）",
+          "durationMs": 313000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000Sk0YY3qinNe.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000Q4LEs3sXoCg",
+          "title": "All By Myself",
+          "artist": "Eric Carmen",
+          "album": "Eric Carmen",
+          "durationMs": 429000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000Cll5w1NR18r.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "000tcIIw4H4p2g",
+          "title": "Affirmation",
+          "artist": "George Benson",
+          "album": "Breezin' (Expanded)",
+          "durationMs": 418000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004YEEGm03Bvdx.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "00397XqB492BX8",
+          "title": "一夜情",
+          "artist": "张惠妹",
+          "album": "不顾一切",
+          "durationMs": 314000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000iHM083qltkN.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "003SekUa1KOo6z",
+          "title": "Married life",
+          "artist": "Michael Giacchino",
+          "album": "Up Complete Cast & Crew",
+          "durationMs": 250000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000047kgnl25ETRN.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "001MC4zm15Lqny",
+          "title": "El Palomo y La Negra",
+          "artist": "Natalia Lafourcade",
+          "album": "Cancionera",
+          "durationMs": 420000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003v8Juc4ZhJGR.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "003DNSsU0G8m45",
+          "title": "Now Or Never",
+          "artist": "Kendrick Lamar, Mary J. Blige",
+          "album": "good kid, m.A.A.d city (Deluxe) [Explicit]",
+          "durationMs": 256000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004dMNMY06hyw3.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "003awblL3Rqv80",
+          "title": "Supremacy",
+          "artist": "Muse",
+          "album": "The 2nd Law (Explicit)",
+          "durationMs": 295000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002O43dg4Vwjhp.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "003iVA644AbOT9",
+          "title": "1000 X'S & O'S",
+          "artist": "Prince",
+          "album": "HITNRUN Phase One",
+          "durationMs": 267000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004Hl8Es3hUmJu.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "002L2c9S2v2bAq",
+          "title": "おうちに帰りたい",
+          "artist": "Humbert Humbert",
+          "album": "家族行進曲",
+          "durationMs": 198000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002E31qK4A0oXF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 12,
+          "id": "001GPzkS21HLAk",
+          "title": "歌手与模特儿",
+          "artist": "方大同",
+          "album": "爱爱爱",
+          "durationMs": 221000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002kkyPO1moicK.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 13,
+          "id": "000V3t1F3agtVg",
+          "title": "Piano Man",
+          "artist": "Billy Joel",
+          "album": "Piano Man",
+          "durationMs": 336000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003h99iX3Gfe8X.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9771046674",
+      "name": "26.8.29",
+      "date": "2026-08-29",
+      "trackCount": 16,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9771046674",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000491qxg2MqlCX.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "003l77dx0mFKtt",
+          "title": "À toi",
+          "artist": "Joe Dassin",
+          "album": "Ses Plus Grands Succes",
+          "durationMs": 171000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000491qxg2MqlCX.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "0035hyvC2Ha4vJ",
+          "title": "Close To You",
+          "artist": "Carpenters",
+          "album": "Yesterday Once More",
+          "durationMs": 221000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003HKbF81gnJth.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002QweFe4cZL9U",
+          "title": "Why Am I the One",
+          "artist": "Fun.",
+          "album": "Some Nights",
+          "durationMs": 286000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002QDjpI1C4KWi.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "0000fbK43foK8g",
+          "title": "Reality",
+          "artist": "Vladimir Cosma, Richard Sanderson",
+          "album": "Les plus belles chansons de cinéma & télévision, vol. 1",
+          "durationMs": 287000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003ALRgv365MBC.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "000fgVnk11UBR3",
+          "title": "Ain't No Sunshine",
+          "artist": "Buddy Guy, Tracy Chapman",
+          "album": "Bring 'Em In",
+          "durationMs": 204000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Vz22W1hNDbL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "000wvbLX3t9Ys4",
+          "title": "Till Death Us Do Part (Mono)",
+          "artist": "The Kinks",
+          "album": "The Anthology 1964 - 1971",
+          "durationMs": 197000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002ZolZX0vRBhF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "000pR6hP45jF9o",
+          "title": "The Boy Who Stole the Blues",
+          "artist": "Mighty Mo Rodgers",
+          "album": "Red, White & Blues",
+          "durationMs": 324000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000014byKv0QEl8y.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "001SxfqB3cSWpH",
+          "title": "あたたかな手",
+          "artist": "Humbert Humbert",
+          "album": "家族行進曲",
+          "durationMs": 281000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002E31qK4A0oXF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "004Ixen61uiZKC",
+          "title": "Sign of the Times",
+          "artist": "Harry Styles",
+          "album": "Harry Styles",
+          "durationMs": 340000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004fJ6X42fqxBr.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "000bhFwn2hEgpA",
+          "title": "Happier Times Ahead.",
+          "artist": "RAYE",
+          "album": "THIS MUSIC MAY CONTAIN HOPE.",
+          "durationMs": 270000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002SoDtP15g7IY.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "000bQMkN3pHKpv",
+          "title": "10月のあなた",
+          "artist": "関取花",
+          "album": "中くらいの話",
+          "durationMs": 254000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004UTl0J0URttx.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 12,
+          "id": "002XzvJ136rPLk",
+          "title": "Emotions",
+          "artist": "Mariah Carey",
+          "album": "Emotions",
+          "durationMs": 248000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000tMYPJ1RDEzz.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 13,
+          "id": "001bRPrB3WXJOj",
+          "title": "Fire On the Mountain",
+          "artist": "Aṣa",
+          "album": "Asa (Asha)",
+          "durationMs": 280000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000229DVf3fksiA.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 14,
+          "id": "003Jvnvt3EdGyJ",
+          "title": "Lost for Words",
+          "artist": "Pink Floyd",
+          "album": "The Division Bell (Explicit)",
+          "durationMs": 314000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004GYb3m3RDhcH.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 15,
+          "id": "001WBhMz1jjBmX",
+          "title": "半途而废",
+          "artist": "王菲",
+          "album": "唱游",
+          "durationMs": 214000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001gn7g54ZEIKb.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 16,
+          "id": "003BzWhK044lJM",
+          "title": "Yeah Yeah Yeah",
+          "artist": "Cayucas",
+          "album": "Blue Summer",
+          "durationMs": 205000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001sJlvX2isbOx.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9770674642",
+      "name": "26.8.28",
+      "date": "2026-08-28",
+      "trackCount": 16,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9770674642",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Vz22W1hNDbL.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001xFxcB2uuukX",
+          "title": "I've Got Dreams To Remember",
+          "artist": "Buddy Guy, John Mayer",
+          "album": "Bring 'Em In",
+          "durationMs": 296000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Vz22W1hNDbL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003Ru4LH1MVZCk",
+          "title": "Gravity",
+          "artist": "John Mayer",
+          "album": "Continuum (Special Edition)",
+          "durationMs": 245000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002S7UBf14A62i.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002fOXue4XxDKv",
+          "title": "Always Alright",
+          "artist": "Alabama Shakes",
+          "album": "Silver Linings Playbook",
+          "durationMs": 249000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001zntdS2Aj4Tm.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "001w2YlX0EbnFp",
+          "title": "Lyin' Eyes",
+          "artist": "Eagles",
+          "album": "One of These Nights",
+          "durationMs": 380000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001NY5LQ22WWMr.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001HdOuq3rBr3K",
+          "title": "I Can See Clearly Now",
+          "artist": "Johnny Nash",
+          "album": "I Can See Clearly Now (Expanded Edition)",
+          "durationMs": 166000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003ExnOd0xqVfE.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "004WA89u42OqCF",
+          "title": "Unbelievable",
+          "artist": "Diamond Rio",
+          "album": "Unbelievable",
+          "durationMs": 141000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000PWerC3ULepm.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "000Eq2fc2uW9hE",
+          "title": "Imagine",
+          "artist": "John Lennon",
+          "album": "Imagine",
+          "durationMs": 186000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004eU9md4SkRoU.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "002tFP4W4FGPtv",
+          "title": "4 and 20",
+          "artist": "Joss Stone",
+          "album": "Colour Me Free!",
+          "durationMs": 306000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002If05k2rmjbe.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "003WOQMV3ZtDLU",
+          "title": "The Joke",
+          "artist": "Brandi Carlile",
+          "album": "By the Way, I Forgive You",
+          "durationMs": 279000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000W3AMU2uWLoO.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "0010mXMN3BsbIx",
+          "title": "On Fire",
+          "artist": "JJ Grey & Mofro",
+          "album": "Orange Blossoms",
+          "durationMs": 266000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000aT3xh1Hsmwn.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "004VmCmn2Rx8hN",
+          "title": "Super Trouper",
+          "artist": "ABBA",
+          "album": "Super Trouper",
+          "durationMs": 252000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001IO0Rp4HDdsS.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 12,
+          "id": "003iKXfI0vtHz0",
+          "title": "ひかり",
+          "artist": "玉置浩二",
+          "album": "Kyoutoiu Konohiwo Ikiteikou",
+          "durationMs": 238000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002zMTQj0HNfbT.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 13,
+          "id": "000Vhxon0O3FKb",
+          "title": "The Longest Goodbye",
+          "artist": "Role Model, Laufey",
+          "album": "The Longest Goodbye (Explicit)",
+          "durationMs": 170000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000iZzWA2XtPBO.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 14,
+          "id": "003L4Cyr1dI7SW",
+          "title": "Give Me One Reason",
+          "artist": "Tracy Chapman",
+          "album": "New Beginning",
+          "durationMs": 270000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004IOrSb3JFm0g.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 15,
+          "id": "001WCYyN1j8ZX1",
+          "title": "I Feel Lucky",
+          "artist": "Mary Chapin Carpenter",
+          "album": "Come On Come On",
+          "durationMs": 211000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001bVmt40mow4C.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 16,
+          "id": "002a0iQo25xpVt",
+          "title": "La maladie d'amour",
+          "artist": "Michel Sardou",
+          "album": "La Maladie D'Amour",
+          "durationMs": 210000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002xdJME3rbgvq.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9768952431",
+      "name": "26.8.25",
+      "date": "2026-08-25",
+      "trackCount": 14,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9768952431",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000025qUTP4CF4Hr.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001TBgXL1scF4I",
+          "title": "My Hero",
+          "artist": "Sean Lennon",
+          "album": "Alter Egos (Original Motion Picture Soundtrack)",
+          "durationMs": 162000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000025qUTP4CF4Hr.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "001USAsy41IrZ4",
+          "title": "Isolation",
+          "artist": "John Lennon",
+          "album": "Plastic Ono Band",
+          "durationMs": 173000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000YE9hU1cmLbZ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003sq8HF07T6sy",
+          "title": "The Worst Is yet to Come",
+          "artist": "Keb' Mo'",
+          "album": "Bluesamericana",
+          "durationMs": 237000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003UexqA2X1MnN.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "0046s2o60FpiVs",
+          "title": "Crocodile Rock",
+          "artist": "Elton John",
+          "album": "Don't Shoot Me I'm Only The Piano Player",
+          "durationMs": 235000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004Lx8Dc4GMJiu.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001kYXhG0W0xHh",
+          "title": "Whiskey For Sale",
+          "artist": "Buddy Guy",
+          "album": "The Blues Is Alive And Well",
+          "durationMs": 242000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001CSvVo4DNrRA.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "000dc0kT4CwfnJ",
+          "title": "All You Get From Love Is A Love Song",
+          "artist": "Carpenters",
+          "album": "Yesterday Once More",
+          "durationMs": 226000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003HKbF81gnJth.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "002sIZRM4eBC7X",
+          "title": "Shake Me In Your Arms",
+          "artist": "Taj Mahal, Keb' Mo'",
+          "album": "TajMo",
+          "durationMs": 358000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003tqURK2l8hId.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "002ZYRF413VFLY",
+          "title": "Ça va pas changer le monde",
+          "artist": "Joe Dassin",
+          "album": "Joe Dassin",
+          "durationMs": 182000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003BOcbp3u9a31.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "001tJoUn4I7rMh",
+          "title": "Thank You For The Music",
+          "artist": "ABBA",
+          "album": "Thank You For The Music",
+          "durationMs": 243000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004XpqA3391Fox.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "0013kNVD2dorqk",
+          "title": "Turn It Loose",
+          "artist": "The Judds",
+          "album": "All-Time Greatest Hits",
+          "durationMs": 224000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004GeJKo3yhSNI.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "003D1yjY41HSfO",
+          "title": "Gee, Doctor",
+          "artist": "Dimie Cat",
+          "album": "Pin Me Up",
+          "durationMs": 216000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000RbOjp3CE0xR.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 12,
+          "id": "003fEUYI3Qk3K9",
+          "title": "Les copains d'abord",
+          "artist": "Pomplamoose, Ross Garren",
+          "album": "Les copains d'abord",
+          "durationMs": 180000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000008i8o21V09LE.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 13,
+          "id": "002vcILu4VzTv7",
+          "title": "Salut",
+          "artist": "Helene Segara, Joe Dassin",
+          "album": "Et si tu n'existais pas",
+          "durationMs": 194000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Zm1yI45Tf3x.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 14,
+          "id": "001B8Wtl0FZ7HM",
+          "title": "Et Si Tu N'Existais Pas",
+          "artist": "Joe Dassin",
+          "album": "Ses Plus Grands Succes",
+          "durationMs": 211000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000491qxg2MqlCX.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9768601016",
+      "name": "26.8.24",
+      "date": "2026-08-24",
+      "trackCount": 3,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9768601016",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001UINEq32Wwnx.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0020lSHs1riReU",
+          "title": "I Feel Lonely",
+          "artist": "Sasha",
+          "album": "Dedicated To......",
+          "durationMs": 238000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001UINEq32Wwnx.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000CtQsR0VHAff",
+          "title": "Wonderful",
+          "artist": "Aretha Franklin",
+          "album": "So Damn Happy",
+          "durationMs": 244000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003ehaHx0STwLC.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002qhfGI03w2ce",
+          "title": "Love Soul Matter",
+          "artist": "Gotthard",
+          "album": "Defrosted",
+          "durationMs": 229000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002PDP8R26tp7S.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9767315453",
+      "name": "26.8.22",
+      "date": "2026-08-22",
+      "trackCount": 4,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9767315453",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000b4GnU2R3gED.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001MRiqD48o1bc",
+          "title": "Estranged",
+          "artist": "Guns N' Roses",
+          "album": "Use Your Illusion II",
+          "durationMs": 565000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000b4GnU2R3gED.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "0017XI2t2TkpMW",
+          "title": "Feeling Good",
+          "artist": "Nina Simone",
+          "album": "I Put A Spell On You",
+          "durationMs": 174000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003uIap74CYkwY.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "001PluCg3N5o3U",
+          "title": "Pompous Fool",
+          "artist": "Eric Clapton",
+          "album": "Meanwhile",
+          "durationMs": 285000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000005eaAx0MKBd4.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "001XMfv52VG1rn",
+          "title": "I Just Called to Say I Love You",
+          "artist": "Stevie Wonder",
+          "album": "I Just Call To Say I Love You",
+          "durationMs": 261000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000024kTJZ1FHoNX.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9764886489",
+      "name": "26.8.17",
+      "date": "2026-08-17",
+      "trackCount": 3,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9764886489",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000046Ho1e25qLHQ.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001LpEG30lZQ7u",
+          "title": "Get On the Boat",
+          "artist": "Prince",
+          "album": "3121",
+          "durationMs": 371000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000046Ho1e25qLHQ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "004ApbCA3IpBiI",
+          "title": "カサノバ L",
+          "artist": "岩崎宏美",
+          "album": "TOKYO 1980s Victor Edition (The Compilation) Boogie, Funk & Modern Soul from Japan",
+          "durationMs": 278000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000009sAkQ23bHno.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000avlqU2rYHfU",
+          "title": "鬼灯",
+          "artist": "笹川美和",
+          "album": "miwaGLITTER",
+          "durationMs": 273000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000019CnlC25kPm6.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9763613317",
+      "name": "26.8.15",
+      "date": "2026-08-15",
+      "trackCount": 2,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9763613317",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001q2NfT4g12Pv.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0005H2I32J9BEw",
+          "title": "夕凪海岸",
+          "artist": "岩崎宏美",
+          "album": "WISH",
+          "durationMs": 275000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001q2NfT4g12Pv.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002jqOR310i82t",
+          "title": "夕暮れのグランド",
+          "artist": "Annabel",
+          "album": "青春サラバイ・前編",
+          "durationMs": 284000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001nCpTT04Es9w.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9759939920",
+      "name": "26.8.7",
+      "date": "2026-08-07",
+      "trackCount": 6,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9759939920",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004Cfe2s2nJaat.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "003qj5Nu0xOZK4",
+          "title": "Funkin' On the One",
+          "artist": "The Reddings",
+          "album": "The Awakening",
+          "durationMs": 217000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004Cfe2s2nJaat.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003ANLff0Woum7",
+          "title": "City Lights",
+          "artist": "Chic",
+          "album": "Tongue in Chic",
+          "durationMs": 267000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001nWU5b4886UJ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "001zfFAY1UQi9H",
+          "title": "Stop By Monie's",
+          "artist": "Liquid Soul",
+          "album": "Here's The Deal",
+          "durationMs": 234000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003e5uJK3pwgNg.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "003ES1eg2PbLdp",
+          "title": "Blame It on the Boogie",
+          "artist": "The Jacksons",
+          "album": "Destiny",
+          "durationMs": 214000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001K8q0x3TqwVS.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "0026ojiW00f55U",
+          "title": "The Most Beautiful Girl In the World",
+          "artist": "Prince",
+          "album": "The Gold Experience (Explicit)",
+          "durationMs": 265000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000033KvKV0tWQdp.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "0038cLC828pdtb",
+          "title": "DIGGING YOUR SCENE",
+          "artist": "Paris Match",
+          "album": "Our Favourite Pop",
+          "durationMs": 246000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000aSDZF0hJ9uJ.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9759413830",
+      "name": "26.8.6",
+      "date": "2026-08-06",
+      "trackCount": 11,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9759413830",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001jIbsv0Edwma.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "003qMIt73KD74v",
+          "title": "Wonderful Tonight",
+          "artist": "Eric Clapton",
+          "album": "24 Nights",
+          "durationMs": 222000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001jIbsv0Edwma.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002TvRah10wr82",
+          "title": "People Get Up And Drive Your Funky Soul",
+          "artist": "James Brown, Fred Wesley, The J.B.'s",
+          "album": "motherlode",
+          "durationMs": 544000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000Wfcmw3MgSgT.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000WHG2f2pDyqX",
+          "title": "浮躁",
+          "artist": "王菲",
+          "album": "浮躁",
+          "durationMs": 183000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000002oEts1trJQd.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "002JfOhw0Ab8JI",
+          "title": "Been Around the World",
+          "artist": "Brian Culbertson",
+          "album": "Funk!",
+          "durationMs": 279000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001xUxEh0GWPDh.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "000mppsh15KcTR",
+          "title": "Chocolate High",
+          "artist": "India Arie, Musiq Soulchild",
+          "album": "TESTIMONY VOL. 2: LOVE & POLITICS",
+          "durationMs": 283000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004D5b4u2LefHQ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "0002n69b1cXOzO",
+          "title": "I Wish I Knew How It Would Feel To Be Free",
+          "artist": "Nina Simone",
+          "album": "The Best Of Nina Simone",
+          "durationMs": 190000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001NHI0Y3oOdAk.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "002nQcKp4X9WON",
+          "title": "In My Defence",
+          "artist": "Freddie Mercury",
+          "album": "Never Boring (Deluxe)",
+          "durationMs": 232000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002oT5L93fRVF5.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "0045GVA80i4lVr",
+          "title": "Buzzing Bee",
+          "artist": "Gabi Hartmann",
+          "album": "Gabi Hartmann",
+          "durationMs": 201000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000H9TJx47xqjX.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "000l8ZIV11FCzV",
+          "title": "Here Comes The Moon",
+          "artist": "George Harrison",
+          "album": "George Harrison",
+          "durationMs": 290000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003OmRda3bjg9x.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "004IFptz2RzmST",
+          "title": "Beautiful Night",
+          "artist": "Paul McCartney, Jeff Lynne, Ringo Starr, Linda McCartney",
+          "album": "Flaming Pie",
+          "durationMs": 308000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000sqde43FfNh7.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "002Oz0RD0RXrwk",
+          "title": "三分熟",
+          "artist": "顾忠山",
+          "album": "PROPER UP!正",
+          "durationMs": 474000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000vDpCK3aPD18.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9757412184",
+      "name": "26.8.2",
+      "date": "2026-08-02",
+      "trackCount": 2,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9757412184",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004GYb3m3RDhcH.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0048fATA3WsGui",
+          "title": "Coming Back to Life",
+          "artist": "Pink Floyd",
+          "album": "The Division Bell (Explicit)",
+          "durationMs": 378000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004GYb3m3RDhcH.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000zLiwp4THSfQ",
+          "title": "誓言",
+          "artist": "王菲",
+          "album": "胡思乱想",
+          "durationMs": 264000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003sm1HE4YysTz.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9756384674",
+      "name": "26.7.31",
+      "date": "2026-07-31",
+      "trackCount": 4,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9756384674",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001YHQ0T1SYcpP.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0022X4z40hlCJe",
+          "title": "LOOKING FOR LOVE",
+          "artist": "堀井 勝美",
+          "album": "LOVERS",
+          "durationMs": 331000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001YHQ0T1SYcpP.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003CK7ms1fkxdn",
+          "title": "SKYSCRAPER",
+          "artist": "堀井 勝美",
+          "album": "LOVERS",
+          "durationMs": 276000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001YHQ0T1SYcpP.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003aOKDK45Y499",
+          "title": "dance",
+          "artist": "Jizue",
+          "album": "dance",
+          "durationMs": 430000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000045X1ny2i0zuT.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "000tofnA12NdZg",
+          "title": "Tiny Dancer",
+          "artist": "Elton John",
+          "album": "Madman Across The Water",
+          "durationMs": 377000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004YIt6L3WJX5v.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9755301036",
+      "name": "26.7.29",
+      "date": "2026-07-29",
+      "trackCount": 11,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9755301036",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003sHFuh2k8Yd2.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002bLsxo0Tj7vO",
+          "title": "Sans lendemain",
+          "artist": "La Riviera",
+          "album": "Soleil couchant",
+          "durationMs": 454000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003sHFuh2k8Yd2.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003zdQ7M2N6I97",
+          "title": "Patience",
+          "artist": "Guns N' Roses",
+          "album": "G N' R Lies (Explicit)",
+          "durationMs": 354000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000U0i284dWkEV.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "001EjBKB4NbNKE",
+          "title": "花も騒めく",
+          "artist": "ヨルシカ",
+          "album": "二人称",
+          "durationMs": 220000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001xF6BW0806HZ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "003FjJpG1i2vP0",
+          "title": "Pain Is So Close To Pleasure",
+          "artist": "Queen",
+          "album": "A Kind Of Magic (Deluxe Edition)",
+          "durationMs": 261000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003gu6NR1FHGup.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001CJtSH4BWmIY",
+          "title": "50 Ways to Leave Your Lover",
+          "artist": "Paul Simon",
+          "album": "Still Crazy After All These Years",
+          "durationMs": 217000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000012s0QG1oAdMf.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "004A9P7H1JApta",
+          "title": "GONE, GONE / THANK YOU",
+          "artist": "Tyler, The Creator",
+          "album": "IGOR (Explicit)",
+          "durationMs": 375000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000ewIhe1kZSSa.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "001cpaO92XGspa",
+          "title": "泡沫綺譚",
+          "artist": "Lamp",
+          "album": "残光",
+          "durationMs": 256000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000av6mC3vnHbE.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "001Cky680OFfNt",
+          "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+          "artist": "ABBA",
+          "album": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+          "durationMs": 289000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000E8m883a2HsA.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "000CYMrh3q3wE5",
+          "title": "I'm Alright",
+          "artist": "Neil Zaza",
+          "album": "Sing",
+          "durationMs": 242000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000034Pclh2JDIYz.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "003haTKj4K2lC8",
+          "title": "入梦寻林",
+          "artist": "THE SHINING",
+          "album": "梦林询解",
+          "durationMs": 237000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000017vRFa3wg2HT.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "003Vfa7V0gqvy8",
+          "title": "Goodmorning",
+          "artist": "Bleachers",
+          "album": "Gone Now (Explicit)",
+          "durationMs": 193000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003z2zM34EsWLa.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9753225632",
+      "name": "26.7.26",
+      "date": "2026-07-26",
+      "trackCount": 5,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9753225632",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002fDPMg0zGB2V.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001bjGTM4QEFUt",
+          "title": "Stone",
+          "artist": "Prince",
+          "album": "Stone",
+          "durationMs": 187000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002fDPMg0zGB2V.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000QtPJG3x6ukQ",
+          "title": "WHERE IS MY HUSBAND!",
+          "artist": "RAYE",
+          "album": "WHERE IS MY HUSBAND!",
+          "durationMs": 197000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004UwUbU1outYr.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "001iCu2X0UNowl",
+          "title": "Like Him",
+          "artist": "Tyler, The Creator",
+          "album": "CHROMAKOPIA (Explicit)",
+          "durationMs": 278000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003tj63a1jgOCH.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "000LPqmX1jzuwe",
+          "title": "Two Less Lonely People In the World",
+          "artist": "Air Supply",
+          "album": "Now And Forever",
+          "durationMs": 243000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003pw6sr3tcADK.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "000IqGxk1ekiZC",
+          "title": "Can We Fix Our Nation's Broken Heart",
+          "artist": "Stevie Wonder",
+          "album": "Can We Fix Our Nation's Broken Heart",
+          "durationMs": 278000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002UQoPg3o6OIW.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9752399053",
+      "name": "26.7.24",
+      "date": "2026-07-24",
+      "trackCount": 4,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9752399053",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004fdtij1zIYHZ.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002KeJoP0XAJsU",
+          "title": "Big City",
+          "artist": "Prince",
+          "album": "HITNRUN Phase Two",
+          "durationMs": 385000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004fdtij1zIYHZ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002PkMF137Xdmn",
+          "title": "Rocknroll Loveaffair",
+          "artist": "Prince",
+          "album": "HITNRUN Phase Two",
+          "durationMs": 241000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004fdtij1zIYHZ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "0037I6WE0vcAWr",
+          "title": "Ballad Of A Well-Known Gun",
+          "artist": "Elton John",
+          "album": "Tumbleweed Connection",
+          "durationMs": 296000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004DLVrc2S46ba.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "003nbpln4bna4g",
+          "title": "Gulliver/It's Hay Chewed",
+          "artist": "Elton John",
+          "album": "Empty Sky",
+          "durationMs": 418000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002aJWuE388o3I.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9751258744",
+      "name": "26.7.22",
+      "date": "2026-07-22",
+      "trackCount": 5,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9751258744",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002aJWuE388o3I.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001wj4wD3dhSFK",
+          "title": "Skyline Pigeon",
+          "artist": "Elton John",
+          "album": "Empty Sky",
+          "durationMs": 217000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002aJWuE388o3I.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "001cYBKR1rR6a3",
+          "title": "The Scaffold",
+          "artist": "Elton John",
+          "album": "Empty Sky",
+          "durationMs": 198000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002aJWuE388o3I.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003dsteN4LTFwD",
+          "title": "Sails",
+          "artist": "Elton John",
+          "album": "Empty Sky",
+          "durationMs": 225000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002aJWuE388o3I.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "002dZO3x33Blp6",
+          "title": "Lady What's Tomorrow",
+          "artist": "Elton John",
+          "album": "Empty Sky",
+          "durationMs": 189000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002aJWuE388o3I.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "002PVQJv3Etj8w",
+          "title": "Western Ford Gateway",
+          "artist": "Elton John",
+          "album": "Empty Sky",
+          "durationMs": 195000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002aJWuE388o3I.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9745516623",
+      "name": "26.7.12",
+      "date": "2026-07-12",
+      "trackCount": 6,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9745516623",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001y6SFh2v6ZtV.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "000ybVWz3FP6fu",
+          "title": "Creep",
+          "artist": "Radiohead",
+          "album": "Creep (Explicit)",
+          "durationMs": 238000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001y6SFh2v6ZtV.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003LKG1F3eJQsw",
+          "title": "The Gunner's Dream",
+          "artist": "Pink Floyd",
+          "album": "The Final Cut (Explicit)",
+          "durationMs": 318000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000013BwRl3be5sE.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003pLy4X2erne1",
+          "title": "Sweet Child O'Mine",
+          "artist": "Guns N' Roses",
+          "album": "Appetite For Destruction (Explicit)",
+          "durationMs": 356000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000wTf2E19Irrb.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "000FJra62ISQBp",
+          "title": "Man In The Mirror",
+          "artist": "Michael Jackson",
+          "album": "Michael Jackson's This Is It (The Music That Inspired the Movie)",
+          "durationMs": 320000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002CPtPH2lzrYR.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "003nM6uO2S9LtS",
+          "title": "Power of Soul",
+          "artist": "Marcus Miller",
+          "album": "Silver Rain",
+          "durationMs": 413000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003CqiLK0hUhwF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "000IywQV31leej",
+          "title": "Love You More",
+          "artist": "Billy Ocean",
+          "album": "One World",
+          "durationMs": 267000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000YLZKi3GmO4f.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9737735404",
+      "name": "26.6.28",
+      "date": "2026-06-28",
+      "trackCount": 1,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9737735404",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003ZyHYB3GiH5I.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "003bCPdY0QENmW",
+          "title": "鱼",
+          "artist": "陈绮贞",
+          "album": "太阳",
+          "durationMs": 300000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003ZyHYB3GiH5I.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9734838247",
+      "name": "26.6.23",
+      "date": "2026-06-23",
+      "trackCount": 1,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9734838247",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001mqPWP0nivbe.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0045fRcD0cKRTm",
+          "title": "Norman f**king Rockwell",
+          "artist": "Lana Del Rey",
+          "album": "Norman ******* Rockwell! (Explicit)",
+          "durationMs": 248000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001mqPWP0nivbe.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9732129681",
+      "name": "26.6.19",
+      "date": "2026-06-19",
+      "trackCount": 4,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9732129681",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000ur5Fj12RBKy.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001hV6Ri0s7OR3",
+          "title": "小鸟",
+          "artist": "侯牧人",
+          "album": "我爱你中国",
+          "durationMs": 206000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000ur5Fj12RBKy.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002g2ouS0QycTY",
+          "title": "Champagne Supernova",
+          "artist": "Oasis",
+          "album": "(What's The Story) Morning Glory? ([Remastered])",
+          "durationMs": 448000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000ORMxN0k9anY.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002Z8Ymt1DcpHK",
+          "title": "Bruce Lee",
+          "artist": "Marcus Miller, Gerald Albright",
+          "album": "Silver Rain",
+          "durationMs": 323000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003CqiLK0hUhwF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "004KfRFJ2dzs0Z",
+          "title": "Love On The Run",
+          "artist": "Broken Bells, Brian Burton, James Mercer, Sam Cohen",
+          "album": "INTO THE BLUE",
+          "durationMs": 423000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002XQ77q1zPc1E.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9730254131",
+      "name": "26.6.16",
+      "date": "2026-06-16",
+      "trackCount": 11,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9730254131",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001QdLgg0TKw0P.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002UM7Ah29LYdE",
+          "title": "Matterhorn",
+          "artist": "Cory Wong, Jack Gardiner, Henrik Linder",
+          "album": "Matterhorn",
+          "durationMs": 165000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001QdLgg0TKw0P.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "001Q5ioH0DcTzb",
+          "title": "Wish You Were Here",
+          "artist": "Seguridad Social",
+          "album": "Furia Latina",
+          "durationMs": 279000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001GgY852hhnmC.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "001HYJGU0IUOlD",
+          "title": "Adore",
+          "artist": "Prince",
+          "album": "Sign \"O\" the Times (Explicit)",
+          "durationMs": 391000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Tx8N330Pq31.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "001XxC8y3Cq2Us",
+          "title": "Pictures Of Home",
+          "artist": "Deep Purple",
+          "album": "Machine Head",
+          "durationMs": 321000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001M8exT1vhxtC.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001JKtPQ27PCwk",
+          "title": "Time",
+          "artist": "Pink Floyd",
+          "album": "The Dark Side of the Moon (Explicit)",
+          "durationMs": 413000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000PYepk3k0ByX.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "0042BsdW2cZpBf",
+          "title": "Shofukan",
+          "artist": "Snarky Puppy, Michael League",
+          "album": "We Like It Here",
+          "durationMs": 393000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003EgAfd1PDhP3.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "002zIojU1ijf7a",
+          "title": "Sisyphus",
+          "artist": "Andrew Bird",
+          "album": "My Finest Work Yet",
+          "durationMs": 246000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003fXUx91Gy2Je.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "00383LpX2d5mfD",
+          "title": "Come, Sweet Death oldskool",
+          "artist": "鹭巣诗郎, Joy Farrukh",
+          "album": "THE WHITE ALBUM 2 - EVANGELION 30TH ANNIVERSARY",
+          "durationMs": 363000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000460cTy1pkmTH.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "000rs9q52p7XAv",
+          "title": "Touch The Sky",
+          "artist": "Ye (侃爷), Lupe Fiasco",
+          "album": "Late Registration (Explicit)",
+          "durationMs": 236000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000qJTD82P9zxO.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "001XMat80NGfEN",
+          "title": "Angels In The Sky",
+          "artist": "Insania",
+          "album": "Sunrise In Riverland",
+          "durationMs": 497000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000039q9Iy4AJDNz.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "001gvGpd0royDT",
+          "title": "Brooklyn Bop",
+          "artist": "Cory Wong",
+          "album": "The Lucky One",
+          "durationMs": 286000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002ONb3m2s5Vwp.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9728127856",
+      "name": "26.6.13",
+      "date": "2026-06-13",
+      "trackCount": 3,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9728127856",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001L9yZx06s8SQ.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001f3VzY22WqQl",
+          "title": "What's Up?",
+          "artist": "4 Non Blondes",
+          "album": "Bigger, Better, Faster, More !",
+          "durationMs": 295000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001L9yZx06s8SQ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "004UMPsI0To92v",
+          "title": "告诉我",
+          "artist": "陈绮贞",
+          "album": "滚石香港黄金十年陈绮贞精选",
+          "durationMs": 314000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000001TxE03FZ7Ae.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000hXC6H0CUkrr",
+          "title": "Running Away From Love",
+          "artist": "Coco Montoya",
+          "album": "Can't Look Back",
+          "durationMs": 278000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000005Drvc0Xndy0.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9725065412",
+      "name": "26.6.8",
+      "date": "2026-06-08",
+      "trackCount": 10,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9725065412",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000FEumP0GOYLZ.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "000BSVOe19LFR4",
+          "title": "It's Late",
+          "artist": "Queen",
+          "album": "News Of The World",
+          "durationMs": 387000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004gddUo21dtzF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002QqwDL0LchGy",
+          "title": "Sleeping On The Sidewalk",
+          "artist": "Queen",
+          "album": "News Of The World",
+          "durationMs": 187000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004gddUo21dtzF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002Rk8nc2poock",
+          "title": "Fight From The Inside",
+          "artist": "Queen",
+          "album": "News Of The World",
+          "durationMs": 186000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004gddUo21dtzF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "003nXXYz42KkM1",
+          "title": "All Dead, All Dead",
+          "artist": "Queen",
+          "album": "News Of The World",
+          "durationMs": 189000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004gddUo21dtzF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001GvwDM3PAFXS",
+          "title": "Spread Your Wings",
+          "artist": "Queen",
+          "album": "News Of The World",
+          "durationMs": 274000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004gddUo21dtzF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "004ZGEjo13BLGx",
+          "title": "I Don't Need No Doctor",
+          "artist": "John Scofield, John Mayer",
+          "album": "That's What I Say",
+          "durationMs": 269000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002sa4AM0Tm2HY.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "004Dkk6Z0LwA43",
+          "title": "Rock With You",
+          "artist": "Michael Jackson",
+          "album": "Off the Wall",
+          "durationMs": 220000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000YsqS92uGBwi.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "003f3eLE3Z1RDP",
+          "title": "I'll Follow The Sun",
+          "artist": "The Beatles",
+          "album": "Beatles For Sale (Remastered)",
+          "durationMs": 108000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000Fb8cT1hAdnU.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "0037P6T02KnW29",
+          "title": "Brain Damage",
+          "artist": "Pink Floyd",
+          "album": "The Dark Side of the Moon (Explicit)",
+          "durationMs": 226000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000PYepk3k0ByX.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "000JDhSD0sPn0O",
+          "title": "不眠飞行",
+          "artist": "王菲",
+          "album": "王菲",
+          "durationMs": 191000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001ytpe40CUYGh.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9724474426",
+      "name": "26.6.7",
+      "date": "2026-06-07",
+      "trackCount": 18,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9724474426",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000041utzt3wQ5jU.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "004BoQA245Qt3j",
+          "title": "It's Gonna Be Lonely",
+          "artist": "Prince",
+          "album": "Prince (Explicit)",
+          "durationMs": 327000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000041utzt3wQ5jU.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "004HO5WO2cxlhn",
+          "title": "I Feel for You",
+          "artist": "Prince",
+          "album": "Prince (Explicit)",
+          "durationMs": 205000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000041utzt3wQ5jU.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000pfmRA2jdLrN",
+          "title": "With You",
+          "artist": "Prince",
+          "album": "Prince (Explicit)",
+          "durationMs": 240000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000041utzt3wQ5jU.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "002W1QRn1hJKwR",
+          "title": "Bambi",
+          "artist": "Prince",
+          "album": "Prince (Explicit)",
+          "durationMs": 262000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000041utzt3wQ5jU.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "0005LWzH0DM6Pq",
+          "title": "When We're Dancing Close and Slow",
+          "artist": "Prince",
+          "album": "Prince (Explicit)",
+          "durationMs": 323000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000041utzt3wQ5jU.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "0016xcV92Pc1m6",
+          "title": "We've Got Love",
+          "artist": "Babyface",
+          "album": "We've Got Love",
+          "durationMs": 283000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002dpzjC1R8m2X.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "0040b28n3PLhUS",
+          "title": "Stuff Like That",
+          "artist": "Quincy Jones, Charlie Wilson, Ray Charles, Brandy",
+          "album": "Q's Jook Joint",
+          "durationMs": 345000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000qWfHS0mYeo3.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "002jH5Z22InN4P",
+          "title": "你",
+          "artist": "王菲",
+          "album": "唱游",
+          "durationMs": 265000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001gn7g54ZEIKb.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "004ZtITh17BH4f",
+          "title": "Money",
+          "artist": "Pink Floyd",
+          "album": "The Dark Side of the Moon (Explicit)",
+          "durationMs": 382000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000PYepk3k0ByX.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "003dF9Hk0FPiBW",
+          "title": "Still Waiting",
+          "artist": "Prince",
+          "album": "Prince (Explicit)",
+          "durationMs": 255000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000041utzt3wQ5jU.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "000pEXFd3Bmq1o",
+          "title": "I Wanna Be Your Lover",
+          "artist": "Prince",
+          "album": "Prince (Explicit)",
+          "durationMs": 347000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000041utzt3wQ5jU.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 12,
+          "id": "000HZJ2U1VLH0o",
+          "title": "Sexy Dancer",
+          "artist": "Prince",
+          "album": "Prince (Explicit)",
+          "durationMs": 258000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000041utzt3wQ5jU.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 13,
+          "id": "001KSViY1uUalh",
+          "title": "黄昏泣き",
+          "artist": "東京事変",
+          "album": "大人",
+          "durationMs": 208000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000Cb7xG3bulkS.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 14,
+          "id": "0013FZ2a2kpRO2",
+          "title": "Play A Love Song",
+          "artist": "宇多田光",
+          "album": "初恋",
+          "durationMs": 252000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000Q2aNy2G4tJb.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 15,
+          "id": "003Nw1B13ZpMAf",
+          "title": "Free Bird",
+          "artist": "Lynyrd Skynyrd",
+          "album": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+          "durationMs": 547000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001OG3iz1ovfSn.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 16,
+          "id": "0044IqEG3EglnK",
+          "title": "Right As Rain",
+          "artist": "Adele",
+          "album": "19 (Deluxe Edition)",
+          "durationMs": 197000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000001X4E22DcFUs.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 17,
+          "id": "003T2t7X3ZhKLj",
+          "title": "I Only Watch It For The Weather",
+          "artist": "The Delegates",
+          "album": "Home From Home",
+          "durationMs": 200000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000048uRvB056ka7.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 18,
+          "id": "000Zr8X11QQDUP",
+          "title": "Reflection",
+          "artist": "Prince",
+          "album": "Musicology",
+          "durationMs": 184000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001LeUvc3GTeE7.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9723293370",
+      "name": "26.6.5",
+      "date": "2026-06-05",
+      "trackCount": 5,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9723293370",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000225aKz22cg3e.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "003Vup7T01mo2L",
+          "title": "Brutus",
+          "artist": "Em Beihold",
+          "album": "Brutus",
+          "durationMs": 148000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000225aKz22cg3e.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002YJoz04THQD2",
+          "title": "Don't Break My Heart",
+          "artist": "黑豹乐队",
+          "album": "黑豹 同名专辑",
+          "durationMs": 316000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000024IeFv3DrGMT.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000jxNGq403H9X",
+          "title": "レイドバックジャーニー",
+          "artist": "キミのね",
+          "album": "レイドバックジャーニー",
+          "durationMs": 206000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001a9cbo0JXbzX.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "003pUNbx01DMk1",
+          "title": "TEXAS HOLD 'EM",
+          "artist": "Beyoncé",
+          "album": "TEXAS HOLD 'EM (Explicit)",
+          "durationMs": 233000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000042hKFo3EFmlQ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001RImtD02YcWA",
+          "title": "Dear Mr. Man",
+          "artist": "Prince",
+          "album": "Musicology",
+          "durationMs": 254000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001LeUvc3GTeE7.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9722881713",
+      "name": "26.6.4",
+      "date": "2026-06-04",
+      "trackCount": 13,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9722881713",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000aBPPX1QcKJr.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002mZc1H3IkEa1",
+          "title": "Lie Lie Lie",
+          "artist": "BONNIE PINK",
+          "album": "Bonnie's Kitchen #1",
+          "durationMs": 239000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000aBPPX1QcKJr.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002iLyZD40h3OO",
+          "title": "雨天決行",
+          "artist": "東京事変",
+          "album": "スポーツ",
+          "durationMs": 169000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002eDV8S03Zu9y.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003DBuVc0McQDv",
+          "title": "旋木",
+          "artist": "王菲",
+          "album": "K情歌",
+          "durationMs": 253000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001PB6qC3YGfFb.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "003OqZwK16STnX",
+          "title": "The Light That Has Lighted the World",
+          "artist": "George Harrison",
+          "album": "Living In The Material World",
+          "durationMs": 210000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004HeMJC2Xjwln.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "003orZTB4BJ03f",
+          "title": "下午三点",
+          "artist": "陈绮贞",
+          "album": "还是会寂寞",
+          "durationMs": 270000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003I2WSH20c0tA.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "000Ksu2a3gD7Kd",
+          "title": "Loving You",
+          "artist": "Michael Jackson",
+          "album": "XSCAPE (Deluxe)",
+          "durationMs": 195000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002a1MXE1fHqZa.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "002DrWke4BzFtv",
+          "title": "宝贝",
+          "artist": "张悬",
+          "album": "My Life Will...",
+          "durationMs": 145000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000034f7g12ZYyo.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "002mirSp4BL6yE",
+          "title": "小步舞曲",
+          "artist": "陈绮贞",
+          "album": "Groupies 吉他手",
+          "durationMs": 259000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000zebjW3TlPWh.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "001DgGwO22iP84",
+          "title": "雨のメッセージ",
+          "artist": "Lamp",
+          "album": "恋人へ",
+          "durationMs": 326000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000qN4yb2gaHEI.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "001et9Ra1q9zAW",
+          "title": "Who Needs You",
+          "artist": "Queen",
+          "album": "News Of The World",
+          "durationMs": 188000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004gddUo21dtzF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "002BoIUW43hTMt",
+          "title": "Heard 'Em Say",
+          "artist": "Ye (侃爷), Adam Levine",
+          "album": "Late Registration (Explicit)",
+          "durationMs": 203000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000qJTD82P9zxO.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 12,
+          "id": "001NlExr418wY6",
+          "title": "醒不来",
+          "artist": "王菲",
+          "album": "唱游",
+          "durationMs": 246000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001gn7g54ZEIKb.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 13,
+          "id": "000S7RGW4gOaUT",
+          "title": "Hey Stephen",
+          "artist": "Taylor Swift",
+          "album": "Fearless (Taylor's Version)",
+          "durationMs": 254000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003B9bHD26W2cD.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9722730473",
+      "name": "26.6.3",
+      "date": "2026-06-03",
+      "trackCount": 1,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9722730473",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003hClfg0cfO75.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0036Fm5P0X6Edp",
+          "title": "アイネクライネ",
+          "artist": "米津玄師",
+          "album": "YANKEE",
+          "durationMs": 288000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003hClfg0cfO75.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9720933318",
+      "name": "26.5.31",
+      "date": "2026-05-31",
+      "trackCount": 2,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9720933318",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001LeUvc3GTeE7.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "000coBGK489Fz9",
+          "title": "Call My Name",
+          "artist": "Prince",
+          "album": "Musicology",
+          "durationMs": 315000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001LeUvc3GTeE7.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000YG57K1ZMTIF",
+          "title": "每个人都会",
+          "artist": "方大同",
+          "album": "橙月",
+          "durationMs": 178000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002hMaer3McPaG.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9720009552",
+      "name": "26.5.30",
+      "date": "2026-05-30",
+      "trackCount": 5,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9720009552",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001hec3E0dXC8P.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "004OW8e03WxqDl",
+          "title": "Obsessed",
+          "artist": "Dan + Shay",
+          "album": "Obsessed",
+          "durationMs": 302000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001hec3E0dXC8P.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "0003PBrR2QwQEs",
+          "title": "The Most Beautiful Thing",
+          "artist": "Bruno Major, Finneas O’Connell",
+          "album": "The Most Beautiful Thing",
+          "durationMs": 235000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000VMRjV1RuvWT.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "0041J5Ti0n3TE5",
+          "title": "天使",
+          "artist": "王菲",
+          "album": "天空",
+          "durationMs": 263000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000FNu3x0z6JQr.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "001SSRtS09bFxM",
+          "title": "life hack",
+          "artist": "Vaundy",
+          "album": "life hack",
+          "durationMs": 226000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000wCuMA2vgvsL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "0011157e4PpKHx",
+          "title": "Ivy",
+          "artist": "chilldspot",
+          "album": "Titles",
+          "durationMs": 185000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000Cuudz1fsy47.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9719502823",
+      "name": "26.5.29",
+      "date": "2026-05-29",
+      "trackCount": 2,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9719502823",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004Ws4fG3pT6eA.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0017M9uS4JmkBe",
+          "title": "As You Are",
+          "artist": "Charlie Puth, Shy Carter",
+          "album": "Nine Track Mind",
+          "durationMs": 235000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004Ws4fG3pT6eA.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "001OFwEb07c0Gi",
+          "title": "梦游",
+          "artist": "王菲",
+          "album": "胡思乱想",
+          "durationMs": 282000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003sm1HE4YysTz.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9719017583",
+      "name": "26.5.28",
+      "date": "2026-05-28",
+      "trackCount": 17,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9719017583",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003WDgRH0E7tsZ.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "003VNWKX4WCGNl",
+          "title": "Mamma Mia",
+          "artist": "ABBA",
+          "album": "Abba",
+          "durationMs": 212000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003WDgRH0E7tsZ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003fuDpA23gnr5",
+          "title": "桜の木の下で",
+          "artist": "Humbert Humbert",
+          "album": "11のみじかい话",
+          "durationMs": 154000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002NYFcq0e66jl.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000KWqZ54Zuuly",
+          "title": "幸せのまわり道",
+          "artist": "Bialystocks",
+          "album": "幸せのまわり道",
+          "durationMs": 225000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002gBPTg37syCx.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "0007ltAL21symW",
+          "title": "Top Of The World",
+          "artist": "Carpenters, Royal Philharmonic Orchestra",
+          "album": "Carpenters With The Royal Philharmonic Orchestra",
+          "durationMs": 179000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001kHUmb4ccZPy.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "004KfCvF2H9LVV",
+          "title": "DENIAL IS A RIVER",
+          "artist": "Doechii",
+          "album": "Alligator Bites Never Heal (Extended) [Explicit]",
+          "durationMs": 159000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003QfTzn0Krtx5.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "000us0By1nGzCW",
+          "title": "For No One",
+          "artist": "The Beatles",
+          "album": "Revolver (Remastered)",
+          "durationMs": 119000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003dfoFt3qUxaL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "004Pr3Qa1YoOb0",
+          "title": "She's Electric",
+          "artist": "Oasis",
+          "album": "(What's The Story) Morning Glory? ([Remastered])",
+          "durationMs": 221000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000ORMxN0k9anY.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "001JHcr7254eAi",
+          "title": "I'm So Blue",
+          "artist": "Michael Jackson",
+          "album": "Bad 25th Anniversary (Deluxe Edition)",
+          "durationMs": 249000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000016WUQM46tMIa.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "003zQ7Sb0v6iyK",
+          "title": "Anniversary",
+          "artist": "今井美樹",
+          "album": "Colour",
+          "durationMs": 287000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001SxdC20Qc35z.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 10,
+          "id": "003ypGlw1SzDaz",
+          "title": "IT MIGHT BE LOVE",
+          "artist": "Stephen Sanchez",
+          "album": "LOVE, LOVE, LOVE",
+          "durationMs": 186000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001v6C1l0VkXVd.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 11,
+          "id": "0004taI03j1XQQ",
+          "title": "Purple Rain",
+          "artist": "Prince, The Revolution",
+          "album": "Purple Rain (Explicit)",
+          "durationMs": 520000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002KKkpP3MeVdn.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 12,
+          "id": "002sHeWi1FQWPK",
+          "title": "AMERIICAN REQUIEM",
+          "artist": "Beyoncé",
+          "album": "COWBOY CARTER (Explicit)",
+          "durationMs": 325000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003gUovq0Wxpvg.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 13,
+          "id": "001KyJTt1kbkfP",
+          "title": "一样的月光",
+          "artist": "徐佳莹",
+          "album": "LaLa首张创作专辑",
+          "durationMs": 240000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000cchEp2CGNEf.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 14,
+          "id": "002fvzGl2hgl1m",
+          "title": "Self",
+          "artist": "陈绮贞",
+          "album": "华丽的冒险",
+          "durationMs": 306000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003hSuwt2iDwKW.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 15,
+          "id": "000MKGal347mn9",
+          "title": "残缺的彩虹",
+          "artist": "陈绮贞",
+          "album": "沙发海",
+          "durationMs": 208000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003tNgbw45MEqL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 16,
+          "id": "002Kzwo31ToOv8",
+          "title": "私生活",
+          "artist": "東京事変",
+          "album": "娯楽",
+          "durationMs": 229000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002eMyL704lVMf.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 17,
+          "id": "003PNrhu08qe4s",
+          "title": "小小虫",
+          "artist": "方大同",
+          "album": "橙月",
+          "durationMs": 240000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002hMaer3McPaG.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9718872774",
+      "name": "26.5.27",
+      "date": "2026-05-27",
+      "trackCount": 4,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9718872774",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000cchEp2CGNEf.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "004cZjb52ugEq6",
+          "title": "白旗",
+          "artist": "徐佳莹",
+          "album": "LaLa首张创作专辑",
+          "durationMs": 209000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000cchEp2CGNEf.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "0025QxQd0zEC0v",
+          "title": "你喜欢不如我喜欢",
+          "artist": "王菲",
+          "album": "寓言",
+          "durationMs": 244000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000001WFLC3cqaQR.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "001D4AXN4WTdEX",
+          "title": "Letitgo",
+          "artist": "Prince",
+          "album": "Come",
+          "durationMs": 332000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000003D0MP2tOaxE.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "004Wfpis2zlHxn",
+          "title": "Built For Love",
+          "artist": "PJ Morton",
+          "album": "Following My First Mind",
+          "durationMs": 205000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000j1zTG3HHU9X.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9718257020",
+      "name": "26.5.26",
+      "date": "2026-05-26",
+      "trackCount": 4,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9718257020",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001W42bK1d9Wvj.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002CRWbF4L1ef4",
+          "title": "フェンスのある家",
+          "artist": "OGRE YOU A**HOLE",
+          "album": "homely",
+          "durationMs": 411000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001W42bK1d9Wvj.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002512gb4Lo8nP",
+          "title": "Black Or White",
+          "artist": "Michael Jackson",
+          "album": "Dangerous",
+          "durationMs": 255000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004PS00g2zSmPk.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003wqV2F1HXOKw",
+          "title": "Long Summer Days",
+          "artist": "The Moody Blues",
+          "album": "Caught Live 5",
+          "durationMs": 194000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000bQSI91eFV4H.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "002q15ad4a9C3g",
+          "title": "苏丽珍",
+          "artist": "方大同",
+          "album": "The Soulboy Collection",
+          "durationMs": 217000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002oMaJh2rc9vK.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9717687891",
+      "name": "26.5.25",
+      "date": "2026-05-25",
+      "trackCount": 3,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9717687891",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002jpwm01xmLxM.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001eaNde0kl6tp",
+          "title": "Live Forever",
+          "artist": "Noel Gallagher's High Flying Birds, Noel Gallagher",
+          "album": "Council Skies (Deluxe)",
+          "durationMs": 289000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002jpwm01xmLxM.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003igVqf0SDLHc",
+          "title": "梦里水乡",
+          "artist": "陈婧霏",
+          "album": "梦里水乡 (青春重置计划5 请回答1999)",
+          "durationMs": 237000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001zZm8u3gRgny.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002PlaT81Isy9s",
+          "title": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+          "artist": "Elton John",
+          "album": "Honky Chateau",
+          "durationMs": 281000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003TYoIu4SIiPh.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9717456480",
+      "name": "26.5.24",
+      "date": "2026-05-24",
+      "trackCount": 5,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9717456480",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000QJFCH12cyc9.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002jaNqx1Qxyp3",
+          "title": "Candle Light",
+          "artist": "Furui Riho",
+          "album": "Furui Riho Billboard Live Tour -Do What Makes You Happy-",
+          "durationMs": 312000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000QJFCH12cyc9.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000H4EQE0DK7oR",
+          "title": "The Sorcerer",
+          "artist": "Cory Wong, Metropole Orkest, Jules Buckley",
+          "album": "Starship Syncopation",
+          "durationMs": 253000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001SpaOe4NxSxp.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002EMR9i2bcUq8",
+          "title": "愛哀",
+          "artist": "chilldspot",
+          "album": "まだらもよう",
+          "durationMs": 227000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003828iw13ZrBK.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "0012xiKp1otpKF",
+          "title": "君心我心",
+          "artist": "王菲",
+          "album": "菲靡靡之音",
+          "durationMs": 240000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004IYQj21W1oss.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "003oj5ix2ubyU5",
+          "title": "Goodbye Henry. (feat. Al Green)",
+          "artist": "RAYE, Al Green",
+          "album": "THIS MUSIC MAY CONTAIN HOPE.",
+          "durationMs": 320000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002SoDtP15g7IY.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9714839890",
+      "name": "26.5.19",
+      "date": "2026-05-19",
+      "trackCount": 4,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9714839890",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004IYQj21W1oss.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002D1UxQ4JYabN",
+          "title": "奈何",
+          "artist": "王菲",
+          "album": "菲靡靡之音",
+          "durationMs": 229000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004IYQj21W1oss.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002eAw2Q3feEJf",
+          "title": "南海姑娘",
+          "artist": "王菲",
+          "album": "菲靡靡之音",
+          "durationMs": 188000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004IYQj21W1oss.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "0002OEnl31kUSG",
+          "title": "For You",
+          "artist": "Prince",
+          "album": "For You",
+          "durationMs": 67000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001F670v3afs83.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "003dsrJW4ANJuS",
+          "title": "Deeper and Deeper",
+          "artist": "Cagnet",
+          "album": "Here We Are Again～「ロングバケーション」オリジナルサウンドトラック III (オリジナルサウンドトラック III)",
+          "durationMs": 288000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002zJ2eI3MXx78.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9714182063",
+      "name": "25.5.17",
+      "date": "2025-05-17",
+      "trackCount": 3,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9714182063",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000165DkI3dXEgg.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0010qcUK3p5Otb",
+          "title": "ゆうべは俺が悪かった",
+          "artist": "Humbert Humbert",
+          "album": "ニッケルオデオン",
+          "durationMs": 195000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000165DkI3dXEgg.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "0031oCUS3yJ5HT",
+          "title": "Never Grow Up",
+          "artist": "Taylor Swift",
+          "album": "Speak Now (Deluxe Package)",
+          "durationMs": 290000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001QmRCD2PGa4o.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002KT4cv3N25q5",
+          "title": "那个女孩",
+          "artist": "陶喆, 卢广仲",
+          "album": "再见你好吗",
+          "durationMs": 267000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001eA2gF0dGeWY.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9713490764",
+      "name": "26.5.16",
+      "date": "2026-05-16",
+      "trackCount": 4,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9713490764",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000P4YAq2HHaCb.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002xAjl228KZ3z",
+          "title": "山梨・雪・寒い",
+          "artist": "深水チエ",
+          "album": "本日ハ晴天カ?",
+          "durationMs": 255000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000P4YAq2HHaCb.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002NhKu61pRP71",
+          "title": "睨めっ娘",
+          "artist": "友成空",
+          "album": "睨めっ娘",
+          "durationMs": 159000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000402wrr3rPNcS.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "004FU7R73bwTEk",
+          "title": "怀念",
+          "artist": "王菲",
+          "album": "王菲",
+          "durationMs": 201000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000nfgwP0D6qxd.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "003BzKN508XVSW",
+          "title": "風になる",
+          "artist": "辻亚弥乃",
+          "album": "恋恋風歌",
+          "durationMs": 276000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003nmb7M1CTqf1.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9712836458",
+      "name": "26.5.15",
+      "date": "2026-05-15",
+      "trackCount": 5,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9712836458",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002OsETJ3UQbsV.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "000zRetV0conRI",
+          "title": "yours",
+          "artist": "chilldspot",
+          "album": "yours",
+          "durationMs": 251000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002OsETJ3UQbsV.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000ThJ7O3uOl2a",
+          "title": "路口",
+          "artist": "张震岳",
+          "album": "OK",
+          "durationMs": 235000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000044oT0A0isMzR.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "00425r8o2c0Svw",
+          "title": "Disco",
+          "artist": "ミツメ",
+          "album": "eye",
+          "durationMs": 181000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000498NkJ1y2HOe.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "004EpsFP2OsRb5",
+          "title": "The Vow",
+          "artist": "Ed Sheeran",
+          "album": "Play (Explicit)",
+          "durationMs": 212000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000402YYa3KCUcc.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001Wt9JN03rczP",
+          "title": "Xtralovable",
+          "artist": "Prince",
+          "album": "HITNRUN Phase Two",
+          "durationMs": 300000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004fdtij1zIYHZ.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9711617103",
+      "name": "26.5.12",
+      "date": "2026-05-12",
+      "trackCount": 5,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9711617103",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004IYQj21W1oss.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0049Q2jr4V2zNV",
+          "title": "又见炊烟",
+          "artist": "王菲",
+          "album": "菲靡靡之音",
+          "durationMs": 218000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004IYQj21W1oss.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "004O8H8J1EFQXR",
+          "title": "everyday - live in a van (feat. Chevy & Bay Area Rising)",
+          "artist": "RYCE, The Guest Room, Adison Maxwell, CHEVY",
+          "album": "Band In A Van: Bay Area Rising Live Studio",
+          "durationMs": 262000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001nef763VBr6T.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "001pdnnI0aqCVY",
+          "title": "踊り子",
+          "artist": "Vaundy",
+          "album": "踊り子",
+          "durationMs": 230000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002vI3qx4I4nHZ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "002vp7V234qQvh",
+          "title": "不二法门",
+          "artist": "张惠妹",
+          "album": "不顾一切",
+          "durationMs": 300000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000iHM083qltkN.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001YeGjE1AoJU2",
+          "title": "美麗的花~うつくしき花",
+          "artist": "Rita",
+          "album": "salute!",
+          "durationMs": 316000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000xOoAn26X9Gu.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "8733454829",
+      "name": "2022.12.17",
+      "date": "2022-12-17",
+      "trackCount": 5,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/8733454829",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000wXiW23lxWlQ.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "003vyB4m4B26nb",
+          "title": "TODAY",
+          "artist": "Q MARSDEN",
+          "album": "TODAY",
+          "durationMs": 241000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000wXiW23lxWlQ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003qrBi81ZNt8q",
+          "title": "How can I love the heartbreak, you're the one I love",
+          "artist": "AKMU",
+          "album": "SAILING",
+          "durationMs": 290000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004fgNVX4FatuZ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000FkzFx2qSs84",
+          "title": "Almost Lover",
+          "artist": "A Fine Frenzy",
+          "album": "One Cell In The Sea",
+          "durationMs": 268000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003HcGaC4Vg6xV.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "004TYaG82tCwF1",
+          "title": "The World",
+          "artist": "Benny Sings",
+          "album": "The World",
+          "durationMs": 186000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002wWg5B22avUZ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "003raA5g3bEtIS",
+          "title": "Julia",
+          "artist": "LAUV",
+          "album": "~how i'm feeling~ (Explicit)",
+          "durationMs": 218000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000sAN6d2CIxbj.jpg",
+          "isAvailable": true
+        }
+      ]
+    }
+  ],
+  "sourcePlaylistCount": 97,
+  "excludedUndatedPlaylistCount": 28
+}
