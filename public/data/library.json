@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-10T04:27:23.383Z",
+  "lastSyncedAt": "2026-10-12T08:15:41.225Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,10 +16,154 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 69,
-  "trackCount": 465,
+  "playlistCount": 71,
+  "trackCount": 477,
   "unparsedDateCount": 0,
+  "sourcePlaylistCount": 100,
+  "excludedUndatedPlaylistCount": 29,
   "playlists": [
+    {
+      "id": "9791496446",
+      "name": "26.10.11",
+      "date": "2026-10-11",
+      "trackCount": 3,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9791496446",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002pYdLl1LVok7.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002MCegr1gD9ep",
+          "title": "In It For The Race",
+          "artist": "Diane Birch",
+          "album": "In It For The Race",
+          "durationMs": 323000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002pYdLl1LVok7.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "00483OKu132l5Z",
+          "title": "さよならの向う側",
+          "artist": "Ms.OOJA",
+          "album": "流しのOOJA〜VINTAGE SONG COVERS〜",
+          "durationMs": 289000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003rn2QV1W1XQg.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "0019uvWp1UV60v",
+          "title": "Civil War",
+          "artist": "Guns N' Roses",
+          "album": "Use Your Illusion",
+          "durationMs": 462000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000095TdK2QhLRM.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9791137864",
+      "name": "26.10.10",
+      "date": "2026-10-10",
+      "trackCount": 9,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9791137864",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004GObrL1PUEqX.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "004aC5lU1OWJ3g",
+          "title": "Long Before Rock'N'Roll",
+          "artist": "Mando Diao",
+          "album": "MTV Unplugged - Above And Beyond",
+          "durationMs": 262000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004GObrL1PUEqX.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002HJOOO1W2QRk",
+          "title": "Without You",
+          "artist": "Badfinger",
+          "album": "No Dice (Remastered 2010 / Deluxe Edition)",
+          "durationMs": 283000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002aaA4E4Ptz0x.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002Kop5E0hYCRJ",
+          "title": "Sheepdog",
+          "artist": "Mando Diao",
+          "album": "MTV Unplugged - Above And Beyond",
+          "durationMs": 308000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004GObrL1PUEqX.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "004aDGx33Yn4jH",
+          "title": "You're So Vain",
+          "artist": "Carly Simon",
+          "album": "No Secrets",
+          "durationMs": 262000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003W5DSr2eg7pH.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001vXXJd4d9NYx",
+          "title": "Endless Rain",
+          "artist": "X JAPAN",
+          "album": "Endless Rain Single, 1989",
+          "durationMs": 397000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002ep4hd4Kvdkj.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "001CYVFP0ivl78",
+          "title": "All about Anna",
+          "artist": "昨夜派对（L.N Party）",
+          "album": "短篇与玫瑰的八毫米",
+          "durationMs": 268000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001RgWOQ0Yje7D.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "0029ae6X2YDJYM",
+          "title": "Tangled Up",
+          "artist": "Caro Emerald",
+          "album": "The Shocking Miss Emerald",
+          "durationMs": 195000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003sWNFW3IE9eH.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "003BRAP54bQFr3",
+          "title": "バイバイ。",
+          "artist": "相川七瀬",
+          "album": "バイバイ。",
+          "durationMs": 277000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004FKw8S1SLZtm.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "000Eovzp1W3Ac5",
+          "title": "ルージュ",
+          "artist": "中岛美雪",
+          "album": "おかえりなさい (Remaster)",
+          "durationMs": 277000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004ZtHZL0KaRnp.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9790632850",
       "name": "26.10.9",
@@ -5429,7 +5573,5 @@
         }
       ]
     }
-  ],
-  "sourcePlaylistCount": 97,
-  "excludedUndatedPlaylistCount": 28
+  ]
 }

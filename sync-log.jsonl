@@ -10,3 +10,4 @@
 {"at":"2026-10-10T04:03:49.977Z","status":"partial","directoryEndpoint":null,"playlists":1,"tracks":13,"snapshotPreserved":false}
 {"at":"2026-10-10T04:27:23.383Z","status":"success","directoryEndpoint":"resolve","playlists":97,"tracks":3064,"snapshotPreserved":false}
 {"at":"2026-10-12T08:03:00.443Z","status":"partial","directoryEndpoint":null,"sourcePlaylistCount":0,"datedPlaylistCount":0,"error":"Profile directory unavailable or incomplete; kept the previous full snapshot","snapshotPreserved":true}
+{"at":"2026-10-12T08:15:41.225Z","status":"success","directoryEndpoint":"resolve","playlists":71,"tracks":477,"excludedUndatedPlaylistCount":29,"snapshotPreserved":false}
