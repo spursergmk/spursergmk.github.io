@@ -32,6 +32,14 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Require a QQ Music profile source
+        env:
+          QQ_MUSIC_PROFILE_URL: ${{ secrets.QQ_MUSIC_PROFILE_URL }}
+        run: |
+          if [ -z "$QQ_MUSIC_PROFILE_URL" ]; then
+            echo "::error::Add the repository secret QQ_MUSIC_PROFILE_URL before running the playlist sync."
+            exit 1
+          fi
       - name: Fetch public playlist catalogue
         id: sync
         env:
