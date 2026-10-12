@@ -927,6 +927,10 @@ button {
   border-bottom: var(--border-default);
 }
 
+.profile-heading.week-heading {
+  grid-template-columns: minmax(0, 1fr);
+}
+
 .profile-art,
 .week-emblem {
   width: 112px;
