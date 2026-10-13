@@ -1,35 +1,24 @@
 <!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#FAFAF7">
-    <meta name="description" content="An ongoing collection of music I've heard and loved.">
-    <title>spurser.fm — A Personal Music Archive</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Newsreader:opsz,wght@6..72,400&family=Noto+Sans+JP:wght@400&family=Noto+Sans+SC:wght@400;500&family=Noto+Serif+SC:wght@400&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./styles.css">
-    <script type="module" src="/app.js"></script>
-  </head>
-  <body>
-    <header class="site-header">
-      <div class="header-inner">
-        <a class="wordmark" href="#home" aria-label="spurser.fm home">spurser<span>.fm</span></a>
-        <nav class="main-nav" aria-label="Main navigation">
-          <a href="#home" data-route="home">Home</a>
-          <a href="#archive" data-route="archive">Archive</a>
-          <a href="#stats" data-route="stats">Stats</a>
-          <a href="#about" data-route="about">About</a>
-        </nav>
-      </div>
-    </header>
-    <main id="app" tabindex="-1" aria-live="polite"></main>
-    <footer class="site-footer">
-      <div class="footer-inner">
-        <a class="wordmark wordmark-small" href="#home">spurser<span>.fm</span></a>
-        <span id="footer-year">© 2026</span>
-      </div>
-    </footer>
-  </body>
+<html lang="en" data-design="P" data-entry-variant="P" data-theme="day">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#faf8f2">
+  <meta name="description" content="A quiet, date-led archive of music heard and loved.">
+  <title>spurser.fm — Listening Timeline</title>
+  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./direction.css">
+  <link rel="stylesheet" href="./p-entry.css">
+  <script>try { document.documentElement.dataset.theme = new URLSearchParams(location.search).get('theme') || localStorage.getItem('design-evolution-lab-round-4-theme') || 'day'; } catch { document.documentElement.dataset.theme = 'day'; }</script>
+</head>
+<body class="design-shell">
+  <header class="site-header"><div class="header-inner">
+    <a class="wordmark" href="#home" aria-label="spurser.fm home">spurser<span>.fm</span></a>
+    <div class="header-tools"><nav class="main-nav" aria-label="Main navigation"><a href="#home" data-route="home">Home</a><a href="#archive" data-route="archive">Archive</a><a href="#stats" data-route="stats">Index</a><a href="#about" data-route="about">About</a></nav><button class="theme-toggle" type="button" data-theme-toggle aria-pressed="false" aria-label="Switch to night mode"><span class="theme-toggle-track"><i></i></span><span class="theme-toggle-label">Day</span></button></div>
+  </div></header>
+  <main id="app" aria-live="polite"></main>
+  <footer class="site-footer"><div class="footer-inner"><span>Personal music archive</span><span id="footer-year"></span></div></footer>
+  <script src="./theme.js" defer></script>
+  <script src="./app.js?v=design-p-1" defer></script>
+</body>
 </html>

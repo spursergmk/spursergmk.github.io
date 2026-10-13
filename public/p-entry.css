@@ -1,0 +1,18 @@
+/* P — Listening Timeline: a small, data-led archive entry. */
+.archive-time-ribbon { color: var(--color-text); }
+.archive-time-ribbon:focus-visible { outline: 2px solid var(--color-accent); outline-offset: 4px; }
+[data-entry-variant="P"] .archive-time-ribbon { display:grid; width:min(100%,440px); grid-template-columns:auto 1fr; gap:14px 20px; align-items:center; margin-top:23px; padding:11px 0 9px; border-block:1px solid var(--color-border-strong); transition:border-color .18s ease,color .18s ease; }
+[data-entry-variant="P"] .archive-time-ribbon:hover { border-color:var(--color-accent); color:var(--color-accent); }
+[data-entry-variant="P"] .archive-time-total { display:grid; gap:2px; min-width:58px; }
+[data-entry-variant="P"] .archive-time-total strong { font:400 26px/.95 var(--font-display-en); font-variant-numeric:oldstyle-nums; }
+[data-entry-variant="P"] .archive-time-total small { color:var(--color-muted); font:400 9px/1.3 var(--font-body); }
+[data-entry-variant="P"] .archive-time-years { display:flex; min-height:40px; align-items:end; justify-content:space-between; gap:8px; border-bottom:1px solid var(--color-border); }
+[data-entry-variant="P"] .archive-time-year { display:grid; justify-items:center; gap:4px; color:var(--color-muted); font:400 9px/1.2 var(--font-body); font-variant-numeric:tabular-nums; }
+[data-entry-variant="P"] .archive-time-year i { display:block; width:5px; height:var(--year-mark-height,8px); border-radius:50%; background:var(--color-accent); }
+[data-entry-variant="P"] .archive-time-action { grid-column:2; justify-self:end; color:var(--color-secondary); font:500 10px/1.35 var(--font-body); }
+[data-entry-variant="P"] .archive-time-action span { display:inline-block; margin-left:7px; color:var(--color-accent); font-size:15px; transition:transform .18s ease; }
+[data-entry-variant="P"] .archive-time-ribbon:hover .archive-time-action span { transform:translateX(3px); }
+@media (max-width:767px) {
+  [data-entry-variant="P"] .archive-time-ribbon { gap:10px 12px; }
+  [data-entry-variant="P"] .archive-time-year { font-size:8px; }
+}

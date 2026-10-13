@@ -150,6 +150,14 @@ function renderHome() {
   const latest = playlists[0];
   const recent = playlists.slice(1, 6);
   const latestTracks = latest?.tracks?.slice(0, 3) || [];
+  const proposal = document.documentElement.dataset.design || 'M';
+  const yearCounts = new Map();
+  for (const playlist of playlists) {
+    const year = playlist.date.slice(0, 4);
+    yearCounts.set(year, (yearCounts.get(year) || 0) + 1);
+  }
+  const yearList = [...yearCounts.keys()].sort((a, b) => Number(a) - Number(b));
+  const yearRange = yearList.length ? `${yearList[0]}—${yearList.at(-1)}` : 'Listening history';
   const recentMarkup = recent.map((playlist) => `<article class="recent-day">
     <div class="recent-day-heading"><h3><a href="${playlistHref(playlist)}">${escapeHtml(collectionDate(playlist.date))}</a></h3><span>${countLabel(playlist.tracks.length, 'song')}</span></div>
     <div class="recent-covers">${playlist.tracks.slice(0, 3).map((track) => `<a class="album-link" href="${escapeHtml(songHref(track, playlist))}" target="_blank" rel="noreferrer" aria-label="Open ${escapeHtml(track.title || 'song')} in QQ Music">${coverMarkup(track)}</a>`).join('')}</div>
@@ -159,11 +167,31 @@ function renderHome() {
   const catalogueNote = library?.status === 'partial'
     ? '<p class="source-footnote">Partial sync. Earlier data preserved.</p>'
     : '';
+  let archiveEntry = '';
+  if (proposal === 'M') {
+    archiveEntry = `<a class="archive-index-link" href="#archive" aria-label="Browse archive, ${playlists.length} collections, ${yearRange}">
+      <span class="archive-index-number" aria-hidden="true">01</span><span class="archive-index-copy"><span class="archive-index-title">Browse archive</span><span class="archive-index-meta">${countLabel(playlists.length, 'collection')} · ${yearRange}</span></span><span class="archive-index-arrow" aria-hidden="true">→</span>
+    </a>`;
+  } else if (proposal === 'N') {
+    archiveEntry = `<nav class="archive-year-portal" aria-label="Browse collections by year"><div class="archive-year-heading"><strong>Browse by year</strong><span>${countLabel(playlists.length, 'collection')}</span></div><div class="archive-year-links">${yearList.map((year) => `<a href="#archive?year=${year}" aria-label="${year}, ${countLabel(yearCounts.get(year), 'collection')}">${year}</a>`).join('')}<a class="archive-all-years" href="#archive?year=all">All collections&nbsp; ↗</a></div></nav>`;
+  } else if (proposal === 'P') {
+    const firstYear = yearList.length ? Number(yearList[0]) : new Date().getFullYear();
+    const lastYear = yearList.length ? Number(yearList.at(-1)) : firstYear;
+    const maxYearCount = Math.max(1, ...yearCounts.values());
+    const timeline = Array.from({ length: Math.max(1, lastYear - firstYear + 1) }, (_, index) => String(firstYear + index));
+    archiveEntry = `<a class="archive-time-ribbon" href="#archive" aria-label="Browse archive, ${playlists.length} collections from ${firstYear} to ${lastYear}">
+      <span class="archive-time-total"><strong>${playlists.length}</strong><small>collections</small></span><span class="archive-time-years" aria-hidden="true">${timeline.map((year) => `<span class="archive-time-year"><i style="--year-mark-height:${Math.max(5, Math.round(((yearCounts.get(year) || 0) / maxYearCount) * 23))}px"></i>${year}</span>`).join('')}</span>
+      <span class="archive-time-action">Browse archive <span aria-hidden="true">↗</span></span>
+    </a>`;
+  }
+  const recentArchiveLink = proposal === 'O'
+    ? `<a class="archive-context-link" href="#archive" aria-label="Open all ${playlists.length} collections">All ${playlists.length} collections <span aria-hidden="true">↗</span></a>`
+    : '';
   return `<div class="page-shell home-page">
     <section class="home-feature" aria-label="Introduction and latest collection">
       <div class="feature-copy">
-        <h1>Music, collected.</h1>
-        <a class="text-link" href="#archive">Browse archive →</a>
+        <h1>A record of listening.</h1>
+        ${archiveEntry}
       </div>
       <div class="latest-collection">
         ${latest ? `<div class="latest-heading"><span class="latest-date">${escapeHtml(latestLabel)}</span><a class="latest-all-link" href="${playlistHref(latest)}">View all ${countLabel(latest.tracks.length, 'song')}</a></div><div class="latest-track-grid">${latestTracks.map((track, index) => albumCardMarkup(track, latest, index === 0)).join('')}</div>` : `<p class="empty-state">${libraryError ? 'Catalogue unavailable.' : 'Loading…'}</p>`}
@@ -171,12 +199,11 @@ function renderHome() {
       </div>
     </section>
     <section class="section recent-section" aria-labelledby="recent-title">
-      <div class="section-heading"><div><h2 id="recent-title">Recent collections</h2></div></div>
+      <div class="section-heading"><div><h2 id="recent-title">Recent collections</h2></div>${recentArchiveLink}</div>
       ${recentMarkup ? `<div class="recent-day-grid">${recentMarkup}</div>` : '<p class="empty-state">No earlier collections.</p>'}
     </section>
   </div>`;
 }
-
 function renderArchive() {
   const params = routeParams();
   const playlists = (library?.playlists || []).filter((playlist) => playlist.date).sort((a, b) => b.date.localeCompare(a.date));
