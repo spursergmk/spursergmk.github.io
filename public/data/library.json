@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-12T21:43:06.625Z",
+  "lastSyncedAt": "2026-10-13T19:51:01.697Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,154 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 71,
-  "trackCount": 477,
+  "playlistCount": 73,
+  "trackCount": 489,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 100,
-  "excludedUndatedPlaylistCount": 29,
+  "sourcePlaylistCount": 101,
+  "excludedUndatedPlaylistCount": 28,
   "playlists": [
+    {
+      "id": "9792349804",
+      "name": "26.10.13",
+      "date": "2026-10-13",
+      "trackCount": 9,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9792349804",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000029iwWo4ZHF9h.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "003tRvPx2TddCs",
+          "title": "Ruby",
+          "artist": "Foster The People",
+          "album": "Ruby",
+          "durationMs": 309000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000029iwWo4ZHF9h.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003zLCEo3fJ3Mv",
+          "title": "四季の歌",
+          "artist": "芹洋子",
+          "album": "続・青春歌年鑑 1977",
+          "durationMs": 182000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002FdrkE2qQNPv.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "0016eSvF4fO5Mo",
+          "title": "Invisible",
+          "artist": "Aloan",
+          "album": "Pretty Freaks",
+          "durationMs": 267000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000JaMTm2jwVIh.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "004dfnZ51N2E78",
+          "title": "夢見ていよう (在做梦吧)",
+          "artist": "横山智佐, 帝国歌劇団",
+          "album": "ゲキテイ (檄! 帝国華撃団) / 夢見ていよう",
+          "durationMs": 237000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003xoOT92g7IT0.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "003he1nl3uufhe",
+          "title": "Secret",
+          "artist": "茶太",
+          "album": "eclipse改",
+          "durationMs": 276000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004OHYfb34IrnF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "002Oknhl0iApqH",
+          "title": "So Tired",
+          "artist": "Ozzy Osbourne",
+          "album": "Bark At The Moon (Expanded Edition)",
+          "durationMs": 239000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002gYmlg0CM1Zb.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "000924J62iKjXl",
+          "title": "Dancehall",
+          "artist": "Tribes",
+          "album": "Wish To Scream",
+          "durationMs": 189000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001yoWNO11Xllv.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "003Nqg1Y2KKZFL",
+          "title": "最愛",
+          "artist": "中岛美雪",
+          "album": "御色なおし (Remaster)",
+          "durationMs": 259000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000006T6JX2KLgBc.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 9,
+          "id": "0012Tlpq0pAkSe",
+          "title": "めぐり逢えたら",
+          "artist": "今井美樹",
+          "album": "Pearl",
+          "durationMs": 271000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000003Wgdb3ZkiEC.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "9791943093",
+      "name": "26.10.12",
+      "date": "2026-10-12",
+      "trackCount": 3,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9791943093",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000006st0Q1gB2O6.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002gVBda3ab7Ms",
+          "title": "嵐の素顔",
+          "artist": "工藤静香",
+          "album": "嵐の素顔",
+          "durationMs": 211000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000006st0Q1gB2O6.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "001kjAn63kroNf",
+          "title": "花のように",
+          "artist": "松隆子",
+          "album": "home grown",
+          "durationMs": 275000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000318ddt3gVqFi.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "001dL2jy0SgnQK",
+          "title": "Love",
+          "artist": "Foster The People",
+          "album": "Torches (Best Buy Exclusive)",
+          "durationMs": 220000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000Abh8l4dufHy.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9791496446",
       "name": "26.10.11",
