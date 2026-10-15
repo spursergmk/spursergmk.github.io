@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-14T22:16:07.625Z",
+  "lastSyncedAt": "2026-10-15T05:52:02.667Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,33 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 73,
-  "trackCount": 489,
+  "playlistCount": 74,
+  "trackCount": 490,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 101,
+  "sourcePlaylistCount": 102,
   "excludedUndatedPlaylistCount": 28,
   "playlists": [
+    {
+      "id": "9793297191",
+      "name": "26.10.15",
+      "date": "2026-10-15",
+      "trackCount": 1,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9793297191",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003LwGX529IChL.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "000jbT4B2wBuIT",
+          "title": "Here for You",
+          "artist": "Ozzy Osbourne",
+          "album": "Black Rain",
+          "durationMs": 277000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003LwGX529IChL.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9792349804",
       "name": "26.10.13",
