@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-15T05:52:02.667Z",
+  "lastSyncedAt": "2026-10-15T12:37:49.785Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -17,7 +17,7 @@
   },
   "directoryStatus": "verified",
   "playlistCount": 74,
-  "trackCount": 490,
+  "trackCount": 494,
   "unparsedDateCount": 0,
   "sourcePlaylistCount": 102,
   "excludedUndatedPlaylistCount": 28,
@@ -26,13 +26,53 @@
       "id": "9793297191",
       "name": "26.10.15",
       "date": "2026-10-15",
-      "trackCount": 1,
+      "trackCount": 5,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9793297191",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003LwGX529IChL.jpg?n=1",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000RNL9M4L0OHd.jpg?n=1",
       "creator": "spurser",
       "tracks": [
         {
           "index": 1,
+          "id": "003OcsPQ0HURYA",
+          "title": "Wherever U Go, Whatever U Do",
+          "artist": "Prince",
+          "album": "Rave In2 the Joy Fantastic",
+          "durationMs": 196000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000RNL9M4L0OHd.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000qtBbt2lQNPW",
+          "title": "Life Is Real (Song For Lennon)",
+          "artist": "Queen",
+          "album": "Hot Space",
+          "durationMs": 211000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000rYh9x3ml1vJ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003qjBj23fSjsn",
+          "title": "時の過ぎゆくままに (任时间流逝)",
+          "artist": "沢田研二",
+          "album": "時の過ぎゆくままに",
+          "durationMs": 204000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004TQ3UR0EMeJ8.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "001olEdW3ADWwz",
+          "title": "People",
+          "artist": "Laid Back",
+          "album": "People",
+          "durationMs": 307000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Endwv08m841.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
           "id": "000jbT4B2wBuIT",
           "title": "Here for You",
           "artist": "Ozzy Osbourne",
