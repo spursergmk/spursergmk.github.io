@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-15T22:12:55.514Z",
+  "lastSyncedAt": "2026-10-16T05:48:39.058Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,73 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 74,
-  "trackCount": 494,
+  "playlistCount": 75,
+  "trackCount": 499,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 102,
+  "sourcePlaylistCount": 103,
   "excludedUndatedPlaylistCount": 28,
   "playlists": [
+    {
+      "id": "9793739049",
+      "name": "26.10.16",
+      "date": "2026-10-16",
+      "trackCount": 5,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9793739049",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000010QfUz32yYwe.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001HnPDB26Wh2t",
+          "title": "ミス・ライムの推理",
+          "artist": "手嶌葵",
+          "album": "青い図書室",
+          "durationMs": 287000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000010QfUz32yYwe.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "001ukrww27xMGh",
+          "title": "東京にて",
+          "artist": "ヒグチアイ",
+          "album": "樋口愛",
+          "durationMs": 286000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Xz3Gm39rqPt.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000rJVhU1MzUJg",
+          "title": "Cold",
+          "artist": "Chris Stapleton",
+          "album": "Starting Over",
+          "durationMs": 309000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000079a8C3vUimO.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "000kCDBD0q1sCJ",
+          "title": "糸",
+          "artist": "中岛美雪",
+          "album": "East Asia",
+          "durationMs": 307000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000029G8y1gsoXK.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "004ZZj6w2v0hXm",
+          "title": "Love of Mine",
+          "artist": "The Hunts",
+          "album": "Darlin' Oh Darlin’",
+          "durationMs": 259000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001u5WDz3ITiSQ.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9793297191",
       "name": "26.10.15",
