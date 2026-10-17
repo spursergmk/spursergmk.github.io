@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-16T22:03:42.478Z",
+  "lastSyncedAt": "2026-10-17T05:33:31.551Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,43 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 75,
-  "trackCount": 499,
+  "playlistCount": 76,
+  "trackCount": 501,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 103,
+  "sourcePlaylistCount": 104,
   "excludedUndatedPlaylistCount": 28,
   "playlists": [
+    {
+      "id": "9794237883",
+      "name": "26.10.17",
+      "date": "2026-10-17",
+      "trackCount": 2,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9794237883",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004OAYv20Q9UGX.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0040tcej2dlQ62",
+          "title": "どん",
+          "artist": "秋山羊子",
+          "album": "指一本で倒されるだろう",
+          "durationMs": 354000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004OAYv20Q9UGX.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003qB01T0NRso0",
+          "title": "Us and Them",
+          "artist": "Pink Floyd",
+          "album": "The Dark Side of the Moon (Explicit)",
+          "durationMs": 469000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000PYepk3k0ByX.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9793739049",
       "name": "26.10.16",
@@ -1376,8 +1407,8 @@
       "date": "2026-09-23",
       "trackCount": 4,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9782372487",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001XkFBD0zmarT.jpg?n=1",
-      "creator": "spurser",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001XkFBD0zmarT.jpg",
+      "creator": "",
       "tracks": [
         {
           "index": 1,
