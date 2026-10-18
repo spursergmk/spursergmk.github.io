@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-17T21:25:27.591Z",
+  "lastSyncedAt": "2026-10-18T05:50:40.866Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,73 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 76,
-  "trackCount": 504,
+  "playlistCount": 77,
+  "trackCount": 509,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 104,
+  "sourcePlaylistCount": 105,
   "excludedUndatedPlaylistCount": 28,
   "playlists": [
+    {
+      "id": "9794768413",
+      "name": "26.10.18",
+      "date": "2026-10-18",
+      "trackCount": 5,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9794768413",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004PmBU60kyBYF.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "000bbNEC3VYjMJ",
+          "title": "Shanghai memories of 1945",
+          "artist": "黄莺莺",
+          "album": "PARADISE IN MY HEART",
+          "durationMs": 246000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004PmBU60kyBYF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "004JAFyE2dPyBU",
+          "title": "パプリカ",
+          "artist": "Foorin",
+          "album": "パプリカ",
+          "durationMs": 208000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000486nE10ccfSC.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000EICQd0kPLb9",
+          "title": "One more time, One more chance",
+          "artist": "山崎将义",
+          "album": "One more time, One more chance",
+          "durationMs": 325000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000XGHiP4Py87f.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "0045AfNg3rQUWu",
+          "title": "Brutal Love",
+          "artist": "Green Day",
+          "album": "¡TRÉ!",
+          "durationMs": 294000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000004VcWm1wrYPL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "004bbL5v27Y0VC",
+          "title": "Starman",
+          "artist": "David Bowie",
+          "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+          "durationMs": 254000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Wojyj29YGDb.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9794237883",
       "name": "26.10.17",
