@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-18T12:01:56.659Z",
+  "lastSyncedAt": "2026-10-18T16:29:30.978Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -17,7 +17,7 @@
   },
   "directoryStatus": "verified",
   "playlistCount": 77,
-  "trackCount": 509,
+  "trackCount": 511,
   "unparsedDateCount": 0,
   "sourcePlaylistCount": 105,
   "excludedUndatedPlaylistCount": 28,
@@ -26,13 +26,33 @@
       "id": "9794768413",
       "name": "26.10.18",
       "date": "2026-10-18",
-      "trackCount": 5,
+      "trackCount": 7,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9794768413",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004PmBU60kyBYF.jpg?n=1",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003GD7v74C3ONP.jpg?n=1",
       "creator": "spurser",
       "tracks": [
         {
           "index": 1,
+          "id": "003OHDnv0HwpQQ",
+          "title": "永遠の月",
+          "artist": "夏川里美",
+          "album": "歌さがし~アジアの風~",
+          "durationMs": 237000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003GD7v74C3ONP.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "004CXdcd3pEIgo",
+          "title": "Cold Little Heart",
+          "artist": "Michael Kiwanuka",
+          "album": "Love & Hate",
+          "durationMs": 597000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004eQ69D2dQWBr.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
           "id": "000bbNEC3VYjMJ",
           "title": "Shanghai memories of 1945",
           "artist": "黄莺莺",
@@ -42,7 +62,7 @@
           "isAvailable": true
         },
         {
-          "index": 2,
+          "index": 4,
           "id": "004JAFyE2dPyBU",
           "title": "パプリカ",
           "artist": "Foorin",
@@ -52,7 +72,7 @@
           "isAvailable": true
         },
         {
-          "index": 3,
+          "index": 5,
           "id": "000EICQd0kPLb9",
           "title": "One more time, One more chance",
           "artist": "山崎将义",
@@ -62,7 +82,7 @@
           "isAvailable": true
         },
         {
-          "index": 4,
+          "index": 6,
           "id": "0045AfNg3rQUWu",
           "title": "Brutal Love",
           "artist": "Green Day",
@@ -72,7 +92,7 @@
           "isAvailable": true
         },
         {
-          "index": 5,
+          "index": 7,
           "id": "004bbL5v27Y0VC",
           "title": "Starman",
           "artist": "David Bowie",
