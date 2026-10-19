@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-19T06:08:28.840Z",
+  "lastSyncedAt": "2026-10-19T14:37:58.830Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,93 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 77,
-  "trackCount": 511,
+  "playlistCount": 78,
+  "trackCount": 518,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 105,
+  "sourcePlaylistCount": 106,
   "excludedUndatedPlaylistCount": 28,
   "playlists": [
+    {
+      "id": "9795442354",
+      "name": "26.10.19",
+      "date": "2026-10-19",
+      "trackCount": 7,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9795442354",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000431dVH3hytOG.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0038FUqf3MHU03",
+          "title": "You're Gonna Live Forever in Me",
+          "artist": "John Mayer",
+          "album": "The Search for Everything - Wave One",
+          "durationMs": 189000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M00000431dVH3hytOG.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002s0M313UlfXk",
+          "title": "I Have Never Been To Me",
+          "artist": "邓丽君",
+          "album": "君之千言万语 - 英语1",
+          "durationMs": 224000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001OoMsj2ROp4y.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000hPesh3LSSx4",
+          "title": "Another Day In Paradise",
+          "artist": "Phil Collins",
+          "album": "Another Day In Paradise (Single)",
+          "durationMs": 319000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000029XwEy2di9cn.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "000BdQjd41qaWj",
+          "title": "Sweet Symphony",
+          "artist": "Joy Oladokun, Chris Stapleton",
+          "album": "Sweet Symphony",
+          "durationMs": 228000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002JvVFl11paBZ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "0003jj2q3koqMs",
+          "title": "Unintended",
+          "artist": "Muse",
+          "album": "Showbiz (download)",
+          "durationMs": 237000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001bhaFT2EwCtc.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "002DjIMX4P4pgh",
+          "title": "THIS COULD BE US",
+          "artist": "Prince",
+          "album": "ART OFFICIAL AGE",
+          "durationMs": 312000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003WHxiU0udtB1.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "003KpdNw2Y2Fej",
+          "title": "Rilkean Heart",
+          "artist": "Cocteau Twins",
+          "album": "Twinlights (EP)",
+          "durationMs": 142000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004JpSGj11RX2Q.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9794768413",
       "name": "26.10.18",
