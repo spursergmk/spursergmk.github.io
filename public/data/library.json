@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-22T06:05:30.442Z",
+  "lastSyncedAt": "2026-10-22T12:56:15.242Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -17,7 +17,7 @@
   },
   "directoryStatus": "verified",
   "playlistCount": 79,
-  "trackCount": 521,
+  "trackCount": 526,
   "unparsedDateCount": 0,
   "sourcePlaylistCount": 107,
   "excludedUndatedPlaylistCount": 28,
@@ -26,13 +26,63 @@
       "id": "9796650926",
       "name": "26.10.22",
       "date": "2026-10-22",
-      "trackCount": 3,
+      "trackCount": 8,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9796650926",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000IvpMU0TQ8BB.jpg?n=1",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000012mpkn3GV1yC.jpg?n=1",
       "creator": "spurser",
       "tracks": [
         {
           "index": 1,
+          "id": "0013f8mf4DT0i9",
+          "title": "The Stranger",
+          "artist": "Billy Joel",
+          "album": "The Stranger",
+          "durationMs": 310000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000012mpkn3GV1yC.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "004LcbPA3bd85U",
+          "title": "涙を連れて旅に出ようか",
+          "artist": "伊勢正三",
+          "album": "メガロポリスの錯覚",
+          "durationMs": 329000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003iLfO11HElBN.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003WCdOJ3BgKSQ",
+          "title": "川の流れのように",
+          "artist": "美空ひばり",
+          "album": "美空ひばりベスト 1964～1989",
+          "durationMs": 296000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000oc3xB2P9Fcm.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "003sTo5a28uoXt",
+          "title": "伊豆の踊子",
+          "artist": "山口百惠",
+          "album": "Super Gold-CD Collection",
+          "durationMs": 185000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000016TEf62QZK80.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "002iZX1A4T1Kwy",
+          "title": "翼をください",
+          "artist": "赤い鳥",
+          "album": "GOLDEN BEST / The Red Birds Tsubasao Kudasai - Takedano Komori Uta",
+          "durationMs": 205000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002R6JqV1dYTIx.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
           "id": "003XU26A3EUnR6",
           "title": "旅姿六人衆",
           "artist": "南方之星",
@@ -42,7 +92,7 @@
           "isAvailable": true
         },
         {
-          "index": 2,
+          "index": 7,
           "id": "003OUj6g2fcYyb",
           "title": "さよなら夏の日 (再见夏日)",
           "artist": "山下達郎",
@@ -52,7 +102,7 @@
           "isAvailable": true
         },
         {
-          "index": 3,
+          "index": 8,
           "id": "002hl2rd3eRNhe",
           "title": "Let 'Em Cry",
           "artist": "Red Hot Chili Peppers",
