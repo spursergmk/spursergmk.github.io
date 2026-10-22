@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-21T22:18:14.364Z",
+  "lastSyncedAt": "2026-10-22T06:05:30.442Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,53 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 78,
-  "trackCount": 518,
+  "playlistCount": 79,
+  "trackCount": 521,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 106,
+  "sourcePlaylistCount": 107,
   "excludedUndatedPlaylistCount": 28,
   "playlists": [
+    {
+      "id": "9796650926",
+      "name": "26.10.22",
+      "date": "2026-10-22",
+      "trackCount": 3,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9796650926",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000IvpMU0TQ8BB.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "003XU26A3EUnR6",
+          "title": "旅姿六人衆",
+          "artist": "南方之星",
+          "album": "綺麗 (Remastered 2024)",
+          "durationMs": 272000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000IvpMU0TQ8BB.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003OUj6g2fcYyb",
+          "title": "さよなら夏の日 (再见夏日)",
+          "artist": "山下達郎",
+          "album": "さよなら夏の日",
+          "durationMs": 274000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000HpIlz2q5IeQ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002hl2rd3eRNhe",
+          "title": "Let 'Em Cry",
+          "artist": "Red Hot Chili Peppers",
+          "album": "Unlimited Love (Explicit)",
+          "durationMs": 263000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003u7kyE08EFfE.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9795442354",
       "name": "26.10.19",
