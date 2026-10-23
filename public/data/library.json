@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-23T12:35:37.520Z",
+  "lastSyncedAt": "2026-10-23T17:51:50.141Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -871,8 +871,8 @@
       "date": "2026-10-07",
       "trackCount": 5,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9789661596",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000oavby2uaVJU.jpg?n=1",
-      "creator": "spurser",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R500x500M000000oavby2uaVJU.jpg",
+      "creator": "",
       "tracks": [
         {
           "index": 1,
@@ -932,8 +932,8 @@
       "date": "2026-10-06",
       "trackCount": 13,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9789171839",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004cUCTC1FTL8k.jpg?n=1",
-      "creator": "spurser",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R500x500M000004cUCTC1FTL8k.jpg",
+      "creator": "",
       "tracks": [
         {
           "index": 1,
@@ -1049,7 +1049,7 @@
           "index": 12,
           "id": "0002hOYC492NtQ",
           "title": "Heart and Soul (心与灵魂)",
-          "artist": "Silkroad Ensemble, 马友友, Lisa Fischer, Gregory Porter",
+          "artist": "Silkroad Ensemble, 马友友, Lisa Fischer, Gregory Porter, Hoagy Carmichael",
           "album": "Sing Me Home",
           "durationMs": 236000,
           "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002IVhPl4MsOIZ.jpg",
@@ -1073,8 +1073,8 @@
       "date": "2026-10-05",
       "trackCount": 6,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9788755273",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001Im33x0XFyh2.jpg?n=1",
-      "creator": "spurser",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001Im33x0XFyh2.jpg",
+      "creator": "",
       "tracks": [
         {
           "index": 1,
@@ -1317,8 +1317,8 @@
       "date": "2026-09-29",
       "trackCount": 7,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9785461228",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002K2PMT4QZGoQ.jpg?n=1",
-      "creator": "spurser",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R500x500M000002K2PMT4QZGoQ.jpg",
+      "creator": "",
       "tracks": [
         {
           "index": 1,
@@ -1590,8 +1590,8 @@
       "date": "2026-09-25",
       "trackCount": 13,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9783376627",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004ND0Au1vwjtW.jpg?n=1",
-      "creator": "spurser",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R500x500M000004ND0Au1vwjtW.jpg",
+      "creator": "",
       "tracks": [
         {
           "index": 1,
@@ -1731,8 +1731,8 @@
       "date": "2026-09-23",
       "trackCount": 4,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9782372487",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001XkFBD0zmarT.jpg?n=1",
-      "creator": "spurser",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001XkFBD0zmarT.jpg",
+      "creator": "",
       "tracks": [
         {
           "index": 1,
@@ -2206,8 +2206,8 @@
       "date": "2026-09-16",
       "trackCount": 3,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9779398363",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001cbh3e0ySVSz.jpg?n=1",
-      "creator": "spurser",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001cbh3e0ySVSz.jpg",
+      "creator": "",
       "tracks": [
         {
           "index": 1,
@@ -2541,8 +2541,8 @@
       "date": "2026-09-10",
       "trackCount": 5,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9776567970",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004fdtij1zIYHZ.jpg?n=1",
-      "creator": "spurser",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R500x500M000004fdtij1zIYHZ.jpg",
+      "creator": "",
       "tracks": [
         {
           "index": 1,
@@ -4677,8 +4677,8 @@
       "date": "2026-06-16",
       "trackCount": 11,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9730254131",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001QdLgg0TKw0P.jpg?n=1",
-      "creator": "spurser",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R500x500M000001QdLgg0TKw0P.jpg",
+      "creator": "",
       "tracks": [
         {
           "index": 1,
