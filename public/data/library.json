@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-22T22:16:55.178Z",
+  "lastSyncedAt": "2026-10-23T06:00:24.592Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,43 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 79,
-  "trackCount": 527,
+  "playlistCount": 80,
+  "trackCount": 529,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 107,
+  "sourcePlaylistCount": 108,
   "excludedUndatedPlaylistCount": 28,
   "playlists": [
+    {
+      "id": "9797081658",
+      "name": "26.10.23",
+      "date": "2026-10-23",
+      "trackCount": 2,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9797081658",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003348TS4Db1Ci.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "000zHgyW33TLRd",
+          "title": "島唄",
+          "artist": "THE BOOM",
+          "album": "思春期",
+          "durationMs": 302000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003348TS4Db1Ci.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "0007kzxS0QCBU9",
+          "title": "流浪の詩",
+          "artist": "中岛美雪",
+          "album": "みんな去 (い) ってしまった (Remaster)",
+          "durationMs": 306000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001hlISv0Z9wiC.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9796650926",
       "name": "26.10.22",
