@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-24T16:33:56.092Z",
+  "lastSyncedAt": "2026-10-24T21:35:21.423Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -17,7 +17,7 @@
   },
   "directoryStatus": "verified",
   "playlistCount": 81,
-  "trackCount": 531,
+  "trackCount": 532,
   "unparsedDateCount": 0,
   "sourcePlaylistCount": 109,
   "excludedUndatedPlaylistCount": 28,
@@ -26,13 +26,23 @@
       "id": "9797995619",
       "name": "26.10.24",
       "date": "2026-10-24",
-      "trackCount": 2,
+      "trackCount": 3,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9797995619",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004FUn3D067LqB.jpg?n=1",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000015YgjT4SlDye.jpg?n=1",
       "creator": "spurser",
       "tracks": [
         {
           "index": 1,
+          "id": "002dJYsQ0PuQNI",
+          "title": "Wind Of Change",
+          "artist": "Scorpions",
+          "album": "Gold Ballads",
+          "durationMs": 313000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000015YgjT4SlDye.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
           "id": "00047Ahe0VMiwq",
           "title": "Pieces Of Me",
           "artist": "Ledisi",
@@ -42,7 +52,7 @@
           "isAvailable": true
         },
         {
-          "index": 2,
+          "index": 3,
           "id": "0018J5622VJFwV",
           "title": "The Bluest Blues",
           "artist": "Alvin Lee",
