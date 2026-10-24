@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-24T11:57:52.622Z",
+  "lastSyncedAt": "2026-10-24T16:33:56.092Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,43 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 80,
-  "trackCount": 529,
+  "playlistCount": 81,
+  "trackCount": 531,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 108,
+  "sourcePlaylistCount": 109,
   "excludedUndatedPlaylistCount": 28,
   "playlists": [
+    {
+      "id": "9797995619",
+      "name": "26.10.24",
+      "date": "2026-10-24",
+      "trackCount": 2,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9797995619",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004FUn3D067LqB.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "00047Ahe0VMiwq",
+          "title": "Pieces Of Me",
+          "artist": "Ledisi",
+          "album": "Pieces Of Me",
+          "durationMs": 202000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004FUn3D067LqB.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "0018J5622VJFwV",
+          "title": "The Bluest Blues",
+          "artist": "Alvin Lee",
+          "album": "Pure Blues",
+          "durationMs": 447000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000016Kqnd1WZYqs.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9797081658",
       "name": "26.10.23",
