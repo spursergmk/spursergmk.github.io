@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-24T21:35:21.423Z",
+  "lastSyncedAt": "2026-10-25T06:02:39.906Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,63 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 81,
-  "trackCount": 532,
+  "playlistCount": 82,
+  "trackCount": 536,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 109,
+  "sourcePlaylistCount": 110,
   "excludedUndatedPlaylistCount": 28,
   "playlists": [
+    {
+      "id": "9798193002",
+      "name": "26.10.25",
+      "date": "2026-10-25",
+      "trackCount": 4,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9798193002",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002I6KpC4Igjd2.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002PMbe34CnC4F",
+          "title": "風になれ",
+          "artist": "大黒摩季",
+          "album": "POWER OF DREAMS",
+          "durationMs": 354000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002I6KpC4Igjd2.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "004cQ1bD1WRrFa",
+          "title": "I'm Into Livin'",
+          "artist": "Stevie Wonder",
+          "album": "Songs In The Keys Of Life (The EP)",
+          "durationMs": 344000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001t9nEo3eLLPr.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "0049RyBC3euq63",
+          "title": "Holiday in Acapulco",
+          "artist": "松任谷由実",
+          "album": "ALARM à la mode",
+          "durationMs": 273000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000017YMeB4Ylj0T.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "0002mEAd3o7mB7",
+          "title": "Friends, Lovers or Nothing",
+          "artist": "John Mayer",
+          "album": "Battle Studies",
+          "durationMs": 359000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000009xQ212tgMLB.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9797995619",
       "name": "26.10.24",
