@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-25T12:32:43.664Z",
+  "lastSyncedAt": "2026-10-25T17:02:32.796Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -17,7 +17,7 @@
   },
   "directoryStatus": "verified",
   "playlistCount": 82,
-  "trackCount": 540,
+  "trackCount": 542,
   "unparsedDateCount": 0,
   "sourcePlaylistCount": 110,
   "excludedUndatedPlaylistCount": 28,
@@ -26,13 +26,33 @@
       "id": "9798193002",
       "name": "26.10.25",
       "date": "2026-10-25",
-      "trackCount": 8,
+      "trackCount": 10,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9798193002",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002E31qK4A0oXF.jpg?n=1",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004BTT9O4RdOuL.jpg?n=1",
       "creator": "spurser",
       "tracks": [
         {
           "index": 1,
+          "id": "001hwZR22xM8aC",
+          "title": "Love That Grows Old",
+          "artist": "Max Jury",
+          "album": "Max Jury",
+          "durationMs": 180000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004BTT9O4RdOuL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003tqd9t1Uemuq",
+          "title": "Where'd All the Time Go?",
+          "artist": "Dr. Dog",
+          "album": "Shame, Shame (Deluxe Edition) [Explicit]",
+          "durationMs": 234000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003ogcdL3gRnYI.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
           "id": "0039vZUi0Gr6jZ",
           "title": "長い影",
           "artist": "Humbert Humbert",
@@ -42,7 +62,7 @@
           "isAvailable": true
         },
         {
-          "index": 2,
+          "index": 4,
           "id": "003DvkH01K2NFu",
           "title": "サライ",
           "artist": "谷村新司, 加山雄三 (Kayama Yuzo)",
@@ -52,7 +72,7 @@
           "isAvailable": true
         },
         {
-          "index": 3,
+          "index": 5,
           "id": "002xRxlL4PSu90",
           "title": "Tear",
           "artist": "Red Hot Chili Peppers",
@@ -62,7 +82,7 @@
           "isAvailable": true
         },
         {
-          "index": 4,
+          "index": 6,
           "id": "000qiQGw3R99Ky",
           "title": "Soledad y el Mar",
           "artist": "Natalia Lafourcade, Los Macorinos",
@@ -72,7 +92,7 @@
           "isAvailable": true
         },
         {
-          "index": 5,
+          "index": 7,
           "id": "002PMbe34CnC4F",
           "title": "風になれ",
           "artist": "大黒摩季",
@@ -82,7 +102,7 @@
           "isAvailable": true
         },
         {
-          "index": 6,
+          "index": 8,
           "id": "004cQ1bD1WRrFa",
           "title": "I'm Into Livin'",
           "artist": "Stevie Wonder",
@@ -92,7 +112,7 @@
           "isAvailable": true
         },
         {
-          "index": 7,
+          "index": 9,
           "id": "0049RyBC3euq63",
           "title": "Holiday in Acapulco",
           "artist": "松任谷由実",
@@ -102,7 +122,7 @@
           "isAvailable": true
         },
         {
-          "index": 8,
+          "index": 10,
           "id": "0002mEAd3o7mB7",
           "title": "Friends, Lovers or Nothing",
           "artist": "John Mayer",
