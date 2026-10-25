@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-25T06:02:39.906Z",
+  "lastSyncedAt": "2026-10-25T12:32:43.664Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -17,7 +17,7 @@
   },
   "directoryStatus": "verified",
   "playlistCount": 82,
-  "trackCount": 536,
+  "trackCount": 540,
   "unparsedDateCount": 0,
   "sourcePlaylistCount": 110,
   "excludedUndatedPlaylistCount": 28,
@@ -26,13 +26,53 @@
       "id": "9798193002",
       "name": "26.10.25",
       "date": "2026-10-25",
-      "trackCount": 4,
+      "trackCount": 8,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9798193002",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002I6KpC4Igjd2.jpg?n=1",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002E31qK4A0oXF.jpg?n=1",
       "creator": "spurser",
       "tracks": [
         {
           "index": 1,
+          "id": "0039vZUi0Gr6jZ",
+          "title": "長い影",
+          "artist": "Humbert Humbert",
+          "album": "家族行進曲",
+          "durationMs": 174000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002E31qK4A0oXF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003DvkH01K2NFu",
+          "title": "サライ",
+          "artist": "谷村新司, 加山雄三 (Kayama Yuzo)",
+          "album": "サライ",
+          "durationMs": 389000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002c8io34dOwkZ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002xRxlL4PSu90",
+          "title": "Tear",
+          "artist": "Red Hot Chili Peppers",
+          "album": "By The Way",
+          "durationMs": 317000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004HKR0u2bOy5G.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "000qiQGw3R99Ky",
+          "title": "Soledad y el Mar",
+          "artist": "Natalia Lafourcade, Los Macorinos",
+          "album": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+          "durationMs": 214000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003bub0Y1rcvbc.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
           "id": "002PMbe34CnC4F",
           "title": "風になれ",
           "artist": "大黒摩季",
@@ -42,7 +82,7 @@
           "isAvailable": true
         },
         {
-          "index": 2,
+          "index": 6,
           "id": "004cQ1bD1WRrFa",
           "title": "I'm Into Livin'",
           "artist": "Stevie Wonder",
@@ -52,7 +92,7 @@
           "isAvailable": true
         },
         {
-          "index": 3,
+          "index": 7,
           "id": "0049RyBC3euq63",
           "title": "Holiday in Acapulco",
           "artist": "松任谷由実",
@@ -62,7 +102,7 @@
           "isAvailable": true
         },
         {
-          "index": 4,
+          "index": 8,
           "id": "0002mEAd3o7mB7",
           "title": "Friends, Lovers or Nothing",
           "artist": "John Mayer",
