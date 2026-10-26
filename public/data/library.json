@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-26T06:07:03.982Z",
+  "lastSyncedAt": "2026-10-26T14:12:08.104Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,43 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 82,
-  "trackCount": 542,
+  "playlistCount": 83,
+  "trackCount": 544,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 110,
+  "sourcePlaylistCount": 111,
   "excludedUndatedPlaylistCount": 28,
   "playlists": [
+    {
+      "id": "9798719313",
+      "name": "26.10.26",
+      "date": "2026-10-26",
+      "trackCount": 2,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9798719313",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004TDZXq3g6SaJ.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002zLUlg0yZibZ",
+          "title": "Para Qué Sufrir",
+          "artist": "Natalia Lafourcade",
+          "album": "Hasta la Raíz (Edición Especial)",
+          "durationMs": 226000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004TDZXq3g6SaJ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "001ALcD31hXCps",
+          "title": "ハーフムーン・セレナーデ",
+          "artist": "河合奈保子",
+          "album": "ハーフムーン･セレナーデ",
+          "durationMs": 330000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004UHOv60OlzcB.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9798193002",
       "name": "26.10.25",
