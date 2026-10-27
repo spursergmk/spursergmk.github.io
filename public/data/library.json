@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-27T06:13:57.047Z",
+  "lastSyncedAt": "2026-10-27T13:09:22.126Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,73 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 83,
-  "trackCount": 544,
+  "playlistCount": 84,
+  "trackCount": 549,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 111,
-  "excludedUndatedPlaylistCount": 28,
+  "sourcePlaylistCount": 113,
+  "excludedUndatedPlaylistCount": 29,
   "playlists": [
+    {
+      "id": "9799201434",
+      "name": "26.10.27",
+      "date": "2026-10-27",
+      "trackCount": 5,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9799201434",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000036aQPV1Kf96Y.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001aZgHA1324j0",
+          "title": "Fireworks",
+          "artist": "First Aid Kit",
+          "album": "Ruins",
+          "durationMs": 255000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000036aQPV1Kf96Y.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000HWJZj43SM3Q",
+          "title": "Broadway",
+          "artist": "Alison Krauss",
+          "album": "Now That I've Found You: A Collection",
+          "durationMs": 237000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000036jcd54V8oXw.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000K1nxo24WS8T",
+          "title": "最爱",
+          "artist": "柏原芳恵",
+          "album": "ゴールデン☆ベスト",
+          "durationMs": 286000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001HOQww1DWk02.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "0033UbaG2D9wl7",
+          "title": "Hey You",
+          "artist": "Pink Floyd",
+          "album": "The Wall",
+          "durationMs": 278000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003cZ5Gx2dC0OO.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "001LxfmJ43Mznc",
+          "title": "No Me Importa el Dinero(feat. Julieta Venegas)(Vivo)",
+          "artist": "Los Autenticos Decadentes, Julieta Venegas, Jorge Serrano",
+          "album": "No Me Importa el Dinero (Vivo) - Single",
+          "durationMs": 234000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000019WeoV45I42Q.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9798719313",
       "name": "26.10.26",
