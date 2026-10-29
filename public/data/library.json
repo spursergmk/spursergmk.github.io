@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-29T07:00:30.416Z",
+  "lastSyncedAt": "2026-10-29T14:13:06.804Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,53 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 84,
-  "trackCount": 549,
+  "playlistCount": 85,
+  "trackCount": 552,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 113,
+  "sourcePlaylistCount": 114,
   "excludedUndatedPlaylistCount": 29,
   "playlists": [
+    {
+      "id": "9800055287",
+      "name": "26.10.29",
+      "date": "2026-10-29",
+      "trackCount": 3,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9800055287",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001agCmT1R0tWK.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001WZmJw2t69fG",
+          "title": "ひとり旅",
+          "artist": "佐良直美",
+          "album": "ゴールデンベスト 忘れ得ぬ名唱・佐良 直美",
+          "durationMs": 195000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001agCmT1R0tWK.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000yCTcp3gzn77",
+          "title": "Limón y Sal",
+          "artist": "Julieta Venegas",
+          "album": "Realmente Lo Mejor",
+          "durationMs": 206000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001yN79f3GNS6Q.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "001f9F2g3hNMvm",
+          "title": "Snow(Hey Oh)",
+          "artist": "Red Hot Chili Peppers",
+          "album": "Stadium Arcadium",
+          "durationMs": 334000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002X1bxx2E9tyf.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9799201434",
       "name": "26.10.27",
