@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-10-31T22:26:15.558Z",
+  "lastSyncedAt": "2026-11-01T07:28:33.164Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,103 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 85,
-  "trackCount": 552,
+  "playlistCount": 86,
+  "trackCount": 560,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 113,
+  "sourcePlaylistCount": 114,
   "excludedUndatedPlaylistCount": 28,
   "playlists": [
+    {
+      "id": "9801478430",
+      "name": "26.11.1",
+      "date": "2026-11-01",
+      "trackCount": 8,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9801478430",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Gu90m4HCSdm.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0041GDo80BpUTu",
+          "title": "When You Say Nothing At All",
+          "artist": "Alison Krauss",
+          "album": "Alison Krauss & Union Station Live",
+          "durationMs": 261000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Gu90m4HCSdm.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "003E9HxA3Z3K1w",
+          "title": "The Lights Of Albuquerque",
+          "artist": "Jim Glaser",
+          "album": "Man in the Mirror",
+          "durationMs": 265000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003juage2rj54A.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "001rXTGq0VJ8Ss",
+          "title": "Best Days",
+          "artist": "Blur",
+          "album": "The Great Escape (Special Edition)",
+          "durationMs": 289000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000zWSvj0ysqOV.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "0014JPP91aXI9R",
+          "title": "Heart of Gold",
+          "artist": "Neil Young",
+          "album": "Harvest",
+          "durationMs": 187000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004LiqyS1lYvuq.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "004gDzlF3wMcrl",
+          "title": "それはスポットライトではない",
+          "artist": "浅川マキ",
+          "album": "灯ともし頃",
+          "durationMs": 404000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002vl7Vb49bds2.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "003YZMcm1idEYx",
+          "title": "We're Not Supposed to Be Lovers",
+          "artist": "Adam Green",
+          "album": "Friends of Mine",
+          "durationMs": 188000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001yx7Uk4bbVVm.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 7,
+          "id": "003xa6934Y2oWz",
+          "title": "マイ・ホーム・タウン",
+          "artist": "Humbert Humbert",
+          "album": "愛のひみつ",
+          "durationMs": 197000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004K2ZF901dOLQ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 8,
+          "id": "000reakG3g6eHF",
+          "title": "ゆらぎの月",
+          "artist": "工藤静香",
+          "album": "My Heartful Best～松井五郎コレクション～",
+          "durationMs": 286000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003rJO1b3JK2Q5.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9800055287",
       "name": "26.10.29",
