@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-11-01T07:28:33.164Z",
+  "lastSyncedAt": "2026-11-01T18:24:34.960Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -17,7 +17,7 @@
   },
   "directoryStatus": "verified",
   "playlistCount": 86,
-  "trackCount": 560,
+  "trackCount": 563,
   "unparsedDateCount": 0,
   "sourcePlaylistCount": 114,
   "excludedUndatedPlaylistCount": 28,
@@ -26,13 +26,43 @@
       "id": "9801478430",
       "name": "26.11.1",
       "date": "2026-11-01",
-      "trackCount": 8,
+      "trackCount": 11,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9801478430",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002Gu90m4HCSdm.jpg?n=1",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000045KDEv1BUm96.jpg?n=1",
       "creator": "spurser",
       "tracks": [
         {
           "index": 1,
+          "id": "002C8qKZ0QUEND",
+          "title": "Summer Kisses, Winter Tears",
+          "artist": "Elvis Presley",
+          "album": "Elvis for Everyone!",
+          "durationMs": 140000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000045KDEv1BUm96.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002pr2qf2Lgaid",
+          "title": "La Isla Bonita",
+          "artist": "Madonna",
+          "album": "True Blue",
+          "durationMs": 244000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000eE8Xo4Ib160.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002VI0723WgtRS",
+          "title": "I Dug Up A Diamond",
+          "artist": "Mark Knopfler, Emmylou Harris",
+          "album": "All The Roadrunning",
+          "durationMs": 215000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001tBGIL0GixsL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
           "id": "0041GDo80BpUTu",
           "title": "When You Say Nothing At All",
           "artist": "Alison Krauss",
@@ -42,7 +72,7 @@
           "isAvailable": true
         },
         {
-          "index": 2,
+          "index": 5,
           "id": "003E9HxA3Z3K1w",
           "title": "The Lights Of Albuquerque",
           "artist": "Jim Glaser",
@@ -52,7 +82,7 @@
           "isAvailable": true
         },
         {
-          "index": 3,
+          "index": 6,
           "id": "001rXTGq0VJ8Ss",
           "title": "Best Days",
           "artist": "Blur",
@@ -62,7 +92,7 @@
           "isAvailable": true
         },
         {
-          "index": 4,
+          "index": 7,
           "id": "0014JPP91aXI9R",
           "title": "Heart of Gold",
           "artist": "Neil Young",
@@ -72,7 +102,7 @@
           "isAvailable": true
         },
         {
-          "index": 5,
+          "index": 8,
           "id": "004gDzlF3wMcrl",
           "title": "それはスポットライトではない",
           "artist": "浅川マキ",
@@ -82,7 +112,7 @@
           "isAvailable": true
         },
         {
-          "index": 6,
+          "index": 9,
           "id": "003YZMcm1idEYx",
           "title": "We're Not Supposed to Be Lovers",
           "artist": "Adam Green",
@@ -92,7 +122,7 @@
           "isAvailable": true
         },
         {
-          "index": 7,
+          "index": 10,
           "id": "003xa6934Y2oWz",
           "title": "マイ・ホーム・タウン",
           "artist": "Humbert Humbert",
@@ -102,7 +132,7 @@
           "isAvailable": true
         },
         {
-          "index": 8,
+          "index": 11,
           "id": "000reakG3g6eHF",
           "title": "ゆらぎの月",
           "artist": "工藤静香",
