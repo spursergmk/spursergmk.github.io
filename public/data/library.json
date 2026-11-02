@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-11-02T07:38:19.214Z",
+  "lastSyncedAt": "2026-11-02T22:17:58.801Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -17,22 +17,52 @@
   },
   "directoryStatus": "verified",
   "playlistCount": 87,
-  "trackCount": 566,
+  "trackCount": 569,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 115,
-  "excludedUndatedPlaylistCount": 28,
+  "sourcePlaylistCount": 116,
+  "excludedUndatedPlaylistCount": 29,
   "playlists": [
     {
       "id": "9802054974",
       "name": "26.11.2",
       "date": "2026-11-02",
-      "trackCount": 3,
+      "trackCount": 6,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9802054974",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000enmzS02Htff.jpg?n=1",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000SQPi93ZmHvr.jpg?n=1",
       "creator": "spurser",
       "tracks": [
         {
           "index": 1,
+          "id": "0011d1ry0DhKGR",
+          "title": "銀の龍の背に乗って",
+          "artist": "中岛美雪",
+          "album": "恋文",
+          "durationMs": 376000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000SQPi93ZmHvr.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000IgB5W3xWx28",
+          "title": "愛はゆっくりやってくる -SLOW LOVE-",
+          "artist": "当山ひとみ",
+          "album": "SEXY ROBOT (2021 Remaster)",
+          "durationMs": 279000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001nYZjY2jqjCq.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000QRV2n1bIxcN",
+          "title": "恋の嵐",
+          "artist": "竹内まりや",
+          "album": "REQUEST (30th Anniversary Edition)",
+          "durationMs": 277000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003dqGbI0OZ5ZU.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
           "id": "002HB6E50Xm8ql",
           "title": "Can't Help Falling in Love",
           "artist": "Elvis Presley",
@@ -42,7 +72,7 @@
           "isAvailable": true
         },
         {
-          "index": 2,
+          "index": 5,
           "id": "001E4dmn2tpqMS",
           "title": "Rollin' On",
           "artist": "Mark Knopfler, Emmylou Harris",
@@ -52,7 +82,7 @@
           "isAvailable": true
         },
         {
-          "index": 3,
+          "index": 6,
           "id": "0012Uhsr0cYcoG",
           "title": "Time of Ur Life",
           "artist": "Prince",
