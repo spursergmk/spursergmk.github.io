@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-11-01T22:46:18.636Z",
+  "lastSyncedAt": "2026-11-02T07:38:19.214Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,53 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 86,
-  "trackCount": 563,
+  "playlistCount": 87,
+  "trackCount": 566,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 114,
+  "sourcePlaylistCount": 115,
   "excludedUndatedPlaylistCount": 28,
   "playlists": [
+    {
+      "id": "9802054974",
+      "name": "26.11.2",
+      "date": "2026-11-02",
+      "trackCount": 3,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9802054974",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000enmzS02Htff.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002HB6E50Xm8ql",
+          "title": "Can't Help Falling in Love",
+          "artist": "Elvis Presley",
+          "album": "Blue Hawaii",
+          "durationMs": 185000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000enmzS02Htff.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "001E4dmn2tpqMS",
+          "title": "Rollin' On",
+          "artist": "Mark Knopfler, Emmylou Harris",
+          "album": "All The Roadrunning",
+          "durationMs": 252000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001tBGIL0GixsL.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "0012Uhsr0cYcoG",
+          "title": "Time of Ur Life",
+          "artist": "Prince",
+          "album": "Time of Ur Life",
+          "durationMs": 283000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000040SIep4ReEn7.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9801478430",
       "name": "26.11.1",
