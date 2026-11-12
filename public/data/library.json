@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-11-12T08:14:53.285Z",
+  "lastSyncedAt": "2026-11-12T20:46:49.117Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,33 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 87,
-  "trackCount": 569,
+  "playlistCount": 88,
+  "trackCount": 570,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 116,
+  "sourcePlaylistCount": 117,
   "excludedUndatedPlaylistCount": 29,
   "playlists": [
+    {
+      "id": "9806992564",
+      "name": "26.11.12",
+      "date": "2026-11-12",
+      "trackCount": 1,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9806992564",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003h24VO1pTh6K.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "00255MYE3GNkZF",
+          "title": "Hong Kong (feat. 王菲季候风)",
+          "artist": "The Weeknd",
+          "album": "Hong Kong (feat. 王菲季候风)",
+          "durationMs": 216000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003h24VO1pTh6K.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9802054974",
       "name": "26.11.2",
