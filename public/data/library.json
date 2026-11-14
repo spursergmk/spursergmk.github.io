@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-11-14T07:34:48.040Z",
+  "lastSyncedAt": "2026-11-14T18:43:35.667Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,63 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 88,
-  "trackCount": 570,
+  "playlistCount": 89,
+  "trackCount": 574,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 117,
+  "sourcePlaylistCount": 118,
   "excludedUndatedPlaylistCount": 29,
   "playlists": [
+    {
+      "id": "9807942803",
+      "name": "26.11.14",
+      "date": "2026-11-14",
+      "trackCount": 4,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9807942803",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003ROVwj4PqLPa.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "001yZ7Tf0kudte",
+          "title": "爱，很简单",
+          "artist": "陶喆",
+          "album": "陶喆同名专辑",
+          "durationMs": 269000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003ROVwj4PqLPa.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "0011nEwm2XPayS",
+          "title": "红豆",
+          "artist": "王菲",
+          "album": "唱游",
+          "durationMs": 256000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001gn7g54ZEIKb.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "003kPpYn1oQY4r",
+          "title": "God Only Knows",
+          "artist": "The Beach Boys",
+          "album": "Pet Sounds (1996 Digital Remaster)",
+          "durationMs": 172000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000XnoAZ17PkHX.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "0022vAAp0ukERK",
+          "title": "Here, There And Everywhere",
+          "artist": "The Beatles",
+          "album": "Revolver (Remastered)",
+          "durationMs": 144000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003dfoFt3qUxaL.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9806992564",
       "name": "26.11.12",
