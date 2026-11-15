@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-11-14T22:56:31.159Z",
+  "lastSyncedAt": "2026-11-15T07:48:44.425Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,83 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 89,
-  "trackCount": 574,
+  "playlistCount": 90,
+  "trackCount": 580,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 118,
+  "sourcePlaylistCount": 119,
   "excludedUndatedPlaylistCount": 29,
   "playlists": [
+    {
+      "id": "9808205945",
+      "name": "26.11.15",
+      "date": "2026-11-15",
+      "trackCount": 6,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9808205945",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000ZUSHE3Pvl9J.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "003aEEQD1P6t8t",
+          "title": "Wonderwall",
+          "artist": "Oasis",
+          "album": "Rock: The Train Kept A Rollin' (Explicit)",
+          "durationMs": 258000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000ZUSHE3Pvl9J.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "001MgDYd1hfoEh",
+          "title": "No Surprises",
+          "artist": "Radiohead",
+          "album": "OK Computer",
+          "durationMs": 229000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000rYMQ21IgaIR.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "002GY1Ql4FqQZp",
+          "title": "The Wild Ones",
+          "artist": "Suede",
+          "album": "The Wild Ones",
+          "durationMs": 293000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000034UKPn2EBIKS.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "003WOiix4R4Qfn",
+          "title": "Beautiful Ones",
+          "artist": "Suede",
+          "album": "Beautiful Ones",
+          "durationMs": 230000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002YlPRC2OZTP9.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "004MeFZB2JK4C9",
+          "title": "冬の地下道",
+          "artist": "佐井好子",
+          "album": "萬花鏡",
+          "durationMs": 327000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003O1x5S1hweW3.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "003I8hke0vjoR4",
+          "title": "夜の精",
+          "artist": "佐井好子",
+          "album": "萬花鏡",
+          "durationMs": 271000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003O1x5S1hweW3.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9807942803",
       "name": "26.11.14",
