@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-11-17T21:44:12.099Z",
+  "lastSyncedAt": "2026-11-18T08:30:10.529Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,43 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 90,
-  "trackCount": 580,
+  "playlistCount": 91,
+  "trackCount": 582,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 119,
+  "sourcePlaylistCount": 120,
   "excludedUndatedPlaylistCount": 29,
   "playlists": [
+    {
+      "id": "9809650344",
+      "name": "26.11.18",
+      "date": "2026-11-18",
+      "trackCount": 2,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9809650344",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000020Oz5o14DGgu.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "004304w74RwHTO",
+          "title": "Lonesome Town",
+          "artist": "Ricky Nelson",
+          "album": "Pulp Fiction (Original Soundtrack)",
+          "durationMs": 134000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M0000020Oz5o14DGgu.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000P8E3n3dT9hE",
+          "title": "Waitin' On A Sunny Day",
+          "artist": "Bruce Springsteen",
+          "album": "The Rising (Special Package)",
+          "durationMs": 256000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003XIQe84LfyTC.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9808205945",
       "name": "26.11.15",
