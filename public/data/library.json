@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-11-19T08:43:31.744Z",
+  "lastSyncedAt": "2026-11-19T21:27:21.355Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,83 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 91,
-  "trackCount": 582,
+  "playlistCount": 92,
+  "trackCount": 588,
   "unparsedDateCount": 0,
   "sourcePlaylistCount": 121,
-  "excludedUndatedPlaylistCount": 30,
+  "excludedUndatedPlaylistCount": 29,
   "playlists": [
+    {
+      "id": "9810083045",
+      "name": "26.11.19",
+      "date": "2026-11-19",
+      "trackCount": 6,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9810083045",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001AzaRi2EYIqj.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "002p54WP3lBxfz",
+          "title": "爱される花爱されぬ花",
+          "artist": "中岛美雪",
+          "album": "日韩经典三",
+          "durationMs": 239000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000001AzaRi2EYIqj.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "000VkHCh39KA3E",
+          "title": "夜曲",
+          "artist": "中岛美雪",
+          "album": "臨月",
+          "durationMs": 411000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004c5Tcz4NuaVF.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
+          "id": "000qg0AZ43fyHk",
+          "title": "旅人のうた",
+          "artist": "中岛美雪",
+          "album": "Singles 2000",
+          "durationMs": 347000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004ZdtQh2L1pap.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 4,
+          "id": "000Tys832L99lh",
+          "title": "孤独の肖像 1st.",
+          "artist": "中岛美雪",
+          "album": "時代-Time goes around-",
+          "durationMs": 401000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003UE1iu2yqFIe.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 5,
+          "id": "000WrLZB2J6LDr",
+          "title": "幸せ",
+          "artist": "中岛美雪",
+          "album": "Singles 2000",
+          "durationMs": 326000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000004ZdtQh2L1pap.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 6,
+          "id": "000OxS7p47EXJq",
+          "title": "竹の歌",
+          "artist": "中岛美雪",
+          "album": "日-WINGS",
+          "durationMs": 353000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000003ojQT443eHhA.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9809650344",
       "name": "26.11.18",
