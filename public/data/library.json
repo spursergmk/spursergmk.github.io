@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-11-18T21:22:49.083Z",
+  "lastSyncedAt": "2026-11-19T08:43:31.744Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -19,8 +19,8 @@
   "playlistCount": 91,
   "trackCount": 582,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 120,
-  "excludedUndatedPlaylistCount": 29,
+  "sourcePlaylistCount": 121,
+  "excludedUndatedPlaylistCount": 30,
   "playlists": [
     {
       "id": "9809650344",
