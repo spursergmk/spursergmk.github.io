@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-11-19T21:27:21.355Z",
+  "lastSyncedAt": "2026-11-20T08:28:46.792Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,33 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 92,
-  "trackCount": 588,
+  "playlistCount": 93,
+  "trackCount": 589,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 121,
+  "sourcePlaylistCount": 122,
   "excludedUndatedPlaylistCount": 29,
   "playlists": [
+    {
+      "id": "9810447955",
+      "name": "26.11.20",
+      "date": "2026-11-20",
+      "trackCount": 1,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9810447955",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000WyzTk3e4tB3.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0003dfO53vMrDF",
+          "title": "わかれうた",
+          "artist": "中岛美雪",
+          "album": "愛していると云ってくれ",
+          "durationMs": 243000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000WyzTk3e4tB3.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9810083045",
       "name": "26.11.19",
