@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-11-20T08:28:46.792Z",
+  "lastSyncedAt": "2026-11-20T21:02:12.259Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -17,7 +17,7 @@
   },
   "directoryStatus": "verified",
   "playlistCount": 93,
-  "trackCount": 589,
+  "trackCount": 591,
   "unparsedDateCount": 0,
   "sourcePlaylistCount": 122,
   "excludedUndatedPlaylistCount": 29,
@@ -26,13 +26,33 @@
       "id": "9810447955",
       "name": "26.11.20",
       "date": "2026-11-20",
-      "trackCount": 1,
+      "trackCount": 3,
       "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9810447955",
-      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000WyzTk3e4tB3.jpg?n=1",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000j1kxf48j3OQ.jpg?n=1",
       "creator": "spurser",
       "tracks": [
         {
           "index": 1,
+          "id": "003X5qT128AZGY",
+          "title": "時代",
+          "artist": "中岛美雪",
+          "album": "私の声が聞こえますか",
+          "durationMs": 256000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000j1kxf48j3OQ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 2,
+          "id": "002I2GDB0MiaQg",
+          "title": "心月 (つき)",
+          "artist": "中岛美雪",
+          "album": "世界が違って見える日",
+          "durationMs": 310000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000002qTdh92Oc0UJ.jpg",
+          "isAvailable": true
+        },
+        {
+          "index": 3,
           "id": "0003dfO53vMrDF",
           "title": "わかれうた",
           "artist": "中岛美雪",
