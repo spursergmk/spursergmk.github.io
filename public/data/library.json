@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "status": "success",
-  "lastSyncedAt": "2026-11-26T22:16:20.706Z",
+  "lastSyncedAt": "2026-11-27T09:38:48.513Z",
   "source": {
     "provider": "PlaylistOut Public API",
     "profileUrl": "https://c6.y.qq.com/base/fcgi-bin/u?__=fEuCQJiX90v6",
@@ -16,12 +16,33 @@
     "provenance": "owner-provided, fetched by PlaylistOut API"
   },
   "directoryStatus": "verified",
-  "playlistCount": 93,
-  "trackCount": 591,
+  "playlistCount": 94,
+  "trackCount": 592,
   "unparsedDateCount": 0,
-  "sourcePlaylistCount": 122,
+  "sourcePlaylistCount": 123,
   "excludedUndatedPlaylistCount": 29,
   "playlists": [
+    {
+      "id": "9813603387",
+      "name": "26.11.27",
+      "date": "2026-11-27",
+      "trackCount": 1,
+      "sourceUrl": "https://y.qq.com/n/ryqq/playlist/9813603387",
+      "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000UFTK42lPIkT.jpg?n=1",
+      "creator": "spurser",
+      "tracks": [
+        {
+          "index": 1,
+          "id": "0029k6Ln3jMu45",
+          "title": "VILAIN PETIT CANARD*",
+          "artist": "Cumulus., BLOU FEET",
+          "album": "*NOTES2CŒUR!",
+          "durationMs": 206000,
+          "coverUrl": "https://y.gtimg.cn/music/photo_new/T002R300x300M000000UFTK42lPIkT.jpg",
+          "isAvailable": true
+        }
+      ]
+    },
     {
       "id": "9810447955",
       "name": "26.11.20",
